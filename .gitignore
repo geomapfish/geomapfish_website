@@ -1,0 +1,8 @@
+/Include
+/Lib
+/Scripts
+/Bin
+/output
+/tcl
+*.pyc
+pip-selfcheck.json

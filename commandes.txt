@@ -1,0 +1,8 @@
+Serveur local:
+
+..\Scripts\python -m pelican.server
+
+Build:
+
+Scripts\pelican.exe content -t themes
+
