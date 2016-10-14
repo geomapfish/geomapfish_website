@@ -5,4 +5,5 @@ Serveur local:
 Build:
 
 Scripts\pelican.exe content -t themes
+Scripts\pelican.exe content -t themes -s publishconf.py
 

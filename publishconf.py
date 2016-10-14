@@ -10,11 +10,40 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = ''
+SITEURL = 'http://sitn.ne.ch/web/gmf'
 RELATIVE_URLS = False
+
+AUTHOR = u'Geomapfish user community'
+SITENAME = u'Geomapfish'
+
+GITHUB_URL = 'http://github.com/camptocamp/c2cgeoportal'
+
+PATH = 'content'
+
+TIMEZONE = 'Europe/Paris'
+
+DEFAULT_LANG = u'en'
+
+PAGE_ORDER_BY = 'basename'
+
+STATIC_PATHS = ['images']
+
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['i18n_subsites']
+
+I18N_SUBSITES = {
+    'fr': {
+        #'SITENAME': 'Hezkej coucou',
+     },
+     'de':{}
+}
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+
+SOCIAL = (('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish'),)
+
+DEFAULT_PAGINATION = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
