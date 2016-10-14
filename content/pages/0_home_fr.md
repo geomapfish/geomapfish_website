@@ -2,6 +2,7 @@ Title: GeoMapFish
 Date: 2016-10-14
 Modified: 2016-10-14
 save_as: index.html
+url: index.html
 slug: index
 lang: fr
 Authors: Michael Kalbermatten
