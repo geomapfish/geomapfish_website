@@ -1,11 +1,11 @@
-Title: Gallerie
+Title: Galerie
 Date: 2016-10-14
 Modified: 2016-10-17
 slug: gallery
 lang: fr
 Authors: Michael Kalbermatten, Rémi Bovard
 
-Gallery
+Galerie
 
 # Demo
 
