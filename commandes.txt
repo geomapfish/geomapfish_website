@@ -1,9 +1,0 @@
-Serveur local:
-
-..\Scripts\python -m pelican.server
-
-Build:
-
-Scripts\pelican.exe content -t themes
-Scripts\pelican.exe content -t themes -s publishconf.py
-
