@@ -1,6 +1,6 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2016-10-14
+Modified: 2016-11-06
 save_as: index.html
 url: index.html
 slug: index
@@ -23,3 +23,11 @@ GeoMapFish combines some of the best Open Source tools in one application:
 * V2: [OpenLayers 3](http://openlayers.org), [AngularJS](https://angularjs.org/) and [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/index.html) on the client side
 * Python modules (especially Papyrus based on [Pyramid](http://www.pylonsproject.org/)) on the server side
 * [MapFish Print](http://mapfish.github.io/mapfish-print-doc/#/overview), a Java servlet dedicated to print geographic documents
+
+## Documentation and support
+
+Read the documentation:
+
+* The server part of GeoMapFish is [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal).
+* The client part of GeoMapFish 2.x is an Angular library called [ngeo](https://github.com/camptocamp/ngeo).
+* The client part of GeoMapFish 1.x is an ExtJS librarx called [CGXP](https://github.com/camptocamp/cgxp).

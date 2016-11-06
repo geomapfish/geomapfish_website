@@ -1,21 +1,19 @@
 Title: Gallery
 Date: 2016-10-14
-Modified: 2016-10-17
+Modified: 2016-11-06
 slug: gallery
 lang: en
 Authors: Michael Kalbermatten, Rémi Bovard
 
-Gallery
-
 # Demo
 
 * GMF 1.6
-    * Desktop:
-    * Mobile:
+    * [Desktop](https://geomapfish-demo.camptocamp.net/1.6)
+    * [Mobile](https://geomapfish-demo.camptocamp.net/1.6/mobile)
 
 * GMF 2.1
-    * Desktop:
-    * Mobile:
+    * [Desktop](https://geomapfish-demo.camptocamp.net/2.1)
+    * [Mobile](https://geomapfish-demo.camptocamp.net/2.1/mobile)
 
 # References
 
