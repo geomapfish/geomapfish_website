@@ -31,18 +31,6 @@ STATIC_PATHS = ['images']
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites']
 
-I18N_SUBSITES = {
-    'fr': {
-        #'SITENAME': 'Hezkej coucou',
-     },
-     'de':{}
-}
-
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-
-SOCIAL = (('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish'),)
-
 DEFAULT_PAGINATION = False
 
 DELETE_OUTPUT_DIRECTORY = True
