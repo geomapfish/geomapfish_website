@@ -18,20 +18,26 @@ On Windows, you should:
 * Fork this GitHub repositroy
 * Initialize your local repository with your GitHub fork:
 
-    git init
-    git remote add origin https://github.com/your_username/geomapfish_website.git
-    git fetch origin
-    git merge origin/master
-    git submodule update --init
+```
+git init
+git remote add origin https://github.com/your_username/geomapfish_website.git
+git fetch origin
+git merge origin/master
+git submodule update --init
+```
 
 * Install a virtual environnement and Pelican:
 
-    virtualenv .
-    Scripts\pip install Pelican==3.6.3
+```
+virtualenv .
+Scripts\pip install Pelican==3.6.3
+```
 
 * Create an output folder:
 
-    mkdir output
+```
+mkdir output
+```
 
 You are now ready the create and modify some content !
 
@@ -42,8 +48,8 @@ You are now ready the create and modify some content !
 Either use the batch file `run_server.bat` or open a command and:
 
 ```
-    cd output
-    ..\Scripts\python -m pelican.server
+cd output
+..\Scripts\python -m pelican.server
 ```
 
 You can then call http://localhost:8000/ to see your local website.
@@ -53,7 +59,9 @@ You can then call http://localhost:8000/ to see your local website.
 Once you have written some content, you can regenerate your output HTML
 file using following command:
 
+```
 Scripts\pelican.exe content -t themes
+```
 
 ## Write some content
 
@@ -62,7 +70,6 @@ as the should appear in the menu.
 
 Pages name starting with `99_` are these which are hidden. Moreover they
 should contain `status: hidden` in their metadata.
-
 
 Refer the Pelican documentation for syntax help and templating issues.
 
