@@ -22,9 +22,7 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites']
 
 I18N_SUBSITES = {
-    'fr': {
-        #'SITENAME': 'Hezkej coucou',
-     },
+    'fr': {},
      'de':{}
 }
 
@@ -42,7 +40,10 @@ AUTHOR_FEED_RSS = None
 #         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish'),)
+SOCIAL = (
+    ('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish'),
+    ('Twitter', 'https://twitter.com/GeoMapFish')
+    )
 
 DEFAULT_PAGINATION = False
 

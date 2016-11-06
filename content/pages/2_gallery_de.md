@@ -1,23 +1,21 @@
 Title: Galerie
 Date: 2016-10-14
-Modified: 2016-10-17
+Modified: 2016-11-06
 slug: gallery
 lang: de
 Authors: Michael Kalbermatten, Rémi Bovard
 
-Gallery
-
 # Demo
 
 * GMF 1.6
-    * Desktop:
-    * Mobile:
+    * [Desktop](https://geomapfish-demo.camptocamp.net/1.6)
+    * [Mobile](https://geomapfish-demo.camptocamp.net/1.6/mobile)
 
 * GMF 2.1
-    * Desktop:
-    * Mobile:
+    * [Desktop](https://geomapfish-demo.camptocamp.net/2.1)
+    * [Mobile](https://geomapfish-demo.camptocamp.net/2.1/mobile)
 
-# References
+# Referenzen
 
 * [Portail Cartographique de l'Agglomération du Pays Châtelleraudais](https://carto.agglo-chatellerault.fr)
 * [Aprona, l'observatoire de la nappe d'Alsace](http://carto.aprona.net/)
