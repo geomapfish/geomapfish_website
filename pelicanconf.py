@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Geomapfish user community'
-SITENAME = u'Geomapfish'
+AUTHOR = u'GeoMapFish user community'
+SITENAME = u'GeoMapFish'
 SITEURL = ''
 
 GITHUB_URL = 'http://github.com/camptocamp/c2cgeoportal'
@@ -23,7 +23,7 @@ PLUGINS = ['i18n_subsites']
 
 I18N_SUBSITES = {
     'fr': {},
-     'de':{}
+    'de': {}
 }
 
 # Feed generation is usually not desired when developing
@@ -43,7 +43,7 @@ AUTHOR_FEED_RSS = None
 SOCIAL = (
     ('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish'),
     ('Twitter', 'https://twitter.com/GeoMapFish')
-    )
+)
 
 DEFAULT_PAGINATION = False
 

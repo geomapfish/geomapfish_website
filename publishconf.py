@@ -13,8 +13,8 @@ from pelicanconf import *
 SITEURL = 'http://sitn.ne.ch/web/gmf'
 RELATIVE_URLS = False
 
-AUTHOR = u'Geomapfish user community'
-SITENAME = u'Geomapfish'
+AUTHOR = u'GeoMapFish user community'
+SITENAME = u'GeoMapFish'
 
 GITHUB_URL = 'http://github.com/camptocamp/c2cgeoportal'
 
