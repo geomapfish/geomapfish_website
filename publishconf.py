@@ -10,7 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://sitn.ne.ch/web/gmf'
+#SITEURL = 'http://sitn.ne.ch/web/gmf'
+SITEURL = 'https://map.nyon.ch/sitnyon/gmf'
 RELATIVE_URLS = False
 
 AUTHOR = u'GeoMapFish user community'
