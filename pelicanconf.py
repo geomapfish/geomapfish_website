@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Geomapfish user community'
-SITENAME = u'Geomapfish'
+AUTHOR = u'GeoMapFish user community'
+SITENAME = u'GeoMapFish'
 SITEURL = ''
 
 GITHUB_URL = 'http://github.com/camptocamp/c2cgeoportal'
