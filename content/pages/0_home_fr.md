@@ -1,13 +1,13 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2016-11-06
+Modified: 2017-01-26
 save_as: index.html
 url: index.html
 slug: index
 lang: fr
 Authors: Michael Kalbermatten, Rémi Bovard
 
-Bienvenu sur le site web de la communauté GeoMapFish (GMF), merci de votre visite !
+Bienvenue sur le site web de la communauté GeoMapFish (GMF), merci de votre visite !
 
 Le framework GMF permet de construire des applications WebSIG de manière aisée et flexible.
 Il est composé d'une interface desktop, d'administration, d'une API pour une intégration
@@ -17,7 +17,7 @@ En plus des webservices aux standards OGC, un protocole MapFish est disponible. 
 est adapté pour une communication efficiente entre client et serveur. Sur cette base, des applications
 complexes et performantes peuvent être mises en place.
 
-GeoMapFish combine quelques-uns des meilleures outils OpenSource en une seule application:
+GeoMapFish combine quelques-uns des meilleurs outils OpenSource en une seule application:
 
 * Version 1: [OpenLayers 2](http://openlayers.org/two), [ExtJS](http://docs.sencha.com/extjs/3.4.0/) et [GeoExt](http://geoext.org/v1/) pour la partie cliente
 * Version 2: [OpenLayers 3](http://openlayers.org), [AngularJS](https://angularjs.org/) et [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/index.html) pour la partie cliente
@@ -26,7 +26,7 @@ GeoMapFish combine quelques-uns des meilleures outils OpenSource en une seule ap
 
 ## Documentation et support
 
-Les différents composant de GeoMapFish sont:
+Les différents composants de GeoMapFish sont:
 
 * La partie serveur de GeoMapFish est [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal) 
 * La partie cliente de GeoMapFish 2.x est une librairie AngularJS appelée [ngeo](https://github.com/camptocamp/ngeo)
