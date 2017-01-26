@@ -6,6 +6,9 @@ AUTHOR = u'GeoMapFish user community'
 SITENAME = u'GeoMapFish'
 SITEURL = ''
 
+SITELOGO = 'images/brand/logo.png'
+FAVICON = 'images/brand/favicon.ico'
+
 GITHUB_URL = 'http://github.com/camptocamp/c2cgeoportal'
 
 PATH = 'content'
@@ -22,9 +25,18 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites']
 
 I18N_SUBSITES = {
-    'fr': {},
-    'de': {}
+    'fr': {
+        'SITELOGO': '../images/brand/logo.png',
+        'FAVICON': '../images/brand/favicon.ico'
+    },
+    'de': {
+        'SITELOGO': '../images/brand/logo.png',
+        'FAVICON': '../images/brand/favicon.ico'
+    }
 }
+
+THEME = 'themes'
+JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -41,8 +53,9 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (
-    ('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish'),
-    ('Twitter', 'https://twitter.com/GeoMapFish')
+    ('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish', 'google-plus'),
+    ('Twitter', 'https://twitter.com/GeoMapFish'),
+    ('GitHub', GITHUB_URL)
 )
 
 DEFAULT_PAGINATION = False

@@ -10,28 +10,9 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://sitn.ne.ch/web/gmf'
+#SITEURL = 'http://sitn.ne.ch/web/gmf'
+SITEURL = 'https://map.nyon.ch/sitnyon/gmf'
 RELATIVE_URLS = False
-
-AUTHOR = u'GeoMapFish user community'
-SITENAME = u'GeoMapFish'
-
-GITHUB_URL = 'http://github.com/camptocamp/c2cgeoportal'
-
-PATH = 'content'
-
-TIMEZONE = 'Europe/Paris'
-
-DEFAULT_LANG = u'en'
-
-PAGE_ORDER_BY = 'basename'
-
-STATIC_PATHS = ['images']
-
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['i18n_subsites']
-
-DEFAULT_PAGINATION = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
