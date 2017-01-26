@@ -26,6 +26,7 @@ I18N_SUBSITES = {
     'de': {}
 }
 
+THEME = 'themes'
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 
 # Feed generation is usually not desired when developing
