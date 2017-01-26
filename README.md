@@ -61,7 +61,7 @@ Once you have written some content, you can regenerate your output HTML
 file using following command:
 
 ```
-Scripts\pelican.exe content
+Scripts\pelican content
 ```
 
 ## Write some content
@@ -105,5 +105,5 @@ this mechanism
 *To come... once we go into production...*
 
 ```
-Scripts\pelican.exe content -s publishconf.py
+Scripts\pelican content -s publishconf.py
 ```
