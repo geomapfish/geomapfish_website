@@ -6,6 +6,9 @@ AUTHOR = u'GeoMapFish user community'
 SITENAME = u'GeoMapFish'
 SITEURL = ''
 
+SITELOGO = 'images/brand/logo.png'
+FAVICON = 'images/brand/favicon.ico'
+
 GITHUB_URL = 'http://github.com/camptocamp/c2cgeoportal'
 
 PATH = 'content'
@@ -22,8 +25,14 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites']
 
 I18N_SUBSITES = {
-    'fr': {},
-    'de': {}
+    'fr': {
+        'SITELOGO': '../images/brand/logo.png',
+        'FAVICON': '../images/brand/favicon.ico'
+    },
+    'de': {
+        'SITELOGO': '../images/brand/logo.png',
+        'FAVICON': '../images/brand/favicon.ico'
+    }
 }
 
 THEME = 'themes'
