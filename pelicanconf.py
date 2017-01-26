@@ -53,8 +53,9 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (
-    ('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish'),
-    ('Twitter', 'https://twitter.com/GeoMapFish')
+    ('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish', 'google-plus'),
+    ('Twitter', 'https://twitter.com/GeoMapFish'),
+    ('GitHub', GITHUB_URL)
 )
 
 DEFAULT_PAGINATION = False
