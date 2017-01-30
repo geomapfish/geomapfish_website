@@ -1,6 +1,6 @@
 Title: Gallery
 Date: 2016-10-14
-Modified: 2017-01-26
+Modified: 2017-01-30
 slug: gallery
 lang: en
 Authors: Michael Kalbermatten, Rémi Bovard
@@ -36,5 +36,5 @@ Authors: Michael Kalbermatten, Rémi Bovard
 * [SITNyon Géoportail de la Ville de Nyon](https://map.nyon.ch/)
 * [RegioGIS Berner Oberland](http://map.regiogis-beo.ch/)
 * [webGIS Kanton Schwyz](https://map.geo.sz.ch/)
-* [Système d'Information Géographique Intercommunal de Pully, Paudex et Belmont](http://sigip.ch)
+* [Système d'Information Géographique Intercommunal de Pully et Belmont](http://www.sigip.ch/)
 * [Géoportail Nord vaudois - Yverdon-les-Bains](http://mapnv.ch/)
