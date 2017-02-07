@@ -1,7 +1,7 @@
 Title: Galerie
 Date: 2016-10-14
-Modified: 2017-01-30
-slug: gallery
+Modified: 2017-02-07
+slug: 2_gallery
 lang: de
 Authors: Michael Kalbermatten, Rémi Bovard
 

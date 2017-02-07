@@ -1,9 +1,10 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2017-01-26
+Modified: 2017-02-07
 save_as: index.html
 url: index.html
-slug: index
+slug: 0_index
+Menulabel: Accueil
 lang: fr
 Authors: Michael Kalbermatten, Rémi Bovard
 

@@ -1,7 +1,7 @@
 Title: Funktionalitäten
 Date: 2016-10-14
-Modified: 2016-10-14
-slug: functionalities
+Modified: 2017-02-07
+slug: 3_functionalities
 lang: de
 Authors: Michael Kalbermatten
 

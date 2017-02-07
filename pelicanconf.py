@@ -19,6 +19,8 @@ DEFAULT_LANG = u'en'
 
 PAGE_ORDER_BY = 'basename'
 
+PAGES_SORT_ATTRIBUTE = 'slug'
+
 STATIC_PATHS = ['images']
 
 PLUGIN_PATHS = ['pelican-plugins']
