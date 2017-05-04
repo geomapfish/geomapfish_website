@@ -1,6 +1,6 @@
 Title: Gallery
 Date: 2016-10-14
-Modified: 2017-01-30
+Modified: 2017-05-04
 slug: gallery
 lang: en
 Authors: Michael Kalbermatten, Rémi Bovard
@@ -26,7 +26,7 @@ Authors: Michael Kalbermatten, Rémi Bovard
 * [Géoportail cartographique de la Riviera](https://map.cartoriviera.ch/)
 * [Géoportail EPFL](http://geoportail.epfl.ch/)
 * [Gemetris SA](http://www.gemetris.ch/prestations#SIG)
-* [Graubünden Interaktive Karten](https://map.geo.gr.ch)
+* [Graubünden Interaktive Karten](http://map.geo.gr.ch)
 * [Géoportail du Système d'Information du Territoire Jurassien](https://geo.jura.ch/)
 * [GéoPlaNet, guichet cartographique cantonal de l'Etat de Vaud](http://www.geo.vd.ch)
 * [Association GeoCommunes](http://www.geocommunes.ch/)
