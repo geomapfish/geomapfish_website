@@ -7,7 +7,7 @@ slug: 0_index
 Menulabel: Home
 lang: en
 Authors: Michael Kalbermatten
-
+<br>
 Thank you for visiting, welcome on the GeoMapFish (GMF) community website!
 
 The GeoMapFish application allows to build rich and extensible WebGIS in an easy and flexible way.

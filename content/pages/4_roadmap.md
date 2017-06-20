@@ -6,6 +6,8 @@ url: roadmap
 save_as: roadmap.html
 lang: en
 Authors: Michael Kalbermatten
+<br>
+Latest page update: 2017-06-20
 
 Here under you will find the GMF roadmap and links to the functionnality
 changelog.

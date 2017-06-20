@@ -6,5 +6,5 @@ url: community
 save_as: community.html
 lang: fr
 Authors: Michael Kalbermatten
-
+<br>
 Communauté

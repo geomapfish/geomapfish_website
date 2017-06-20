@@ -7,7 +7,7 @@ slug: 0_index
 Menulabel: Startseite
 lang: de
 Authors: Michael Kalbermatten, Irene Vontobel
-
+<br>
 Willkommen auf der GeoMapFish (GMF) Community Webseite!
 
 Das GMF Framework erlaubt einen einfachen und flexiblen Aufbau von Web GIS Applikationen.

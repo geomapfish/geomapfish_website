@@ -7,7 +7,7 @@ slug: 0_index
 Menulabel: Accueil
 lang: fr
 Authors: Michael Kalbermatten, Rémi Bovard
-
+<br>
 Bienvenue sur le site web de la communauté GeoMapFish (GMF), merci de votre visite !
 
 Le framework GMF permet de construire des applications WebSIG de manière aisée et flexible.
