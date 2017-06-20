@@ -1,6 +1,6 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2017-02-07
+Modified: 2017-06-20
 save_as: index.html
 url: index.html
 slug: 0_index
