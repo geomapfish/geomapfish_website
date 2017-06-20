@@ -1,9 +1,10 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2016-11-06
+Modified: 2017-06-20
 save_as: index.html
 url: index.html
-slug: index
+slug: 0_index
+Menulabel: Home
 lang: en
 Authors: Michael Kalbermatten
 
