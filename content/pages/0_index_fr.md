@@ -1,6 +1,6 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2017-06-20
+Modified: 2017-06-21
 save_as: index.html
 url: index.html
 slug: 0_index
@@ -32,3 +32,6 @@ Les différents composants de GeoMapFish sont:
 * La partie serveur de GeoMapFish est [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal) 
 * La partie cliente de GeoMapFish 2.x est une librairie AngularJS appelée [ngeo](https://github.com/camptocamp/ngeo)
 * La partie cliente de GeoMapFish 1.x est une librairie ExtJS appelée [CGXP](https://github.com/camptocamp/cgxp)
+
+<br><br>
+![Example screenshot]({filename}/images/examples/demo22.png)

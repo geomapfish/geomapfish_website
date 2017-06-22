@@ -1,6 +1,6 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2017-06-20
+Modified: 2017-06-21
 save_as: index.html
 url: index.html
 slug: 0_index
@@ -32,3 +32,6 @@ Die verschiedene GMF Komponenten:
 * Die Server-Seite von GeoMapFish ist [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal).
 * Die Client-Seite von GeoMapFish 2.x ist eine Angular Library, die sich [ngeo](https://github.com/camptocamp/ngeo) nennt.
 * Die Client-Seite von GeoMapFish 1.x ist eine ExtJS Library, die sich [CGXP](https://github.com/camptocamp/cgxp) nennt.
+
+<br><br>
+![Example screenshot]({filename}/images/examples/demo22.png)
