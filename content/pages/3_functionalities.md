@@ -76,7 +76,7 @@ Authors: Michael Kalbermatten
 
 ## GeoMapFish administration
 
-### ![Functionalities description]({filename}/images/2_1_configuration.png)  User administration
+### ![Functionalities description]({filename}/images/2_1_configuration.png)  Data administration
 
 * Layer configuration
 * Group configuration

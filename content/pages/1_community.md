@@ -4,6 +4,7 @@ Modified: 2017-02-20
 slug: 1_community
 url: community
 save_as: community.html
+status: hidden
 lang: en
 Authors: Michael Kalbermatten
 <br>
