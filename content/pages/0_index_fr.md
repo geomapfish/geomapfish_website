@@ -7,7 +7,7 @@ slug: 0_index
 Menulabel: Accueil
 lang: fr
 Authors: Michael Kalbermatten, Rémi Bovard
-
+<br>
 Bienvenue sur le site web de la communauté GeoMapFish (GMF), merci de votre visite !
 
 Le framework GMF permet de construire des applications WebSIG de manière aisée et flexible.
@@ -22,7 +22,7 @@ GeoMapFish combine quelques-uns des meilleurs outils OpenSource en une seule app
 
 * Version 1: [OpenLayers 2](http://openlayers.org/two), [ExtJS](http://docs.sencha.com/extjs/3.4.0/) et [GeoExt](http://geoext.org/v1/) pour la partie cliente
 * Version 2: [OpenLayers 3](http://openlayers.org), [AngularJS](https://angularjs.org/) et [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/index.html) pour la partie cliente
-* Modules Python (spécialement ceux liés à [Pyramid](http://www.pylonsproject.org/)) pour la partie serveur
+* Modules Python (spécialement ceux liés à [Pyramid](https://trypyramid.com)) pour la partie serveur
 * [MapFish Print](http://mapfish.github.io/mapfish-print-doc/#/overview), un servlet Java dédié à l'impression de documents contenant de la cartographie.
 
 ## Documentation et support

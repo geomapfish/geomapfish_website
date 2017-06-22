@@ -6,5 +6,5 @@ url: community
 save_as: community.html
 lang: de
 Authors: Michael Kalbermatten
-
+<br>
 Beschreibung der Usergruppe...
