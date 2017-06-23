@@ -100,10 +100,9 @@ merge it and the update the website with your changes.
 ### Using the publication mechanism
 
 You will need to have push rights on both repositories to be able to use
-this mechanism
+this mechanism. Otherwise, we recommend that you do a proper pull request
+to this repository. We will more then happy to review and eventually merge
+your suggestions.
 
-*To come... once we go into production...*
-
-```
-Scripts\pelican content -s publishconf.py
-```
+If you have push rights on the geomapfish.github.io repository, then you
+use the `publish.bat` file (obviously only on Windows...).
