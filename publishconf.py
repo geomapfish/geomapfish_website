@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
@@ -10,11 +9,10 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-#SITEURL = 'http://sitn.ne.ch/web/gmf'
-SITEURL = 'https://map.nyon.ch/gmf'
+SITEURL = 'http://geomapfish.org'
 RELATIVE_URLS = False
 
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
