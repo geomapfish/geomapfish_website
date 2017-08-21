@@ -1,11 +1,11 @@
 Title: Roadmap & version
 Date: 2017-06-20
 Modified: 2017-06-21
-slug: 4_roadmap
-url: roadmap
-save_as: roadmap.html
-lang: fr
 Authors: Michael Kalbermatten
+URL: roadmap
+Save_as: roadmap.html
+Slug: 4_roadmap
+Lang: fr
 <br>
 Dernière mise à jour de la page: 21.06.2017
 

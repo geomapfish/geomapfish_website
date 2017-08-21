@@ -1,11 +1,11 @@
 Title: Gallery
 Date: 2016-10-14
 Modified: 2017-06-21
-slug: 2_gallery
-url: gallery
-save_as: gallery.html
-lang: en
 Authors: Michael Kalbermatten, Rémi Bovard
+URL: gallery
+Save_as: gallery.html
+Slug: 2_gallery
+Lang: en
 
 # Demo
 

@@ -1,12 +1,12 @@
 Title: GeoMapFish
 Date: 2016-10-14
 Modified: 2017-08-21
-save_as: index.html
-url: index.html
-slug: 0_index
-Menulabel: Accueil
-lang: fr
 Authors: Michael Kalbermatten, Rémi Bovard
+URL: index.html
+Save_as: index.html
+Slug: 0_index
+Lang: fr
+Menulabel: Accueil
 <br>
 Bienvenue sur le site web de la communauté GeoMapFish (GMF), merci de votre visite !
 

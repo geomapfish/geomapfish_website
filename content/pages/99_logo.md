@@ -1,11 +1,12 @@
 Title: Logo
 Date: 2017-08-21
 Modified: 2017-08-21
-status: hidden
-url: logo
-save_as: logo.html
-lang: en
 Authors: Rémi Bovard
+URL: logo
+Save_as: logo.html
+Slug: 99_logo
+Lang: en
+Status: hidden
 
 ## Images
 

@@ -1,12 +1,12 @@
 Title: GeoMapFish
 Date: 2016-10-14
 Modified: 2017-08-21
-save_as: index.html
-url: index.html
-slug: 0_index
-Menulabel: Startseite
-lang: de
 Authors: Michael Kalbermatten, Irene Vontobel, Rémi Bovard
+URL: index.html
+Save_as: index.html
+Slug: 0_index
+Lang: de
+Menulabel: Startseite
 <br>
 Willkommen auf der GeoMapFish (GMF) Community Webseite!
 
