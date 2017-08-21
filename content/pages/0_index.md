@@ -20,18 +20,18 @@ applications can be built.
 
 GeoMapFish combines some of the best Open Source tools in one application:
 
-* Version 1: [OpenLayers 2](http://openlayers.org/two), [ExtJS](http://docs.sencha.com/extjs/3.4.0/) and [GeoExt](http://geoext.org/v1/) on the client side
-* Version 2: [OpenLayers](http://openlayers.org), [AngularJS](https://angularjs.org/) and [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/index.html) on the client side
-* Python modules (especially Papyrus based on [Pyramid](https://trypyramid.com)) on the server side
-* [MapFish Print](http://mapfish.github.io/mapfish-print-doc/#/overview), a Java servlet dedicated to print geographic documents
+* Version 1: [OpenLayers 2](https://openlayers.org/two/), [ExtJS](https://docs.sencha.com/extjs/3.4.0/) and [GeoExt](http://geoext.org/v1/) on the client side
+* Version 2: [OpenLayers](https://openlayers.org/), [AngularJS](https://angularjs.org/) and [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/) on the client side
+* Python modules (especially Papyrus based on [Pyramid](https://trypyramid.com/)) on the server side
+* [MapFish Print](https://mapfish.github.io/mapfish-print-doc/), a Java servlet dedicated to print geographic documents
 
 ## Documentation and support
 
 Read the documentation:
 
-* The server part of GeoMapFish is [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal).
-* The client part of GeoMapFish 2.x is an Angular library called [ngeo](https://github.com/camptocamp/ngeo).
-* The client part of GeoMapFish 1.x is an ExtJS librarx called [CGXP](https://github.com/camptocamp/cgxp).
+* The server part of GeoMapFish is [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal/).
+* The client part of GeoMapFish 2.x is an Angular library called [ngeo](https://github.com/camptocamp/ngeo/).
+* The client part of GeoMapFish 1.x is an ExtJS librarx called [CGXP](https://github.com/camptocamp/cgxp/).
 
 <br><br>
 ![Example screenshot]({filename}/images/examples/demo22.png)
