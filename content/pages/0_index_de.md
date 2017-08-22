@@ -7,7 +7,7 @@ Save_as: index.html
 Slug: 0_index
 Lang: de
 Menulabel: Startseite
-<br>
+<br />
 Willkommen auf der GeoMapFish (GMF) Community Webseite!
 
 Das GMF Framework erlaubt einen einfachen und flexiblen Aufbau von Web GIS Applikationen.
@@ -33,5 +33,6 @@ Die verschiedene GMF Komponenten:
 * Die Client-Seite von GeoMapFish 2.x ist eine Angular Library, die sich [ngeo](https://github.com/camptocamp/ngeo/) nennt.
 * Die Client-Seite von GeoMapFish 1.x ist eine ExtJS Library, die sich [CGXP](https://github.com/camptocamp/cgxp/) nennt.
 
-<br><br>
+## Screenshot
+
 ![Example screenshot]({filename}/images/examples/demo22.png)

@@ -7,7 +7,7 @@ Save_as: index.html
 Slug: 0_index
 Lang: fr
 Menulabel: Accueil
-<br>
+<br />
 Bienvenue sur le site web de la communauté GeoMapFish (GMF), merci de votre visite !
 
 Le framework GMF permet de construire des applications WebSIG de manière aisée et flexible.
@@ -33,5 +33,6 @@ Les différents composants de GeoMapFish sont:
 * La partie cliente de GeoMapFish 2.x est une librairie AngularJS appelée [ngeo](https://github.com/camptocamp/ngeo/)
 * La partie cliente de GeoMapFish 1.x est une librairie ExtJS appelée [CGXP](https://github.com/camptocamp/cgxp/)
 
-<br><br>
+## Screenshot
+
 ![Example screenshot]({filename}/images/examples/demo22.png)

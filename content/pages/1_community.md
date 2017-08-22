@@ -7,5 +7,5 @@ Save_as: community.html
 Slug: 1_community
 Lang: en
 Status: hidden
-<br>
+<br />
 Community

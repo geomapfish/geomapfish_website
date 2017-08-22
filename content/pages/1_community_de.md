@@ -7,5 +7,5 @@ Save_as: community.html
 Slug: 1_community
 Lang: de
 Status: hidden
-<br>
+<br />
 Beschreibung der Usergruppe...

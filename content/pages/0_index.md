@@ -7,7 +7,7 @@ Save_as: index.html
 Slug: 0_index
 Lang: en
 Menulabel: Home
-<br>
+<br />
 Thank you for visiting, welcome on the GeoMapFish (GMF) community website!
 
 The GeoMapFish application allows to build rich and extensible WebGIS in an easy and flexible way.
@@ -33,5 +33,6 @@ Read the documentation:
 * The client part of GeoMapFish 2.x is an Angular library called [ngeo](https://github.com/camptocamp/ngeo/).
 * The client part of GeoMapFish 1.x is an ExtJS librarx called [CGXP](https://github.com/camptocamp/cgxp/).
 
-<br><br>
+## Screenshot
+
 ![Example screenshot]({filename}/images/examples/demo22.png)
