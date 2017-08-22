@@ -1,135 +1,72 @@
-Title: Roadmap & releases
+Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-06-21
-Authors: Michael Kalbermatten
+Modified: 2017-08-22
+Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
 Slug: 4_roadmap
 Lang: en
-<br>
-Latest page update: 2017-06-21
+<br />
+Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
-Here under you will find the GMF roadmap and links to the functionality
-changelog.
+*Latest page update: **2017-08-22***
 
 ## Version 2.4
 
-This is the next coming version. Functions defined here under are propositions
-made by community members. They still need proper approval by the PSC and
-the community.
+Next coming version:
 
-<table>
-<tr>
-<th style="padding: 0 15px 0 0;text-align: left;">Function n°</th>
-<th>Description</th>
-</tr>
-<tr>
-    <td>2.4.1</td>
-    <td>Mobile redlining (readonly)</td>
-</tr><tr>
-    <td>2.4.2</td>
-    <td>IFRAME API replacement</td>
-</tr><tr>
-    <td>2.4.3</td>
-    <td>Editing: column order</td>
-</tr><tr>
-    <td>2.4.4</td>
-    <td>Editing: readonly attributes</td>
-</tr><tr>
-    <td>2.4.5</td>
-    <td>Editing on tablet (touch)</td>
-</tr><tr>
-    <td>2.4.6</td>
-    <td>CSV export in Window</td>
-</tr><tr>
-    <td>2.4.7</td>
-    <td>Mass-edit of attributes (on multiple features)</td>
-</tr><tr>
-    <td>2.4.8</td>
-    <td>Disable geometry check "is simple" for a layer</td>
-</tr><tr>
-    <td>2.4.9</td>
-    <td>Restriction of the editing to the mapfiles DATA requests (WFS-T editing)</td>
-</tr><tr>
-    <td>2.4.10</td>
-    <td>3D</td>
-</tr><tr>
-    <td>2.4.11</td>
-    <td>editing copy-cut undo</td>
-</tr><tr>
-    <td>2.4.12</td>
-    <td>editing delete vertex menu</td>
-</tr>
-</table>
+* **Functionalities status:** Proposal *(need validation by PSC and community)*
+* **Development:** Waiting for validation
+* **Estimated release date:** TBD
 
+### Functionalities
+
+1. Mobile redlining (readonly)
+2. IFRAME API replacement
+3. Editing: column order
+4. Editing: readonly attributes
+5. Editing on tablet (touch)
+6. CSV export in Window
+7. Mass-edit of attributes (on multiple features)
+8. Disable geometry check "is simple" for a layer
+9. Restriction of the editing to the mapfiles DATA requests (WFS-T editing)
+10. 3D
+11. Editing: copy-cut undo
+12. Editing: delete vertex menu
 
 ## Version 2.3
-Functions for this version are now frozen and will enter the developement
-process.
 
-Release date for this bundle will be November-December 2017.
+Version under development:
 
-<table>
-<tr>
-<th style="padding: 0 15px 0 0;text-align: left;">Function n°</th>
-<th>Description</th>
-</tr>
-<tr>
-    <td>2.3.1</td>
-    <td>WMS / KML browser integration + permalink</td>
-</tr><tr>
-    <td>2.3.2</td>
-    <td>Map rotation</td>
-</tr><tr>
-    <td>2.3.3</td>
-    <td>Moving Window & query result / resizing</td>
-</tr><tr>
-    <td>2.3.4</td>
-    <td>Administration interface</td>
-</tr><tr>
-    <td>2.3.5</td>
-    <td>Result window optimization</td>
-</tr><tr>
-    <td>2.3.6</td>
-    <td>Layertree flush / no flush in mobile version</td>
-</tr><tr>
-    <td>2.3.7</td>
-    <td>Opacity for layers in mobile version</td>
-</tr>
-</table>
+* **Functionalities status:** Frozen
+* **Development:** In progress
+* **Estimated release date:** November-December 2017
+
+### Functionalities
+
+1. WMS / KML browser integration + permalink
+2. Map rotation
+3. Moving Window & query result / resizing
+4. Administration interface
+5. Result window optimization
+6. Layertree flush / no flush in mobile version
+7. Opacity for layers in mobile version
 
 ## Version 2.2
 
-All functions of version 2.2 have been developed
+Current version:
 
-<table>
-<tr>
-<th style="padding: 0 15px 0 0;text-align: left;">Function n°</th>
-<th>Description</th>
-</tr>
-<tr>
-    <td>2.2.1</td>
-    <td>Query builder and filters</td>
-</tr><tr>
-    <td>2.2.2</td>
-    <td>WFS query - take time into account</td>
-</tr><tr>
-    <td>2.2.3</td>
-    <td>Not found text in fulltextsearch</td>
-</tr><tr>
-    <td>2.2.4</td>
-    <td>Streetview integration</td>
-</tr><tr>
-    <td>2.2.5</td>
-    <td>Clear all button in layertree</td>
-</tr><tr>
-    <td>2.2.6</td>
-    <td>User defined scales for printing</td>
-</tr><tr>
-    <td>2.2.7</td>
-    <td>Android web browser compatibility</td>
-</tr><tr>
-    <td>2.2.8</td>
-    <td>Predefined transparency for WMS / WMTS</td>
-</tr>
-</table>
+* **Functionalities status:** Frozen
+* **Development:** Done
+* **Estimated release date:** ASAP *(RC5 in test)*
+
+### Functionalities
+
+1. Query builder and filters
+2. WFS query: take time into account
+3. Not found text in fulltextsearch
+4. Street View integration
+5. Clear all button in layertree
+6. User defined scales for printing
+7. Android web browser compatibility
+8. Predefined transparency for WMS / WMTS
