@@ -1,7 +1,7 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-08-22
-Authors: Michael Kalbermatten, Rémi Bovard
+Modified: 2017-08-24
+Authors: Michael Kalbermatten, Rémi Bovard, Irene Vontobel
 URL: roadmap
 Save_as: roadmap.html
 Slug: 4_roadmap
@@ -13,60 +13,60 @@ Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Rel
 
 ## Version 2.4
 
-Kommende Version:
+Version in Planung:
 
-* **Funktionalitäten Status:** Vorschläge *(müssen noch durch den PSC und die Usergruppe validiert werden)*
-* **Entwicklungen:** Warten auf Validierung
-* **Geschätzter Freigabedatum:** TBD
+* Status der Funktionalitäten: Vorschläge *(müssen noch durch das PSC und die Usergruppe validiert werden)*
+* Entwicklungen: Warten auf Validierung
+* Geschätztes Freigabedatum: TBD
 
 ### Funktionalitäten
 
-1. Zeichnen in der Mobil App (readonly)
+1. Zeichnen in der mobilen Version (readonly)
 2. Ablösung der API durch IFRAMEs
-3. Editieren: Reihenfolge
+3. Editieren: Reihenfolge der Attribute
 4. Editieren: Readonly Attribute
-5. Bearbeiten auf einem Tablette (touch)
-6. CSV Export CSV aus dem Resultatfenster
+5. Editieren auf Tablet-Computer (touch)
+6. CSV Export aus dem Resultatfenster
 7. Editieren von Mehrfach-Attributen
 8. Deaktivierung der "is simple" Geometrieüberprüfung für einen Layer
-9. Editieren durch Mapserver (WFS-T Edtion)
+9. Einschränkung des Editierens durch DATA requests in den Mapfiles (WFS-T Edtion)
 10. 3D
-11. Editieren: Undo von kopieren und einfügen
-12. Editieren: Menu um einen Punkt zu löschen
+11. Editieren: Weitere Funktionalitäten: Kopieren, Ausschneiden, Rückgängig machen
+12. Editieren: Menu um Vertices (Knotenpunkte) zu löschen
 
 ## Version 2.3
 
 Version in Entwicklung:
 
-* **Funktionalitäten Status:** Festgesetzt
-* **Entwicklungen:** Anfangen
-* **Geschätzter Freigabedatum:** November-Dezember 2017
+* Status der Funktionalitäten: Festgesetzt
+* Entwicklungen: In Bearbeitung
+* Geschätzter Freigabedatum: November-Dezember 2017
 
 ### Funktionalitäten
 
 1. Integration des WMS / KML Browser + Permalink
 2. Rotation der Karte
 3. Popup-Fenster auf der Karte verschieben und skalieren
-4. Administrationsschnittstelle
-5. Optimierung des Resultate-Fenster
-6. Flush / no flush vom Layertree auf der Mobile-App
-7. Transparenz der Layers in der Mobil-App
+4. Anpassung Administrationsoberfläche
+5. Optimierung des Resultatefensters
+6. Flush / no flush vom Layertree in der mobilen Version
+7. Transparenz der Layer in der mobilen Version
 
 ## Version 2.2
 
 Aktuelle Version:
 
-* **Funktionalitäten Status:** Festgesetzt
-* **Entwicklungen:** Fertig
-* **Geschätzter Freigabedatum:** ASAP *(RC5 in test)*
+* Status der Funktionalitäten: Festgesetzt
+* Entwicklungen: Abgeschlossen
+* Geschätzter Freigabedatum: ASAP *(RC5 im Test)*
 
 ### Funktionalitäten
 
-1. Queries und filters
-2. WFS Abfrage: Berücksichtigung der Zeit
-3. Text bei leere Suche
-4. Integration von Street View
-5. Clean all button im Layertree
-6. Userscale im Druck-Modul
-7. Kompatibilität mit dem Android Webrowser
+1. erweiterte Attributabfrage und Filter
+2. Berücksichtigung der Zeit bei Attributabfragen
+3. "Es konnte nichts gefunden werden" Hinweistext bei leerer Suche
+4. Integration des Street View Plugins
+5. "Alles löschen" Button im Layertree
+6. benutzerdefinierter Druckmassstab beim Drucken
+7. Android Webrowser Kompatibilität
 8. Definierte Standard-Transparenz von WMS / WMTS Ebenen

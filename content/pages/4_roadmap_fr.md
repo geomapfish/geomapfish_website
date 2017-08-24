@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-08-22
+Modified: 2017-08-24
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -15,21 +15,21 @@ Ci-dessous vous trouvez la roadmap de GeoMapFish ainsi que les notes listant les
 
 Future version:
 
-* **Statut des fonctionnalités:** Proposition *(doit être validé par le PSC et la communauté)*
-* **Développement:** En attente de validation
-* **Date de sortie approximative:** TBD
+* Statut des fonctionnalités: Proposition *(doit être validé par le PSC et la communauté)*
+* Développement: En attente de validation
+* Date de sortie approximative: TBD
 
 ### Fonctionnalités
 
-1.  Dessins dans le mobile (readonly)
-2.  Remplacement de l'API par des IFRAME
-3.  Edition: Ordre des colonnes
-4.  Edition: Attributs en lecture seule
-5.  Edition sur tablette (touch)
-6.  Export CSV depuis la fenêtre de résultat
-7.  Edition de masse d'attributs
-8.  Désactivation de la vérification de la géométrie "is simple" pour une couche
-9.  Restriction de l'édition de par les requêtes Mapserver (édition WFS-T)
+1. Dessins dans le mobile (readonly)
+2. Remplacement de l'API par des IFRAME
+3. Edition: Ordre des colonnes
+4. Edition: Attributs en lecture seule
+5. Edition sur tablette (touch)
+6. Export CSV depuis la fenêtre de résultat
+7. Edition de masse d'attributs
+8. Désactivation de la vérification de la géométrie "is simple" pour une couche
+9. Restriction de l'édition de par les requêtes Mapserver (édition WFS-T)
 10. 3D
 11. Edition: Undo de copier-coller
 12. Edition: Menu pour supprimer un vertex
@@ -38,9 +38,9 @@ Future version:
 
 Version en développement:
 
-* **Statut des fonctionnalités:** Figé
-* **Développement:** En cours
-* **Date de sortie approximative:** Novembre-décembre 2017
+* Statut des fonctionnalités: Figé
+* Développement: En cours
+* Date de sortie approximative: Novembre-décembre 2017
 
 ### Fonctionnalités
 
@@ -56,9 +56,9 @@ Version en développement:
 
 Version actuelle:
 
-* **Statut des fonctionnalités:** Figé
-* **Développement:** Terminé
-* **Date de sortie approximative:** ASAP *(RC5 en test)*
+* Statut des fonctionnalités: Figé
+* Développement: Terminé
+* Date de sortie approximative: ASAP *(RC5 en test)*
 
 ### Fonctionnalités
 

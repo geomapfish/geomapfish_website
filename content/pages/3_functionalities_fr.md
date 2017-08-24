@@ -1,6 +1,6 @@
 Title: Fonctionnalités
 Date: 2016-10-14
-Modified: 2017-06-20
+Modified: 2017-08-24
 Authors: Michael Kalbermatten
 URL: functionalities
 Save_as: functionalities.html
@@ -9,29 +9,29 @@ Lang: fr
 
 ## GeoMapFish Viewer
 
-### ![Functionalities description]({filename}/images/1_1_responsive.png)  Interface utilisateur
+### ![Functionalities description]({filename}/images/1_1_responsive.png) Interface utilisateur
 
 * Interface "responsive" en version desktop & mobile
 
-### ![Functionalities description]({filename}/images/1_2_search.png)  Recherche Full text
+### ![Functionalities description]({filename}/images/1_2_search.png) Recherche Full text
 
 * Données
 * Couches
 * Thème
 
-### ![Functionalities description]({filename}/images/1_3_navigation.png)  Navigation
+### ![Functionalities description]({filename}/images/1_3_navigation.png) Navigation
 
 * Zoom & pan
 * Barre de navigation
 * Geolocalisation
 
-### ![Functionalities description]({filename}/images/1_4_query.png)  Requête
+### ![Functionalities description]({filename}/images/1_4_query.png) Requête
 
 * Interrogation ponctuelle & rectangulaire
 * Résultat sous forme de table et/ou de fenêtre
 * Interrogation de coordonnées et de données raster en temps réel
 
-### ![Functionalities description]({filename}/images/1_5_data.png)  Données
+### ![Functionalities description]({filename}/images/1_5_data.png) Données
 
 * WMS & WMTS internes
 * WMS-T
@@ -41,11 +41,11 @@ Lang: fr
 * Transparency & metadata
 * Légende dynamique
 
-### ![Functionalities description]({filename}/images/1_6_print.png)  Impression
+### ![Functionalities description]({filename}/images/1_6_print.png) Impression
 
 * Impression en PDF & PNG
 
-### ![Functionalities description]({filename}/images/1_7_drawing.png)  Dessin & mesure
+### ![Functionalities description]({filename}/images/1_7_drawing.png) Dessin & mesure
 
 * Points
 * Lignes
@@ -54,18 +54,18 @@ Lang: fr
 * Cercles (azimut)
 * Etiquettes
 
-### ![Functionalities description]({filename}/images/1_8_layer_editing.png)  Edition de couches
+### ![Functionalities description]({filename}/images/1_8_layer_editing.png) Edition de couches
 
 * Edition simple dans la BD
 * Configuration simple
 * Edition complexe (accroché, copié, coupé, extraction de donut)
 
-### ![Functionalities description]({filename}/images/1_9_gis.png)  Fonctionnalités SIG
+### ![Functionalities description]({filename}/images/1_9_gis.png) Fonctionnalités SIG
 
-* Requêtes SQL & filtres 
+* Requêtes SQL & filtres
 * Curseurs temporels
 
-### ![Functionalities description]({filename}/images/1_10_misc.png)  Autre
+### ![Functionalities description]({filename}/images/1_10_misc.png) Autre
 
 * Profil
 * Intégration de Google StreetView
@@ -76,18 +76,18 @@ Lang: fr
 
 ## Administration GeoMapFish
 
-### ![Functionalities description]({filename}/images/2_1_configuration.png)  Administration des données
+### ![Functionalities description]({filename}/images/2_1_configuration.png) Administration des données
 
 * Configuration de couches
 * Configuration de groupes de couches
 * Configuration de thèmes
 * Configuration des sources de données
 
-### ![Functionalities description]({filename}/images/2_2_authentication.png)  Authentification
+### ![Functionalities description]({filename}/images/2_2_authentication.png) Authentification
 
 * LDAP, NTLM et autres systèmes possibles
 
-### ![Functionalities description]({filename}/images/2_3_roles.png)  Rôles
+### ![Functionalities description]({filename}/images/2_3_roles.png) Rôles
 
 * Configuration de rôles
 * Configuration des utilisateurs
@@ -98,12 +98,12 @@ Lang: fr
 
 ## Partie serveur de GeoMapFish
 
-### ![Functionalities description]({filename}/images/3_1_pdf.png)  Création de rapport PDF
+### ![Functionalities description]({filename}/images/3_1_pdf.png) Création de rapport PDF
 
-### ![Functionalities description]({filename}/images/3_2_webmapping.png)  Backends de cartographie web
+### ![Functionalities description]({filename}/images/3_2_webmapping.png) Backends de cartographie web
 
 * MapServer
 * QGIS Server
 * ArcGIS for Server
 
-### ![Functionalities description]({filename}/images/3_3_docker.png)  Déploiement Docker
+### ![Functionalities description]({filename}/images/3_3_docker.png) Déploiement Docker
