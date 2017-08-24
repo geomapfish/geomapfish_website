@@ -21,7 +21,7 @@ PAGE_ORDER_BY = 'basename'
 
 PAGES_SORT_ATTRIBUTE = 'slug'
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'documents']
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites']

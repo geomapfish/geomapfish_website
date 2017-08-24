@@ -7,5 +7,12 @@ Save_as: community.html
 Slug: 1_community
 Lang: fr
 Status: hidden
-<br />
-Communauté
+
+## Meetings
+
+Ici se trouve une liste des meetings du groupe. Chaque page regroupe les décisions / remarques prises.
+
+### 2017
+
+* [Yverdon-les-Bains, 06.11.2017](meetings/2017-11-06)
+* [Yverdon-les-Bains, 19.06.2017](meetings/2017-06-19)
