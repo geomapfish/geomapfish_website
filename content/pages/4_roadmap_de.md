@@ -1,135 +1,72 @@
-Title: Roadmap und Versionen
+Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-06-21
-slug: 4_roadmap
-url: roadmap
-save_as: roadmap.html
-lang: de
-Authors: Michael Kalbermatten
-<br>
-Letztes Update der Seite: 21.06.2017
+Modified: 2017-08-24
+Authors: Michael Kalbermatten, Rémi Bovard, Irene Vontobel
+URL: roadmap
+Save_as: roadmap.html
+Slug: 4_roadmap
+Lang: de
+<br />
+Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Release Notes der verschiedenen Versionen.
 
-Hier unten finden Sie die Roadmap von GMF, aber auch die Links zu den
-Release Notes der verschiedenen Versionen.
+*Letztes Update der Seite: **22.08.2017***
 
 ## Version 2.4
 
-Diese Version ist die kommende GMF Version. Die unten definierten Funktionen
-sind Vorschläge, die von Teilnehmer der Usergruppe gemacht worden sind. Sie müssen
-noch durch den PSC und die Usergruppe validiert werden.
+Version in Planung:
 
-<table>
-<tr>
-<th style="padding: 0 15px 0 0;text-align: left;">Funktion n°</th>
-<th>Beschreibung</th>
-</tr>
-<tr>
-    <td>2.4.1</td>
-    <td>Zeichnen in der Mobil App (readonly)</td>
-</tr><tr>
-    <td>2.4.2</td>
-    <td>Ablösung der API durch IFRAMEs</td>
-</tr><tr>
-    <td>2.4.3</td>
-    <td>Editieren: Reihenfolge</td>
-</tr><tr>
-    <td>2.4.4</td>
-    <td>Editieren: readonly Attribute</td>
-</tr><tr>
-    <td>2.4.5</td>
-    <td>Bearbeiten auf einem Tablette (touch)</td>
-</tr><tr>
-    <td>2.4.6</td>
-    <td>CSV Export CSV aus dem Resultatfenster</td>
-</tr><tr>
-    <td>2.4.7</td>
-    <td>Editieren von Mehrfach-Attributen</td>
-</tr><tr>
-    <td>2.4.8</td>
-    <td>Deaktivierung der "is simple" Geometrieüberprüfung für einen Layer</td>
-</tr><tr>
-    <td>2.4.9</td>
-    <td>Editieren durch Mapserver (WFS-T Edtion)</td>
-</tr><tr>
-    <td>2.4.10</td>
-    <td>3D</td>
-</tr><tr>
-    <td>2.4.11</td>
-    <td>Editieren - undo von kopieren und einfügen</td>
-</tr><tr>
-    <td>2.4.12</td>
-    <td>Editieren - Menu um einen Punkt zu löschen</td>
-</tr>
-</table>
+* Status der Funktionalitäten: Vorschläge *(müssen noch durch das PSC und die Usergruppe validiert werden)*
+* Entwicklungen: Warten auf Validierung
+* Geschätztes Freigabedatum: TBD
 
+### Funktionalitäten
+
+1. Zeichnen in der mobilen Version (readonly)
+2. Ablösung der API durch IFRAMEs
+3. Editieren: Reihenfolge der Attribute
+4. Editieren: Readonly Attribute
+5. Editieren auf Tablet-Computer (touch)
+6. CSV Export aus dem Resultatfenster
+7. Editieren von Mehrfach-Attributen
+8. Deaktivierung der "is simple" Geometrieüberprüfung für einen Layer
+9. Einschränkung des Editierens durch DATA requests in den Mapfiles (WFS-T Edtion)
+10. 3D
+11. Editieren: Weitere Funktionalitäten: Kopieren, Ausschneiden, Rückgängig machen
+12. Editieren: Menu um Vertices (Knotenpunkte) zu löschen
 
 ## Version 2.3
-Die Funktionen dieser Version sind jetzt festgesetzt und die Entwicklungen sollten
-bald anfangen.
 
-Diese Version sollte bis November-Dezember verfügbar sein.
+Version in Entwicklung:
 
-<table>
-<tr>
-<th style="padding: 0 15px 0 0;text-align: left;">Funktion n°</th>
-<th>Beschreibung</th>
-</tr>
-<tr>
-    <td>2.3.1</td>
-    <td>Integration des WMS / KML Browser + Permalink</td>
-</tr><tr>
-    <td>2.3.2</td>
-    <td>Rotation der Karte</td>
-</tr><tr>
-    <td>2.3.3</td>
-    <td>Popup-Fenster auf der Karte verschieben und skalieren</td>
-</tr><tr>
-    <td>2.3.4</td>
-    <td>Administrationsschnittstelle</td>
-</tr><tr>
-    <td>2.3.5</td>
-    <td>Optimierung des Resultate-Fenster</td>
-</tr><tr>
-    <td>2.3.6</td>
-    <td>Flush / no flush vom Layertree auf der Mobile-App</td>
-</tr><tr>
-    <td>2.3.7</td>
-    <td>Transparenz der Layers in der Mobil-App</td>
-</tr>
-</table>
+* Status der Funktionalitäten: Festgesetzt
+* Entwicklungen: In Bearbeitung
+* Geschätzter Freigabedatum: November-Dezember 2017
+
+### Funktionalitäten
+
+1. Integration des WMS / KML Browser + Permalink
+2. Rotation der Karte
+3. Popup-Fenster auf der Karte verschieben und skalieren
+4. Anpassung Administrationsoberfläche
+5. Optimierung des Resultatefensters
+6. Flush / no flush vom Layertree in der mobilen Version
+7. Transparenz der Layer in der mobilen Version
 
 ## Version 2.2
 
-Alle Funktionen der Version 2.2 sind entwickelt worden.
+Aktuelle Version:
 
-<table>
-<tr>
-<th style="padding: 0 15px 0 0;text-align: left;">Funktion n°</th>
-<th>Beschreibung</th>
-</tr>
-<tr>
-    <td>2.2.1</td>
-    <td>Queries und filters</td>
-</tr><tr>
-    <td>2.2.2</td>
-    <td>WFS Abfrage - Berücksichtigung der Zeit</td>
-</tr><tr>
-    <td>2.2.3</td>
-    <td>Text bei leere Suche</td>
-</tr><tr>
-    <td>2.2.4</td>
-    <td>Integration von Streetview</td>
-</tr><tr>
-    <td>2.2.5</td>
-    <td>Clean all button im Layertree</td>
-</tr><tr>
-    <td>2.2.6</td>
-    <td>Userscale im Druck-Modul</td>
-</tr><tr>
-    <td>2.2.7</td>
-    <td>Kompatibilität mit dem Android Webrowser</td>
-</tr><tr>
-    <td>2.2.8</td>
-    <td>Definierte Standard-Transparenz von WMS / WMTS Ebenen</td>
-</tr>
-</table>
+* Status der Funktionalitäten: Festgesetzt
+* Entwicklungen: Abgeschlossen
+* Geschätzter Freigabedatum: ASAP *(RC5 im Test)*
+
+### Funktionalitäten
+
+1. erweiterte Attributabfrage und Filter
+2. Berücksichtigung der Zeit bei Attributabfragen
+3. "Es konnte nichts gefunden werden" Hinweistext bei leerer Suche
+4. Integration des Street View Plugins
+5. "Alles löschen" Button im Layertree
+6. benutzerdefinierter Druckmassstab beim Drucken
+7. Android Webrowser Kompatibilität
+8. Definierte Standard-Transparenz von WMS / WMTS Ebenen

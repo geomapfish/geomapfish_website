@@ -1,11 +1,12 @@
 Title: Status
 Date: 2016-10-14
 Modified: 2017-06-20
-status: hidden
-url: status
-save_as: status.html
-lang: en
 Authors: Camptocamp, Michael Kalbermatten
+URL: status
+Save_as: status.html
+Slug: 99_status
+Lang: en
+Status: hidden
 
 Continuous Integration & Test Coverage
 

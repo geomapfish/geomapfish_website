@@ -1,11 +1,11 @@
 Title: Community
 Date: 2016-10-14
 Modified: 2017-02-20
-slug: 1_community
-url: community
-save_as: community.html
-status: hidden
-lang: de
 Authors: Michael Kalbermatten
-<br>
+URL: community
+Save_as: community.html
+Slug: 1_community
+Lang: de
+Status: hidden
+<br />
 Beschreibung der Usergruppe...
