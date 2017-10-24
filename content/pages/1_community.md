@@ -7,5 +7,7 @@ Save_as: community.html
 Slug: 1_community
 Lang: en
 Status: hidden
-<br />
-Community
+
+## Meetings
+
+*See french or german page.*
