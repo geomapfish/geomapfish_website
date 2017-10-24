@@ -1,3 +1,5 @@
+@ECHO OFF
+
 cd %~dp0
 
 rmdir /s /q %~dp0\output
@@ -25,5 +27,7 @@ git add --all
 git commit -m "Update"
 
 git push origin master
+
+cd ..
 
 pause
