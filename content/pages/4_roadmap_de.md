@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-08-24
+Modified: 2017-11-10
 Authors: Michael Kalbermatten, Rémi Bovard, Irene Vontobel
 URL: roadmap
 Save_as: roadmap.html
@@ -9,30 +9,30 @@ Lang: de
 <br />
 Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Release Notes der verschiedenen Versionen.
 
-*Letztes Update der Seite: **22.08.2017***
+*Letztes Update der Seite: **10.11.2017***
 
 ## Version 2.4
 
 Version in Planung:
 
-* Status der Funktionalitäten: Vorschläge *(müssen noch durch das PSC und die Usergruppe validiert werden)*
-* Entwicklungen: Warten auf Validierung
-* Geschätztes Freigabedatum: TBD
+* Status der Funktionalitäten: Festgesetzt
+* Entwicklungen: Mitte Februar 2018
+* Geschätztes Freigabedatum: Mitte 2018
 
 ### Funktionalitäten
 
-1. Zeichnen in der mobilen Version (readonly)
-2. Ablösung der API durch IFRAMEs
-3. Editieren: Reihenfolge der Attribute
-4. Editieren: Readonly Attribute
-5. Editieren auf Tablet-Computer (touch)
+1. Zeichnen in der mobilen Version mit Permalink Objekten (readonly)
+2. IFRAME Integration
+3. Editieren: verschiedene Verbesserungen
+4. Großformatausdruck - Mapfish print Verbesserungen
+5. Layertree Verbesserungen (radio Buttons)
+6. Mobile - Title von den ersten Panel
+7. Laden der App - Verbesserungen der Leistung
 6. CSV Export aus dem Resultatfenster
 7. Editieren von Mehrfach-Attributen
-8. Deaktivierung der "is simple" Geometrieüberprüfung für einen Layer
-9. Einschränkung des Editierens durch DATA requests in den Mapfiles (WFS-T Edtion)
-10. 3D
-11. Editieren: Weitere Funktionalitäten: Kopieren, Ausschneiden, Rückgängig machen
-12. Editieren: Menu um Vertices (Knotenpunkte) zu löschen
+8. Objekte Recentering & Zooming Verbesserungen
+9. Dynamisch die Layertree Breite verändern
+10. Automatische Generation von Hyperlinks in den Query Ergebnisse
 
 ## Version 2.3
 
@@ -40,7 +40,7 @@ Version in Entwicklung:
 
 * Status der Funktionalitäten: Festgesetzt
 * Entwicklungen: In Bearbeitung
-* Geschätzter Freigabedatum: November-Dezember 2017
+* Freigabedatum: Mitte Februar 2018
 
 ### Funktionalitäten
 
