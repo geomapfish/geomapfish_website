@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-08-24
+Modified: 2017-11-10
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -9,30 +9,28 @@ Lang: fr
 <br />
 Ci-dessous vous trouvez la roadmap de GeoMapFish ainsi que les notes listant les nouvelles fonctionnalités de chaque version.
 
-*Dernière mise à jour de la page: **22.08.2017***
+*Dernière mise à jour de la page: **10.11.2017***
 
 ## Version 2.4
 
 Future version:
 
-* Statut des fonctionnalités: Proposition *(doit être validé par le PSC et la communauté)*
-* Développement: En attente de validation
-* Date de sortie approximative: TBD
+* Statut des fonctionnalités: Figé
+* Développement: début à la mi-février
+* Date de sortie approximative: mi-2018
 
 ### Fonctionnalités
 
-1. Dessins dans le mobile (readonly)
-2. Remplacement de l'API par des IFRAME
-3. Edition: Ordre des colonnes
-4. Edition: Attributs en lecture seule
-5. Edition sur tablette (touch)
-6. Export CSV depuis la fenêtre de résultat
-7. Edition de masse d'attributs
-8. Désactivation de la vérification de la géométrie "is simple" pour une couche
-9. Restriction de l'édition de par les requêtes Mapserver (édition WFS-T)
-10. 3D
-11. Edition: Undo de copier-coller
-12. Edition: Menu pour supprimer un vertex
+1. Dessins dans le mobile provenant du permalien (readonly)
+2. Intégtation d'IFRAME (remplacement de l'API)
+3. Edition: diverses améliorations
+4. Impression grands formats (A2+), améliorations Mapfish print
+5. Améliorations de l'arbre des couches (boutons de type radio)
+6. Mobile - titre sur le premier panneau
+7. Chargement de l'application, amélioration des performances
+8. Recentrage et zoom sur les objets
+9. Modification dynamique de la largeur de l'arbre des couches
+10. Génération automatique d'hyperliens à partir des résultats d'interrogation
 
 ## Version 2.3
 
@@ -40,7 +38,7 @@ Version en développement:
 
 * Statut des fonctionnalités: Figé
 * Développement: En cours
-* Date de sortie approximative: Novembre-décembre 2017
+* Date de sortie: mi-février 2018
 
 ### Fonctionnalités
 

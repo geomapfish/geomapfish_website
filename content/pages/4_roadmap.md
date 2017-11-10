@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-08-24
+Modified: 2017-11-10
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -9,30 +9,28 @@ Lang: en
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
-*Latest page update: **2017-08-22***
+*Latest page update: **2017-11-10***
 
 ## Version 2.4
 
 Next coming version:
 
-* Functionalities status: Proposal *(need validation by PSC and community)*
-* Development: Waiting for validation
-* Estimated release date: TBD
+* Functionalities status: Freezed
+* Development: starting in February 2018
+* Estimated release date: Mid 2018
 
 ### Functionalities
 
-1. Mobile redlining (readonly)
-2. IFRAME API replacement
-3. Editing: column order
-4. Editing: readonly attributes
-5. Editing on tablet (touch)
-6. CSV export in Window
-7. Mass-edit of attributes (on multiple features)
-8. Disable geometry check "is simple" for a layer
-9. Restriction of the editing to the mapfiles DATA requests (WFS-T editing)
-10. 3D
-11. Editing: copy-cut undo
-12. Editing: delete vertex menu
+1. Mobile redlining through permalink (readonly)
+2. IFRAME integration
+3. Editing: various improvements
+4. Big size printing (A2+), Mapfish print improvements
+5. Layertree improvements (radio button support)
+6. Mobile - first panel title
+7. App loading - performance improvements
+8. Object recentering & re-zooming improvements
+9. Dynamic layertree width resizing
+10. Autogenerate hyperlinks with query results 
 
 ## Version 2.3
 
@@ -40,7 +38,7 @@ Version under development:
 
 * Functionalities status: Frozen
 * Development: In progress
-* Estimated release date: November-December 2017
+* Release date: mid-February 2018
 
 ### Functionalities
 
