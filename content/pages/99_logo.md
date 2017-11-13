@@ -30,6 +30,8 @@ Status: hidden
 
 ![Logo]({filename}/images/logo/logo_100.png)
 
+![Logo]({filename}/images/logo/logo.svg)
+
 [logo_cmyk.eps]({filename}/images/logo/logo_cmyk.eps)
 
 ## Fonts
