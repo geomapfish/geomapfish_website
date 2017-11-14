@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-11-10
+Modified: 2017-11-14
 Authors: Michael Kalbermatten, Rémi Bovard, Irene Vontobel
 URL: roadmap
 Save_as: roadmap.html
@@ -9,7 +9,7 @@ Lang: de
 <br />
 Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Release Notes der verschiedenen Versionen.
 
-*Letztes Update der Seite: **10.11.2017***
+*Letztes Update der Seite: **14.11.2017***
 
 ## Version 2.4
 
@@ -33,6 +33,7 @@ Version in Planung:
 8. Objekte Recentering & Zooming Verbesserungen
 9. Dynamisch die Layertree Breite verändern
 10. Automatische Generation von Hyperlinks in den Query Ergebnisse
+11. Google Closure Compiler Abschaffung; Benützung von Webpack
 
 ## Version 2.3
 
