@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-11-10
+Modified: 2017-11-14
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -9,7 +9,7 @@ Lang: fr
 <br />
 Ci-dessous vous trouvez la roadmap de GeoMapFish ainsi que les notes listant les nouvelles fonctionnalités de chaque version.
 
-*Dernière mise à jour de la page: **10.11.2017***
+*Dernière mise à jour de la page: **14.11.2017***
 
 ## Version 2.4
 
@@ -31,6 +31,7 @@ Future version:
 8. Recentrage et zoom sur les objets
 9. Modification dynamique de la largeur de l'arbre des couches
 10. Génération automatique d'hyperliens à partir des résultats d'interrogation
+11. Suppression de la dépendance à Google Closure Compiler, utilisation de Webpack
 
 ## Version 2.3
 

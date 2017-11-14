@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-11-10
+Modified: 2017-11-14
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -9,7 +9,7 @@ Lang: en
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
-*Latest page update: **2017-11-10***
+*Latest page update: **2017-11-14***
 
 ## Version 2.4
 
@@ -30,7 +30,8 @@ Next coming version:
 7. App loading - performance improvements
 8. Object recentering & re-zooming improvements
 9. Dynamic layertree width resizing
-10. Autogenerate hyperlinks with query results 
+10. Autogenerate hyperlinks with query results
+11. Remove Google Closure Compiler dependency, use Webpack
 
 ## Version 2.3
 
