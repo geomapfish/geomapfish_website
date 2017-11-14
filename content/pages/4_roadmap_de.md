@@ -28,8 +28,6 @@ Version in Planung:
 5. Layertree Verbesserungen (radio Buttons)
 6. Mobile - Title von den ersten Panel
 7. Laden der App - Verbesserungen der Leistung
-6. CSV Export aus dem Resultatfenster
-7. Editieren von Mehrfach-Attributen
 8. Objekte Recentering & Zooming Verbesserungen
 9. Dynamisch die Layertree Breite verändern
 10. Automatische Generation von Hyperlinks in den Query Ergebnisse
