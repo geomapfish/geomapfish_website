@@ -1,6 +1,6 @@
 Title: Gallery
 Date: 2016-10-14
-Modified: 2017-06-21
+Modified: 2017-11-23
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: gallery
 Save_as: gallery.html
@@ -27,7 +27,7 @@ Lang: en
 * [Géoportail du Système d'Information du Territoire Jurassien](https://geo.jura.ch/)
 * [GéoPlaNet, guichet cartographique cantonal de l'Etat de Vaud](http://www.geo.vd.ch/)
 * [Association GeoCommunes](http://www.geocommunes.ch/)
-* [sitecom Système d'Information du Territoire de la Commune de Morges](https://map.morges.ch/)
+* [Géoportail du district de Morges](https://map.cjl.ch/)
 * [Géoportail du Système d'Information du Territoire Neuchâtelois](http://sitn.ne.ch/)
 * [Guichet cartographique de Nendaz](http://nendaz-geoportail.sig.cloud.camptocamp.net/)
 * [SITNyon Géoportail de la Ville de Nyon](https://map.nyon.ch/)
