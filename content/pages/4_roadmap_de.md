@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-11-14
+Modified: 2018-03-18
 Authors: Michael Kalbermatten, Rémi Bovard, Irene Vontobel
 URL: roadmap
 Save_as: roadmap.html
@@ -9,15 +9,15 @@ Lang: de
 <br />
 Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Release Notes der verschiedenen Versionen.
 
-*Letztes Update der Seite: **14.11.2017***
+*Letztes Update der Seite: **18.03.2018***
 
 ## Version 2.4
 
 Version in Planung:
 
 * Status der Funktionalitäten: Festgesetzt
-* Entwicklungen: Mitte Februar 2018
-* Geschätztes Freigabedatum: Mitte 2018
+* Entwicklungen: Mai 2018
+* Geschätztes Freigabedatum: September - October 2018
 
 ### Funktionalitäten
 
@@ -39,7 +39,7 @@ Version in Entwicklung:
 
 * Status der Funktionalitäten: Festgesetzt
 * Entwicklungen: In Bearbeitung
-* Freigabedatum: Mitte Februar 2018
+* Freigabedatum: 1. April 2018
 
 ### Funktionalitäten
 
@@ -57,7 +57,7 @@ Aktuelle Version:
 
 * Status der Funktionalitäten: Festgesetzt
 * Entwicklungen: Abgeschlossen
-* Geschätzter Freigabedatum: ASAP *(RC5 im Test)*
+* Geschätzter Freigabedatum: 22. Januar 2018
 
 ### Funktionalitäten
 
