@@ -12,6 +12,10 @@ Status: hidden
 
 Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden sich die Entscheidungen / Bemerkungen des Meeting.
 
+### 2018
+
+* [Yverdon-les-Bains, 12.03.2018](meetings/2018-03-12)
+
 ### 2017
 
 * [Yverdon-les-Bains, 06.11.2017](meetings/2017-11-06)
