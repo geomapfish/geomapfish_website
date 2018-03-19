@@ -21,17 +21,19 @@ Next coming version:
 
 ### Functionalities
 
-1. Mobile redlining through permalink (readonly)
-2. IFRAME integration
-3. Editing: various improvements
-4. Big size printing (A2+), Mapfish print improvements
-5. Layertree improvements (radio button support)
-6. Mobile - first panel title
-7. App loading - performance improvements
-8. Object recentering & re-zooming improvements
-9. Dynamic layertree width resizing
-10. Autogenerate hyperlinks with query results
-11. Remove Google Closure Compiler dependency, use Webpack
+1. IFRAME integration
+2. Editing - Column order
+3. Editing - Read only attributes
+4. Editing - Link to external form
+5. Drawing - Delete vertex menu
+6. Drawing - Zoom on recenter
+7. Read only drawing on mobile
+8. Layer tree - Resize panel
+9. Layer tree - Radio buttons
+10. Query - Auto-link in results
+11. Interface - App loading widget
+12. Interface - mobile first level panel title
+13. A0 printing
 
 ## Version 2.3
 
