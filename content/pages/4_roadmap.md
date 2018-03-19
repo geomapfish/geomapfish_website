@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-11-14
+Modified: 2018-03-18
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -9,29 +9,31 @@ Lang: en
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
-*Latest page update: **2017-11-14***
+*Latest page update: **2018-03-18***
 
 ## Version 2.4
 
 Next coming version:
 
 * Functionalities status: Freezed
-* Development: starting in February 2018
-* Estimated release date: Mid 2018
+* Development: starting in May 2018
+* Estimated release date: September - October 2018
 
 ### Functionalities
 
-1. Mobile redlining through permalink (readonly)
-2. IFRAME integration
-3. Editing: various improvements
-4. Big size printing (A2+), Mapfish print improvements
-5. Layertree improvements (radio button support)
-6. Mobile - first panel title
-7. App loading - performance improvements
-8. Object recentering & re-zooming improvements
-9. Dynamic layertree width resizing
-10. Autogenerate hyperlinks with query results
-11. Remove Google Closure Compiler dependency, use Webpack
+1. IFRAME integration
+2. Editing - Column order
+3. Editing - Read only attributes
+4. Editing - Link to external form
+5. Drawing - Delete vertex menu
+6. Drawing - Zoom on recenter
+7. Read only drawing on mobile
+8. Layer tree - Resize panel
+9. Layer tree - Radio buttons
+10. Query - Auto-link in results
+11. Interface - App loading widget
+12. Interface - mobile first level panel title
+13. A0 printing
 
 ## Version 2.3
 
@@ -39,7 +41,7 @@ Version under development:
 
 * Functionalities status: Frozen
 * Development: In progress
-* Release date: mid-February 2018
+* Release date: 1<sup>st</sup> April 2018
 
 ### Functionalities
 
@@ -57,7 +59,7 @@ Current version:
 
 * Functionalities status: Frozen
 * Development: Done
-* Estimated release date: ASAP *(RC5 in test)*
+* Estimated release date: 22 January 2018
 
 ### Functionalities
 

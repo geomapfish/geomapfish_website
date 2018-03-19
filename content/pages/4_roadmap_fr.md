@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2017-11-14
+Modified: 2018-03-18
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -9,29 +9,31 @@ Lang: fr
 <br />
 Ci-dessous vous trouvez la roadmap de GeoMapFish ainsi que les notes listant les nouvelles fonctionnalités de chaque version.
 
-*Dernière mise à jour de la page: **14.11.2017***
+*Dernière mise à jour de la page: **18.03.2018***
 
 ## Version 2.4
 
 Future version:
 
 * Statut des fonctionnalités: Figé
-* Développement: début à la mi-février
-* Date de sortie approximative: mi-2018
+* Développement: Mai 2018
+* Date de sortie approximative: Septembre - Octobre 2018
 
 ### Fonctionnalités
 
-1. Dessins dans le mobile provenant du permalien (readonly)
-2. Intégtation d'IFRAME (remplacement de l'API)
-3. Edition: diverses améliorations
-4. Impression grands formats (A2+), améliorations Mapfish print
-5. Améliorations de l'arbre des couches (boutons de type radio)
-6. Mobile - titre sur le premier panneau
-7. Chargement de l'application, amélioration des performances
-8. Recentrage et zoom sur les objets
-9. Modification dynamique de la largeur de l'arbre des couches
-10. Génération automatique d'hyperliens à partir des résultats d'interrogation
-11. Suppression de la dépendance à Google Closure Compiler, utilisation de Webpack
+1. Intégtation d'IFRAME (remplacement de l'API)
+2. Edition - Ordre des colonnes
+3. Edition - Attributs en lecture seule
+4. Edition - Liens vers des formulaires externes
+5. Dessin - Menu pour la suppression de noeuds
+6. Dessin - Zoom lors du recentrage
+7. Affichage en lecture seule des éléments dessinés dans le mobile
+8. Layer tree - Redimensionnement
+9. Layer tree - Bouton radio
+10. Requête - Lien autogénérés dans les résultats
+11. Interface - Widget de chargement de l'application
+12. Interface - Titre du premier panel dans mobile
+13. Impression A0
 
 ## Version 2.3
 
@@ -39,7 +41,7 @@ Version en développement:
 
 * Statut des fonctionnalités: Figé
 * Développement: En cours
-* Date de sortie: mi-février 2018
+* Date de sortie: 1<sup>er</sup> avril 2018
 
 ### Fonctionnalités
 
@@ -57,7 +59,7 @@ Version actuelle:
 
 * Statut des fonctionnalités: Figé
 * Développement: Terminé
-* Date de sortie approximative: ASAP *(RC5 en test)*
+* Date de sortie: 22 janvier 2018
 
 ### Fonctionnalités
 
