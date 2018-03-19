@@ -41,7 +41,7 @@ Version under development:
 
 * Functionalities status: Frozen
 * Development: In progress
-* Release date: 01 April 2018
+* Release date: 1<sup>st</sup> April 2018
 
 ### Functionalities
 

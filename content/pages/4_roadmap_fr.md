@@ -41,7 +41,7 @@ Version en développement:
 
 * Statut des fonctionnalités: Figé
 * Développement: En cours
-* Date de sortie: 1 avril 2018
+* Date de sortie: 1<sup>er</sup> avril 2018
 
 ### Fonctionnalités
 
