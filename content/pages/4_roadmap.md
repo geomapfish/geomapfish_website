@@ -9,7 +9,7 @@ Lang: en
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
-*Latest page update: **2018-03-18***
+*Latest page update: **2018-05-16***
 
 ## Version 2.4
 
@@ -41,7 +41,7 @@ Version under development:
 
 * Functionalities status: Frozen
 * Development: In progress
-* Release date: 1<sup>st</sup> April 2018
+* Release date: 20<sup>th</sup> Mai 2018
 
 ### Functionalities
 

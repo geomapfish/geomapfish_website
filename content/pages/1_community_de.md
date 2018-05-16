@@ -1,50 +1,55 @@
 Title: Community
-Date: 2016-10-14
-Modified: 2017-02-20
+Date: 2018-05-16
+Modified: 2018-05-16
 Authors: Michael Kalbermatten
 URL: community
 Save_as: community.html
 Slug: 1_community
 Lang: de
-Status: hidden
 
-## Meetings
+## Ziele der Community
 
-Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden sich die Entscheidungen / Bemerkungen des Meeting.
+Das Hauptziel der Community ist die nachhaltige Entwicklung der Open Source WebSIG-Lösung GeoMapFish (GMF) sicherzustellen.
 
-### 2018
+Sie besteht aus verschiedenen Mitgliedern, die aus dem öffentlichen, privaten und akademischen Bereich kommen.
 
-* [Yverdon-les-Bains, 12.03.2018](meetings/2018-03-12)
+Sie unterhält Geschäftsverbindungen zu Anbietern von Open Source Software, um die Weiterentwicklung der GMF-Anwendung auf technischer und funktionaler Ebene sicherzustellen.
 
-### 2017
+Sie trifft sich mehrmals im Jahr, um GMF weiterzuentwickeln. Die Minuten sind auf der [Meetings] ({filename}98_meetings_de.md) Webseite verfügbar.
 
-* [Yverdon-les-Bains, 06.11.2017](meetings/2017-11-06)
-* [Yverdon-les-Bains, 19.06.2017](meetings/2017-06-19)
-* [Yverdon-les-Bains, 30.01.2017](meetings/2017-01-30)
+## Werte der Kommunity
 
-### 2016
+Die Community ist auf die folgenden Werte basiert:
 
-* [Yverdon-les-Bains, 29.08.2016](meetings/2016-08-29)
-* [Yverdon-les-Bains, 29.02.2016](meetings/2016-02-29)
+* Einen integrativen Dialog zwischen den verschiedenen Mitgliedern der Organisation und dem Herausgeber privilegieren.
+* Eine Entscheidungsfindung durch Konsens privilegieren, die auf eine bekannte Planung, eine Entwicklungs-Auswahl und eine Priorisierung basiert ist
+* Die Gegenseitigkeit und Kostenverteilung je nach den finanziellen Ressourcen von jedem privilegieren.
+* Die Finanzierung von Entwicklungen sicherstellen, um die Nachhaltigkeit, Wartung und Weiterentwicklung der GMF-Lösung zu garantieren.
+* Die gesamte finanzielle Belastung auf möglichst viele Mitglieder, um den Anteil jedes Mitglieds zu reduzieren.
+* Der GMF Code ist Open Source.
+* Der Herausgeber der Lösung macht eine "kommerzielle" Anstrengung als privilegierter Herausgeber entweder mit den Tarifen und / oder in der Bereitstellung von Humanressourcen.
 
-### 2015
+## Kommunity Funktionsweise
 
-* [Yverdon-les-Bains, 14.09.2015](meetings/2015-09-14)
-* [Yverdon-les-Bains, 29.06.2015](meetings/2015-06-29)
-* [Yverdon-les-Bains, 16.03.2015](meetings/2015-03-16)
+Die Gemeinschaft, die aus einer Benutzergruppe besteht, kommt regelmäßig zusammen, um die Vorschalge des PSC (Project Steering Committee) zu diskutieren. In besonders um :
 
-### 2014
+* Den Standpunkt der aktuellen Enwicklungen zu diskutieren.
+* Den Standpunkt der Finanzen zu diskutieren.
+* Erfahrungen mit der GMF-Lösung zu teilen.
 
-* [Yverdon-les-Bains, 15.09.2014](meetings/2014-09-15)
-* [Yverdon-les-Bains, 31.03.2014](meetings/2014-03-31)
+## Leitlinien für bewährte Praktiken
 
-### 2013
+Die Mitglieder verpflichten sich, die folgenden Punkte zu respektieren:
 
-* [Yverdon-les-Bains, 11.11.2013](meetings/2013-11-11)
-* [Yverdon-les-Bains, 17.06.2013](meetings/2013-06-17)
-* [Yverdon-les-Bains, 11.03.2013](meetings/2013-03-11)
+* An der Entwicklung der GMF-Lösung im Rahmen ihrer finanziellen und / oder personellen Kapazitäten zu teilnehmen.
+* Regelmäßig an den Sitzungen, die organisiert werden, teilzunehmen.
 
-### 2012
 
-* [Yverdon-les-Bains, 26.11.2012](meetings/2012-11-26)
-* [Yverdon-les-Bains, 29.08.2012](meetings/2012-08-29)
+## Vorteile als Mitglied der Community
+
+* Teilnahme an der Definition der Roadmap für die Entwicklungen von GMF.
+* Sowohl technische als auch funktionale Erwartungen äußern über die neue Funktionalitäten.
+* Von dem Herausgeber und dem PSC (Project Steering Committee) über die letzen GMF Entiwcklungen, sowohl über das verbundene Open Source Ökosystem, informiert zu werden.
+* Von den Entwicklungen durch die Bereitstellung des Quellcodes zu profitieren.
+* Die Erfahrungen und Probleme von den anderen Mitgliedern informiert zu werden.
+* Im Mittelpunkt eines Netzwerks von Mitgliedern, die ähnliche Bedürfnisse und Probleme teilen, mitzu machen.

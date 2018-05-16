@@ -9,7 +9,7 @@ Lang: de
 <br />
 Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Release Notes der verschiedenen Versionen.
 
-*Letztes Update der Seite: **18.03.2018***
+*Letztes Update der Seite: **16.05.2018***
 
 ## Version 2.4
 
@@ -41,7 +41,7 @@ Version in Entwicklung:
 
 * Status der Funktionalitäten: Festgesetzt
 * Entwicklungen: In Bearbeitung
-* Freigabedatum: 1. April 2018
+* Freigabedatum: 20. Mai 2018
 
 ### Funktionalitäten
 

@@ -1,6 +1,6 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2017-08-21
+Modified: 2018-05-16
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: index.html
 Save_as: index.html
@@ -10,29 +10,29 @@ Menulabel: Home
 <br />
 Thank you for visiting, welcome on the GeoMapFish (GMF) community website!
 
-The GeoMapFish application allows to build rich and extensible WebGIS in an easy and flexible way.
-It is composed of a desktop WebGIS interface, an administration interface, an API for map integration
-in thirdparty websites and a mobile version.
+## Overview
 
-Besides the OGC-Standard web services, a MapFish protocol adapted to the efficient communication
-between Client and Server is available. On this basis, complex and high performance web mapping 
-applications can be built.
+GeoMapFish allows to build rich and extensible WebGIS in an easy and flexible way.
+It has been developped to fulfill the needs of various actors in the geospatial environment,
+might it be public, private or academic actors.
 
-GeoMapFish combines some of the best Open Source tools in one application:
+GeoMapFish is organized around a [community and a project steering committee]({filename}1_community.md).
 
-* Version 1: [OpenLayers 2](https://openlayers.org/two/), [ExtJS](https://docs.sencha.com/extjs/3.4.0/) and [GeoExt](http://geoext.org/v1/) on the client side
-* Version 2: [OpenLayers](https://openlayers.org/), [AngularJS](https://angularjs.org/) and [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/) on the client side
-* Python modules (especially Papyrus based on [Pyramid](https://trypyramid.com/)) on the server side
-* [MapFish Print](https://mapfish.github.io/mapfish-print-doc/), a Java servlet dedicated to print geographic documents
+## Features
 
-## Documentation and support
+For a full list of features, please take a look at the [functionalities]({filename}2_functionalities.md) page.
 
-Read the documentation:
+<br />
+![webmapping]({filename}/images/3_2_webmapping.png) **Mapping** includes all expected tools one would need in a WebGIS: measurement, drawing, printing, etc.
 
-* The server part of GeoMapFish is [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal/).
-* The client part of GeoMapFish 2.x is an Angular library called [ngeo](https://github.com/camptocamp/ngeo/).
-* The client part of GeoMapFish 1.x is an ExtJS librarx called [CGXP](https://github.com/camptocamp/cgxp/).
+<br />
+![editing]({filename}/images/1_8_layer_editing.png) **Advanced editing** is possible (points, lines, polygons, snapping) on protected DB layers which can even be restricted to some given area.
 
-## Screenshot
+<br />
+![responsive]({filename}/images/1_1_responsive.png) **Responsive** templates are made available for an fluid user experience.
 
+<br />
+![webmapping description]({filename}/images/2_1_configuration.png) **Customizable and extensible** application - Plugins and even user developped plugins can be added or removed from the application in order to give you complete control of what experience you want to share with your users.
+
+<br /><br />
 ![Example screenshot]({filename}/images/examples/demo22.png)
