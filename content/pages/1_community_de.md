@@ -15,7 +15,7 @@ Sie umfasst Mitglieder aus dem öffentlichen, privaten und akademischen Bereich.
 
 Sie unterhält Geschäftsverbindungen zu Anbietern von Open Source Software, um die Weiterentwicklung der GMF-Anwendung auf technischer und funktionaler Ebene sicherzustellen.
 
-Sie trifft sich mehrmals im Jahr, um GMF weiterzuentwickeln. Die Sitzungsprotokolle sind auf der [Meetings] ({filename}98_meetings_de.md) Webseite verfügbar.
+Sie trifft sich mehrmals im Jahr, um GMF weiterzuentwickeln.
 
 ## Werte der Kommunity
 

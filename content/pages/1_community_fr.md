@@ -15,7 +15,7 @@ Elle est composée de divers membres qui viennent aussi bien des secteurs public
 
 Elle entretient des relations avec les éditeurs de logiciel Open Source afin d’assurer l’évolution de l’application GMF sur le plan technique et fonctionnel.
 
-Elle se réunit plusieurs fois par année pour faire évoluer GMF. Les procès-verbaux sont disponible sous la page [meetings]({filename}98_meetings_fr.md).
+Elle se réunit plusieurs fois par année pour faire évoluer GMF.
 
 ## Les valeurs de la communauté
 

@@ -15,7 +15,7 @@ There are various community members coming as well as from the public, private a
 
 It maintains relationships with the given Open Source software editor to ensure the technical and functional evolution of GMF.
 
-It meets several times a year to develop GMF. The minutes are available under the [meeting]({filename}98_meetings.md) page (currently only in French and German).
+It meets several times a year to develop GMF.
 
 ## Values of the community
 
