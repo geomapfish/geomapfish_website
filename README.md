@@ -31,7 +31,6 @@ git submodule update --init
 virtualenv .
 Scripts\pip install Pelican==3.7.1
 Scripts\pip install markdown
-Scripts\pip install beautifulsoup4
 ```
 
 * Create an output folder:
