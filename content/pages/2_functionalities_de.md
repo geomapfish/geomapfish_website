@@ -1,6 +1,6 @@
 Title: Funktionalitäten
 Date: 2016-10-14
-Modified: 2018-05-16
+Modified: 2018-06-01
 Authors: Michael Kalbermatten, Irene Vontobel, Rémi Bovard
 URL: functionalities
 Save_as: functionalities.html
@@ -129,3 +129,6 @@ Die verschiedene GMF Komponenten:
 * ArcGIS for Server
 
 ### ![Functionalities description]({filename}/images/3_3_docker.png) Docker deployment
+
+<br /><br />
+Für einen besseren Überblick, gehen Sie bitte auf die [feature Seite](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).

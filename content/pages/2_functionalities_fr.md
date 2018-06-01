@@ -1,6 +1,6 @@
 Title: Fonctionnalités
 Date: 2016-10-14
-Modified: 2018-05-16
+Modified: 2018-06-01
 Authors: Michael Kalbermatten
 URL: functionalities
 Save_as: functionalities.html
@@ -129,3 +129,6 @@ Les différents composants de GeoMapFish sont:
 * ArcGIS for Server
 
 ### ![Functionalities description]({filename}/images/3_3_docker.png) Déploiement Docker
+
+<br /><br />
+Une meilleure vue d'ensemble des fonctionnalités et versions est donnéee sur la [page des features](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).

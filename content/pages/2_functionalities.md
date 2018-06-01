@@ -1,6 +1,6 @@
 Title: Functionalities
 Date: 2016-10-14
-Modified: 2017-08-24
+Modified: 2018-06-01
 Authors: Michael Kalbermatten
 URL: functionalities
 Save_as: functionalities.html
@@ -129,3 +129,6 @@ Read the documentation:
 * ArcGIS for Server
 
 ### ![Functionalities description]({filename}/images/3_3_docker.png) Docker deployment
+
+<br /><br />
+For a better overview between features and versions, please refer to the [feature page](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).
