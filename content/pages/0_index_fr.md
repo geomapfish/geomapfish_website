@@ -1,6 +1,6 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2017-08-21
+Modified: 2018-05-16
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: index.html
 Save_as: index.html
@@ -10,29 +10,29 @@ Menulabel: Accueil
 <br />
 Bienvenue sur le site web de la communauté GeoMapFish (GMF), merci de votre visite !
 
-Le framework GMF permet de construire des applications WebSIG de manière aisée et flexible.
-Il est composé d'une interface desktop, d'administration, d'une API pour une intégration
-dans des sites connexes et d'une version mobile.
+## Généralités
 
-En plus des webservices aux standards OGC, un protocole MapFish est disponible. Ce dernier
-est adapté pour une communication efficiente entre client et serveur. Sur cette base, des applications
-complexes et performantes peuvent être mises en place.
+GeoMapFish permet de construire des applications WebSIG de manière aisée et flexible.
+Cette solution a été développée pour répondre aux attentes de multiples acteurs, qu'ils
+soient de type privés, publics ou académiques du domaine du géospatial.
 
-GeoMapFish combine quelques-uns des meilleurs outils OpenSource en une seule application:
+GeoMapFish est organisé autour d'une [communauté et d'un project steering committee]({filename}1_community_fr.md).
 
-* Version 1: [OpenLayers 2](https://openlayers.org/two/), [ExtJS](https://docs.sencha.com/extjs/3.4.0/) et [GeoExt](http://geoext.org/v1/) pour la partie cliente
-* Version 2: [OpenLayers](https://openlayers.org/), [AngularJS](https://angularjs.org/) et [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/) pour la partie cliente
-* Modules Python (spécialement ceux liés à [Pyramid](https://trypyramid.com/)) pour la partie serveur
-* [MapFish Print](https://mapfish.github.io/mapfish-print-doc/), un servlet Java dédié à l'impression de documents contenant de la cartographie.
+## Caractéristiques
 
-## Documentation et support
+Pour une liste plus complétes des caractéristiques, merci de vous référer à la page des [fonctionnalités]({filename}2_functionalities_fr.md) page.
 
-Les différents composants de GeoMapFish sont:
+<br />
+![webmapping]({filename}/images/3_2_webmapping.png) **Cartographie**; elle inclut tous les outils nécessaires à un WebSIG : mesure, dessin, impression, etc.
 
-* La partie serveur de GeoMapFish est [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal/) 
-* La partie cliente de GeoMapFish 2.x est une librairie AngularJS appelée [ngeo](https://github.com/camptocamp/ngeo/)
-* La partie cliente de GeoMapFish 1.x est une librairie ExtJS appelée [CGXP](https://github.com/camptocamp/cgxp/)
+<br />
+![editing]({filename}/images/1_8_layer_editing.png) **Edition avancée**; l'édition (points, lignes, polygones, accrochage)  est possible sur des couches protégées de la base de données. Il est même possible de restreindre l'édition à une zone donnée.
 
-## Screenshot
+<br />
+![responsive]({filename}/images/1_1_responsive.png) **Adaptable**; l'interface web est adaptable et compatible avec la plupart des navigateurs et appareils.
 
+<br />
+![webmapping description]({filename}/images/2_1_configuration.png) **Personnalisable et extensible**; au travers de  plugins génériques et/ou fait maison, il est possible d'adapter l'application a tous les besoins des différents utilisateurs.
+
+<br /><br />
 ![Example screenshot]({filename}/images/examples/demo22.png)

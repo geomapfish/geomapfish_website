@@ -1,6 +1,6 @@
 Title: GeoMapFish
 Date: 2016-10-14
-Modified: 2017-08-21
+Modified: 2018-05-16
 Authors: Michael Kalbermatten, Irene Vontobel, Rémi Bovard
 URL: index.html
 Save_as: index.html
@@ -11,28 +11,25 @@ Menulabel: Startseite
 Willkommen auf der GeoMapFish (GMF) Community Webseite!
 
 Das GMF Framework erlaubt einen einfachen und flexiblen Aufbau von Web GIS Applikationen.
-Es besteht aus einer Desktop Oberfläche, einer Administrationsschnittstelle, einer API und
-einer mobilen Version.
+Es wurde entwickelt, um die Bedürfnisse verschiedener Akteure in der Geospatial Umgebung zu erfüllen, ob öffentliche, private oder akademische Akteure.
 
-Neben OGC-Standard Geodiensten setzt GMF auch das Mapfish Protokoll ein. Dieses stellt die
-effiziente Kommunikation zwischen Client und Server sicher. Auf dieser Basis können
-komplexe und leistungsfähige Applikationen gebaut werden.
+GeoMapFish ist um eine [Community und ein Project Steering Committee]({filename}1_community.md) organisiert.
 
-GeoMapFish kombiniert ein paar der besten OpenSource Tools, die es gibt:
+## Features
 
-* Version 1: [OpenLayers 2](https://openlayers.org/two/), [ExtJS](https://docs.sencha.com/extjs/3.4.0/) und [GeoExt](http://geoext.org/v1/) für die Client-Seite
-* Version 2: [OpenLayers](https://openlayers.org/), [AngularJS](https://angularjs.org/) und [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/) für die Client-Seite
-* Python Module (vor allem Papyrus, das auf [Pyramid](https://trypyramid.com/) basiert) für die Server-Seite
-* [MapFish Print](https://mapfish.github.io/mapfish-print-doc/), ein Java-Servlet für das Drucken von Karteninhalten
+Für eine komplette Liste, bitte schauen Sie sich die [Funktionalitäten]({filename}2_functionalities.md) Seite an.
 
-## Dokumentation und Support
+<br />
+![webmapping]({filename}/images/3_2_webmapping.png) **Kartographie** enthält alle erwarteten Tools, die in einem WebGIS benötigt werden: Messen, Zeichnen, Drucken usw.
 
-Die verschiedene GMF Komponenten:
+<br />
+![editing]({filename}/images/1_8_layer_editing.png) **Advanced editing** macht es möglich Edition (Punkte, Linien, Polygone, Snapping) auf geschützten Datenbank Layern zu erstellen. Die Edition kann sogar auf einen bestimmten räumlichen Bereich beschränkt werden.
 
-* Die Server-Seite von GeoMapFish ist [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal/).
-* Die Client-Seite von GeoMapFish 2.x ist eine Angular Library, die sich [ngeo](https://github.com/camptocamp/ngeo/) nennt.
-* Die Client-Seite von GeoMapFish 1.x ist eine ExtJS Library, die sich [CGXP](https://github.com/camptocamp/cgxp/) nennt.
+<br />
+![responsive]({filename}/images/1_1_responsive.png) **Responsive** Vorlagen erlauben eine besondere benutzerfreundliche Erfahrung.
 
-## Screenshot
+<br />
+![webmapping description]({filename}/images/2_1_configuration.png) **Anpassbare und erweiterbare** Applikation - generische Plugins und sogar benutzerentwickelte Plugins können hinzugefügt oder entfernt werden, um Ihnen die komplette Kontrolle über die Benutzererfahrungen zu geben.
 
+<br /><br />
 ![Example screenshot]({filename}/images/examples/demo22.png)

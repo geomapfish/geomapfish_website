@@ -38,7 +38,7 @@ I18N_SUBSITES = {
 }
 
 THEME = 'themes'
-JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

@@ -1,50 +1,55 @@
 Title: Community
-Date: 2016-10-14
-Modified: 2017-02-20
+Date: 2018-05-16
+Modified: 2018-05-16
 Authors: Michael Kalbermatten
 URL: community
 Save_as: community.html
 Slug: 1_community
 Lang: de
-Status: hidden
 
-## Meetings
+## Ziele der Community
 
-Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden sich die Entscheidungen / Bemerkungen des Meeting.
+Das Hauptziel der Community ist die nachhaltige und langfristige Entwicklung der Open Source WebGIS-Lösung GeoMapFish (GMF) sicherzustellen.
 
-### 2018
+Sie umfasst Mitglieder aus dem öffentlichen, privaten und akademischen Bereich.
 
-* [Yverdon-les-Bains, 12.03.2018](meetings/2018-03-12)
+Sie unterhält Geschäftsverbindungen zu Anbietern von Open Source Software, um die Weiterentwicklung der GMF-Anwendung auf technischer und funktionaler Ebene sicherzustellen.
 
-### 2017
+Sie trifft sich mehrmals im Jahr, um GMF weiterzuentwickeln.
 
-* [Yverdon-les-Bains, 06.11.2017](meetings/2017-11-06)
-* [Yverdon-les-Bains, 19.06.2017](meetings/2017-06-19)
-* [Yverdon-les-Bains, 30.01.2017](meetings/2017-01-30)
+## Werte der Kommunity
 
-### 2016
+Die Community basiert auf folgenden Grundwerten:
 
-* [Yverdon-les-Bains, 29.08.2016](meetings/2016-08-29)
-* [Yverdon-les-Bains, 29.02.2016](meetings/2016-02-29)
+* Einen integrativen Dialog zwischen den verschiedenen Mitgliedern der Organisation und dem Herausgeber zu privilegieren.
+* Eine Entscheidungsfindung durch Konsens zu privilegieren, die auf einer definierten und bekannten Planung, einer Entwicklungs-Auswahl und eine Priorisierung beruht
+* Die Gegenseitigkeit und Kostenverteilung je nach den finanziellen Ressourcen von jedem privilegieren.
+* Die Finanzierung von Entwicklungen sicherstellen, um die Nachhaltigkeit, Wartung und Weiterentwicklung der GMF-Lösung zu garantieren.
+* Die Gesamtkosten auf möglichst viele Mitglieder zu verteilen, um den Anteil jedes Mitglieds zu reduzieren.
+* Der GMF Code ist Open Source.
+* Der Herausgeber der Lösung macht eine "kommerzielle" Anstrengung als privilegierter Herausgeber entweder über die Tarife und / oder in der Bereitstellung von Personalressourcen.
 
-### 2015
+## Funktionsweise der Community
 
-* [Yverdon-les-Bains, 14.09.2015](meetings/2015-09-14)
-* [Yverdon-les-Bains, 29.06.2015](meetings/2015-06-29)
-* [Yverdon-les-Bains, 16.03.2015](meetings/2015-03-16)
+Die Gemeinschaft, die aus einer Benutzergruppe besteht, trifft sich regelmàssig  um die Vorschläge des PSC (Project Steering Committee) zu diskutieren. Insbesonders um :
 
-### 2014
+* Den aktuellen Entwicklungsstand zu diskutieren.
+* Der Stand der Finanzierung zu diskutieren.
+* Erfahrungen mit der GMF-Lösung auszutauschen.
 
-* [Yverdon-les-Bains, 15.09.2014](meetings/2014-09-15)
-* [Yverdon-les-Bains, 31.03.2014](meetings/2014-03-31)
+## Leitlinien für bewährtes Vorgehen
 
-### 2013
+Die Mitglieder verpflichten sich, die folgenden Punkte zu respektieren:
 
-* [Yverdon-les-Bains, 11.11.2013](meetings/2013-11-11)
-* [Yverdon-les-Bains, 17.06.2013](meetings/2013-06-17)
-* [Yverdon-les-Bains, 11.03.2013](meetings/2013-03-11)
+* Zur Entwicklung der GMF-Lösung im Rahmen ihrer finanziellen und / oder personellen Möglichkeiten beizutragen.
+* Regelmäßig an den organisierten Sitzungen teilzunehmen.
 
-### 2012
 
-* [Yverdon-les-Bains, 26.11.2012](meetings/2012-11-26)
-* [Yverdon-les-Bains, 29.08.2012](meetings/2012-08-29)
+## Vorteile als Mitglied der Community
+
+* Teilnahme an der Definition der Roadmap für die Weiterentwicklungen von GMF.
+* Sowohl technische als auch funktionale Erwartungen zu neuen Funktionalitäten beisteuern zu können.
+* Von dem Herausgeber und dem PSC (Project Steering Committee) über die letzen GMF Entwicklungen sowie das damit verbundene OpenSource-Ökosystem, informiert zu werden.
+* Von den Entwicklungen durch die Bereitstellung des Quellcodes zu profitieren.
+* Über die Erfahrungen und Probleme der anderen Mitgliedern informiert zu werden.
+* In ein Netzwerk von Mitgliedern mit ähnlichen Bedürfnissen und Problemen eingebunden zu sein.
