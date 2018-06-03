@@ -27,7 +27,7 @@ Read the documentation:
 
 * The server part of GeoMapFish is [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal/).
 * The client part of GeoMapFish 2.x is an Angular library called [ngeo](https://github.com/camptocamp/ngeo/).
-* The client part of GeoMapFish 1.x is an ExtJS librarx called [CGXP](https://github.com/camptocamp/cgxp/).
+* The client part of GeoMapFish 1.x is an ExtJS library called [CGXP](https://github.com/camptocamp/cgxp/).
 
 ## GeoMapFish Viewer
 
