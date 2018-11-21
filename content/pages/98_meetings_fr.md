@@ -14,6 +14,7 @@ Ici se trouve une liste des meetings du groupe. Chaque page regroupe les décisi
 
 ### 2018
 
+* [Yverdon-les-Bains, 12.11.2018](meeting_minutes/2018-11-12)
 * [Yverdon-les-Bains, 12.03.2018](meeting_minutes/2018-03-12)
 
 ### 2017
