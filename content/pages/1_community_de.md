@@ -37,6 +37,44 @@ Die Gemeinschaft, die aus einer Benutzergruppe besteht, trifft sich regelmàssig
 * Der Stand der Finanzierung zu diskutieren.
 * Erfahrungen mit der GMF-Lösung auszutauschen.
 
+### PSC
+
+Der PSC besteht aus den folgenden Entitäten:
+
+* Basel-Landschaft, Basel-Stadt, Neuenburg (Kantone)
+* Cartoriviera, Nyon (Städte)
+* GeoCommunes (privat Unternehmen)
+* Camptocamp (Anbieter)
+
+### Benutzergruppe
+
+Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
+
+* Kanton Basel-Landschaft
+* Kanton Basel-Stadt
+* Kanton Neuenburg
+* Kanton Thurgau
+* Kanton Waadt
+* Kanton Graubünden
+* Kanton Jura
+* Kanton Tessin
+* CartoJuraLéman
+* Gemeinde Nendaz
+* Ecole polytechnique fédérale de Lausanne
+* Gemetris SA
+* HKD Géomatique SA
+* Ingéo SA
+* Jaquier Pointet SA
+* RUDAZ + PARTNER SA
+* swisstopo
+* Stadt Lausanne
+* Stadt Morges
+* Stadt Nyon
+* Stadt Prilly
+* Stadt Pully
+* Stadt Vevey
+* Stadt Yverdon-les-Bains
+
 ## Leitlinien für bewährtes Vorgehen
 
 Die Mitglieder verpflichten sich, die folgenden Punkte zu respektieren:
