@@ -44,18 +44,16 @@ Le PSC est composé des entités suivantes :
 * Bâle-Campagne, Bâle-Ville, Neuchâtel (cantons)
 * Cartoriviera, Nyon (villes)
 * GeoCommunes (privé)
-* Camptocamp (fournisseur)
+* Camptocamp SA (fournisseur)
 
 ### UserGroup
 
 Le UserGroup est composé de représentants des entités suivantes :
 
-* ALPGIS SA
 * Canton de Bâle-Campagne
 * Canton de Bâle-Ville
 * Canton de Neuchâtel
 * Canton de Schwyz
-* Canton de Thurgovie
 * Canton de Vaud
 * Canton des Grisons
 * Canton du Jura
