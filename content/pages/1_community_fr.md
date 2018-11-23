@@ -37,6 +37,46 @@ La communauté, composée d’un UserGroup qui représente l’organe délibéra
 * Faire l’état des finances.
 * Partager les expériences de chacun sur la solution GMF.
 
+### PSC
+
+Le PSC est composé des entités suivantes :
+
+* Bâle-Campagne, Bâle-Ville, Neuchâtel (cantons)
+* Cartoriviera, Nyon (villes)
+* GeoCommunes (privé)
+* Camptocamp (fournisseur)
+
+### UserGroup
+
+Le UserGroup est composé de représentants des entités suivantes :
+
+* ALPGIS SA
+* Canton de Bâle-Campagne
+* Canton de Bâle-Ville
+* Canton de Neuchâtel
+* Canton de Schwyz
+* Canton de Thurgovie
+* Canton de Vaud
+* Canton des Grisons
+* Canton du Jura
+* Canton du Tessin
+* CartoJuraLéman
+* Commune de Nendaz
+* Ecole polytechnique fédérale de Lausanne
+* Gemetris SA
+* HKD Géomatique SA
+* Ingéo SA
+* Jaquier Pointet SA
+* RUDAZ + PARTNER SA
+* swisstopo
+* Ville de Lausanne
+* Ville de Morges
+* Ville de Nyon
+* Ville de Prilly
+* Ville de Pully
+* Ville de Vevey
+* Ville d'Yverdon-les-Bains
+
 ## Les bonnes pratiques du membre de la communauté
 
 Le membre s’engage à respecter les points ci-dessous :
