@@ -52,13 +52,20 @@ The UserGroup is composed of representatives of the following entities:
 
 * Canton of Basel-Landschaft
 * Canton of Basel-Stadt
-* Canton of Neuchâtel
-* Canton of Schwyz
-* Canton of Vaud
 * Canton of Grisons
 * Canton of Jura
+* Canton of Neuchâtel
+* Canton of Schwyz
 * Canton of Ticino
+* Canton of Vaud
 * CartoJuraLéman
+* City of Lausanne
+* City of Morges
+* City of Nyon
+* City of Prilly
+* City of Pully
+* City of Vevey
+* City of Yverdon-les-Bains
 * Commune of Nendaz
 * Ecole polytechnique fédérale de Lausanne
 * Gemetris SA
@@ -67,13 +74,6 @@ The UserGroup is composed of representatives of the following entities:
 * Jaquier Pointet SA
 * RUDAZ + PARTNER SA
 * swisstopo
-* City of Lausanne
-* City of Morges
-* City of Nyon
-* City of Prilly
-* City of Pully
-* City of Vevey
-* City of Yverdon-les-Bains
 
 ## Community member's best practices
 
