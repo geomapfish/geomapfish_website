@@ -50,23 +50,22 @@ Der PSC besteht aus den folgenden Entitäten:
 
 Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 
-* Kanton Basel-Landschaft
-* Kanton Basel-Stadt
-* Kanton Neuenburg
-* Kanton Thurgau
-* Kanton Waadt
-* Kanton Graubünden
-* Kanton Jura
-* Kanton Tessin
 * CartoJuraLéman
-* Gemeinde Nendaz
 * Ecole polytechnique fédérale de Lausanne
+* Gemeinde Nendaz
 * Gemetris SA
 * HKD Géomatique SA
 * Ingéo SA
 * Jaquier Pointet SA
+* Kanton Basel-Landschaft
+* Kanton Basel-Stadt
+* Kanton Graubünden
+* Kanton Jura
+* Kanton Neuenburg
+* Kanton Tessin
+* Kanton Thurgau
+* Kanton Waadt
 * RUDAZ + PARTNER SA
-* swisstopo
 * Stadt Lausanne
 * Stadt Morges
 * Stadt Nyon
@@ -74,6 +73,7 @@ Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 * Stadt Pully
 * Stadt Vevey
 * Stadt Yverdon-les-Bains
+* swisstopo
 
 ## Leitlinien für bewährtes Vorgehen
 
