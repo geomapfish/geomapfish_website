@@ -37,6 +37,43 @@ The community, composed of a User Group, meets regularly to discuss the proposal
 * Verify the current state of finances.
 * Share everyone's experiences regarding GMF.
 
+### PSC
+
+The PSC is composed of the following entities:
+
+* Basel-Landschaft, Basel-Stadt, Neuchâtel (cantons)
+* Cartoriviera, Nyon (cities)
+* GeoCommunes (private companies)
+* Camptocamp SA (supplier)
+
+### UserGroup
+
+The UserGroup is composed of representatives of the following entities:
+
+* Canton of Basel-Landschaft
+* Canton of Basel-Stadt
+* Canton of Neuchâtel
+* Canton of Schwyz
+* Canton of Vaud
+* Canton of Grisons
+* Canton of Jura
+* Canton of Ticino
+* CartoJuraLéman
+* Commune of Nendaz
+* Ecole polytechnique fédérale de Lausanne
+* Gemetris SA
+* HKD Géomatique SA
+* Ingéo SA
+* Jaquier Pointet SA
+* RUDAZ + PARTNER SA
+* swisstopo
+* City of Lausanne
+* City of Morges
+* City of Nyon
+* City of Prilly
+* City of Pully
+* City of Vevey
+* City of Yverdon-les-Bains
 
 ## Community member's best practices
 
