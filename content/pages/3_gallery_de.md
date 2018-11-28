@@ -9,6 +9,7 @@ Lang: de
 
 ## Demos
 
+* Version 2.4 (WIP): [Desktop](https://geomapfish-demo-dc.camptocamp.com/2.4/?lang=de) / [Mobile](https://geomapfish-demo-dc.camptocamp.com/2.4/mobile/?lang=de)
 * Version 2.3: [Desktop](https://geomapfish-demo.camptocamp.com/2.3/?lang=de) / [Mobile](https://geomapfish-demo.camptocamp.com/2.3/mobile/?lang=de)
 * Version 2.2: [Desktop](https://geomapfish-demo.camptocamp.net/2.2/?lang=de) / [Mobile](https://geomapfish-demo.camptocamp.net/2.2/mobile/?lang=de)
 * Version 1.6: [Desktop](https://geomapfish-demo.camptocamp.net/1.6/) / [Mobile](https://geomapfish-demo.camptocamp.net/1.6/mobile/)
