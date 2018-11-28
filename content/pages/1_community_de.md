@@ -71,6 +71,7 @@ Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 * Stadt Nyon
 * Stadt Prilly
 * Stadt Pully
+* Gemeinde Belmont-sur-Lausanne
 * Stadt Vevey
 * Stadt Yverdon-les-Bains
 * swisstopo
