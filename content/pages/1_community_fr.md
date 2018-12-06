@@ -59,6 +59,7 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Canton du Jura
 * Canton du Tessin
 * CartoJuraLéman
+* Cartoriviera
 * Commune de Nendaz
 * Ecole polytechnique fédérale de Lausanne
 * Gemetris SA
@@ -72,7 +73,6 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Ville de Nyon
 * Ville de Prilly
 * Ville de Pully
-* Ville de Vevey
 * Ville d'Yverdon-les-Bains
 
 ## Les bonnes pratiques du membre de la communauté

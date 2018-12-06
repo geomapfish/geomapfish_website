@@ -59,12 +59,12 @@ The UserGroup is composed of representatives of the following entities:
 * Canton of Ticino
 * Canton of Vaud
 * CartoJuraLéman
+* Cartoriviera
 * City of Lausanne
 * City of Morges
 * City of Nyon
 * City of Prilly
 * City of Pully
-* City of Vevey
 * City of Yverdon-les-Bains
 * Commune of Nendaz
 * Ecole polytechnique fédérale de Lausanne
