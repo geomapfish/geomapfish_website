@@ -50,7 +50,7 @@ Der PSC besteht aus den folgenden Entitäten:
 
 Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 
-* CartoJuraLéman
+* CartoJuraLéman (Bezirk Morges)
 * Cartoriviera
 * Ecole polytechnique fédérale de Lausanne
 * Gemeinde Nendaz
@@ -68,7 +68,6 @@ Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 * Kanton Waadt
 * RUDAZ + PARTNER SA
 * Stadt Lausanne
-* Stadt Morges
 * Stadt Nyon
 * Stadt Prilly
 * Stadt Pully

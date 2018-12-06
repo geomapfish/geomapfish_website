@@ -58,7 +58,7 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Canton des Grisons
 * Canton du Jura
 * Canton du Tessin
-* CartoJuraLéman
+* CartoJuraLéman (district de Morges)
 * Cartoriviera
 * Commune de Nendaz
 * Ecole polytechnique fédérale de Lausanne
@@ -69,7 +69,6 @@ Le UserGroup est composé de représentants des entités suivantes :
 * RUDAZ + PARTNER SA
 * swisstopo
 * Ville de Lausanne
-* Ville de Morges
 * Ville de Nyon
 * Ville de Prilly
 * Ville de Pully
