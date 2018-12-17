@@ -73,7 +73,6 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Ville de Nyon
 * Ville de Prilly
 * Ville de Pully
-* Ville de Vevey
 * Ville d'Yverdon-les-Bains
 
 ## Les bonnes pratiques du membre de la communauté
