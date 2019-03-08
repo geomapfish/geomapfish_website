@@ -1,6 +1,6 @@
 Title: Communauté
 Date: 2018-05-16
-Modified: 2018-11-27
+Modified: 2018-03-08
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: community
 Save_as: community.html
@@ -62,10 +62,8 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Cartoriviera
 * Commune de Nendaz
 * Ecole polytechnique fédérale de Lausanne
-* Gemetris SA
-* HKD Géomatique SA
+* GeoCommunes
 * Ingéo SA
-* Jaquier Pointet SA
 * RUDAZ + PARTNER SA
 * swisstopo
 * Ville de Lausanne

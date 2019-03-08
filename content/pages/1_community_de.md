@@ -1,6 +1,6 @@
 Title: Community
 Date: 2018-05-16
-Modified: 2018-11-27
+Modified: 2018-03-08
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: community
 Save_as: community.html
@@ -54,10 +54,8 @@ Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 * Cartoriviera
 * Ecole polytechnique fédérale de Lausanne
 * Gemeinde Nendaz
-* Gemetris SA
-* HKD Géomatique SA
+* GeoCommunes
 * Ingéo SA
-* Jaquier Pointet SA
 * Kanton Basel-Landschaft
 * Kanton Basel-Stadt
 * Kanton Graubünden
