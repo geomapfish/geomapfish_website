@@ -19,7 +19,7 @@ Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden si
 ### 2018
 
 * [Yverdon-les-Bains, 12.11.2018](meetings/2018-11-12)
-* [Yverdon-les-Bains, 12.03.2018]](meetings/2018-03-12)
+* [Yverdon-les-Bains, 12.03.2018](meetings/2018-03-12)
 
 ### 2017
 
