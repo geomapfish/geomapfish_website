@@ -9,7 +9,7 @@ Lang: en
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
-*Latest page update: **2018-11-13***
+*Latest page update: **2019-03-18***
 
 ## Version 2.5
 
@@ -23,11 +23,14 @@ Next coming version:
 
 To be defined
 
-## Version 2.4
+## Version 2.4 (LTR)
+
+Version under development:
 
 * Functionalities status: In development
-* Development: Starting in August 2018
-* Estimated release date: March 2019
+* Development: Starting in Noember 2018
+* Estimated release date: 15 April 2019
+* EOS: 15 April 2022
 
 ### Functionalities
 
@@ -47,8 +50,6 @@ To be defined
 
 ## Version 2.3
 
-Version under development:
-
 * Functionalities status: Frozen
 * Development: Done
 * Release date: 23<sup>th</sup> Mai 2018
@@ -64,8 +65,6 @@ Version under development:
 7. Opacity for layers in mobile version
 
 ## Version 2.2
-
-Current version:
 
 * Functionalities status: Frozen
 * Development: Done

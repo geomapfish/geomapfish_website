@@ -1,6 +1,6 @@
 Title: Meetings
 Date: 2016-10-14
-Modified: 2018-05-16
+Modified: 2019-03-22
 Authors: Michael Kalbermatten
 URL: meetings
 Save_as: meetings.html
@@ -11,6 +11,10 @@ Status: hidden
 ## Meetings
 
 Ici se trouve une liste des meetings du groupe. Chaque page regroupe les décisions / remarques prises.
+
+### 2019
+
+* [Yverdon-les-Bains, 18.03.2019](meeting_minutes/2019-03-18)
 
 ### 2018
 
