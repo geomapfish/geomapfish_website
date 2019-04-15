@@ -1,6 +1,6 @@
 Title: Galerie
 Date: 2016-10-14
-Modified: 2018-11-28
+Modified: 2019-04-15
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: gallery
 Save_as: gallery.html
@@ -11,7 +11,6 @@ Lang: fr
 
 * Version 2.4 (WIP): [Desktop](https://geomapfish-demo-dc.camptocamp.com/2.4/?lang=fr) / [Mobile](https://geomapfish-demo-dc.camptocamp.com/2.4/mobile/?lang=fr)
 * Version 2.3: [Desktop](https://geomapfish-demo.camptocamp.com/2.3/?lang=fr) / [Mobile](https://geomapfish-demo.camptocamp.com/2.3/mobile/?lang=fr)
-* Version 2.2: [Desktop](https://geomapfish-demo.camptocamp.net/2.2/?lang=fr) / [Mobile](https://geomapfish-demo.camptocamp.net/2.2/mobile/?lang=fr)
 * Version 1.6: [Desktop](https://geomapfish-demo.camptocamp.net/1.6/) / [Mobile](https://geomapfish-demo.camptocamp.net/1.6/mobile/)
 
 # Références
