@@ -31,8 +31,8 @@ Version under development:
 4. Close legend automatically when layer is deactivated
 5. Display snappable layers and enable activation/deactivation
 6. Intranet user panel
-7. Show and validate mandatory fields in editing panel
-8. Timeslider improvments (dynamic map rendering)
+7. Show and validate mandatory fields in editing form
+8. Timeslider improvements (dynamic map rendering)
 9. Be able to define min and max scale for WMTS
 10. Let filters active even if panel is closed
 11. Query using a polygon
@@ -42,7 +42,7 @@ Version under development:
 15. KML styling (import & export)
 16. Be able to use desktop on a tablet
 17. Geolocation on desktop interface
-18. WMS getFeatureInfo on non WFS servers
+18. WMS GetFeatureInfo on non WFS servers
 19. Security - No cached credentials
 20. Security - Configurable account lockout
 21. Security - Secure password storage
@@ -53,8 +53,8 @@ Version under development:
 
 * Functionalities status: Frozen
 * Development: Done
-* Release date: 07 July 2019
-* EOS: 07 July 2022
+* Release date: 7<sup>th</sup> July 2019
+* EOS: 7<sup>th</sup> July 2022
 
 ### Functionalities
 

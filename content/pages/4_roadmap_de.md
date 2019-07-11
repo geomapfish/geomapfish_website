@@ -42,7 +42,7 @@ Version in der Entwicklungsphase:
 15. KML Styling (Import & Export)
 16. Benützen der Desktopversion auf einem Tablet
 17. Geolocation auf der Desktopversion
-18. WMS getFeatureInfo auf nicht WFS Servern
+18. WMS GetFeatureInfo auf nicht WFS Servern
 19. Sicherheit - Kein Caching von Zugangsdaten
 20. Sicherheit - Konfigurierbare Kontosperrung
 21. Sicherheit - Verschlüsselte Passwordspeicherung

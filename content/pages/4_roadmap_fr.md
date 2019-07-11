@@ -29,25 +29,25 @@ Version en développement:
 2. Map slider (glisser entre deux cartes)
 3. Amélioration du dessin, pouvoir définir des longueurs et tailles
 4. Fermer automatiquement la légende lorsqu'une couche est désactivée
-5. Illustrer les couches accrochables et permettre l'activation / désactivation
+5. Afficher les couches accrochables et permettre l'activation / désactivation
 6. Panneau de gestion Intranet
-7. Afficher et valider les champs obligatoires dans le panneau d'édition
-8. Améliorer le Timeslider (rendu dynamique de la carte)
+7. Afficher et valider les champs obligatoires dans le formulaire d'édition
+8. Améliorer le slider temporel (rendu dynamique de la carte)
 9. Echelles min et max pour les couches WMTS
 10. Laisser les filtres actifs quand le panneau est fermé
 11. Requête en utilisant un polygone
 12. Indicateur de chargement et compteur d'objet
 13. Raccourcir les noms trop longs dans la fenêtre de résultats
 14. Story maps
-15. Style des KML (à l'importation & exportation)
-16. Adapter le desktop pour une utilisation sur tablette
+15. Style des KML (import & export)
+16. Adapter l'interface desktop pour une utilisation sur tablette
 17. Géolocalisation sur l'interface desktop
-18. WMS getFeatureInfo sur des serveurs ne supportant pas le WFS
-19. Securité - Pas d'accréditation en cache
-20. Securité - Blocage de compte configurable
-21. Securité - Stockage sécurisé des mots de passe
-22. Securité - Timeout des sessions
-23. Architecture - Plus que Docker
+18. WMS GetFeatureInfo sur des serveurs ne supportant pas le WFS
+19. Sécurité - Pas d'accréditation en cache
+20. Sécurité - Blocage de compte configurable
+21. Sécurité - Stockage sécurisé des mots de passe
+22. Sécurité - Timeout des sessions
+23. Architecture - Docker uniquement
 
 ## Version 2.4 (LTR)
 
