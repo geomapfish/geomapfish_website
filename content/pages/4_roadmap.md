@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2018-11-13
+Modified: 2019-07-11
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -9,28 +9,52 @@ Lang: en
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
-*Latest page update: **2019-03-18***
+*Latest page update: **2019-07-11***
+
+## Version 2.6
+
+No time span yet
 
 ## Version 2.5
-
-Next coming version:
-
-* Functionalities status: Under evaluation
-* Development: Starting in June 2019
-* Estimated release date: end of 2019
-
-### Functionalities
-
-To be defined
-
-## Version 2.4 (LTR)
 
 Version under development:
 
 * Functionalities status: In development
-* Development: Starting in Noember 2018
-* Estimated release date: 15 April 2019
-* EOS: 15 April 2022
+* Development: Starting in August 2019
+* Estimated release date: end of 2019
+
+### Functionalities
+
+1. Improve WMS browser (search, server list)
+2. Map slider (swipe between maps)
+3. Improve redlining, be able to define length, size
+4. Close legend automatically when layer is deactivated
+5. Display snappable layers and enable activation/deactivation
+6. Intranet user panel
+7. Show and validate mandatory fields in editing panel
+8. Timeslider improvments (dynamic map rendering)
+9. Be able to define min and max scale for WMTS
+10. Let filters active even if panel is closed
+11. Query using a polygon
+12. Global loading & counter message
+13. Long name cut off in display window
+14. Story maps
+15. KML styling (import & export)
+16. Be able to use desktop on a tablet
+17. Geolocation on desktop interface
+18. WMS getFeatureInfo on non WFS servers
+19. Security - No cached credentials
+20. Security - Configurable account lockout
+21. Security - Secure password storage
+22. Security - Session timeouts
+23. Architecture - Docker only
+
+## Version 2.4 (LTR)
+
+* Functionalities status: Frozen
+* Development: Done
+* Release date: 07 July 2019
+* EOS: 07 July 2022
 
 ### Functionalities
 
