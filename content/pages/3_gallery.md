@@ -1,6 +1,6 @@
 Title: Gallery
 Date: 2016-10-14
-Modified: 2019-04-15
+Modified: 2019-07-11
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: gallery
 Save_as: gallery.html
@@ -30,7 +30,6 @@ Lang: en
 * [Guichet cartographique de Nendaz](https://nendaz-geoportail.sig.cloud.camptocamp.net/)
 * [MapBS Geoportal Kanton Basel-Stadt](https://map.geo.bs.ch/)
 * [Portail Cartographique de l'Agglomération du Pays Châtelleraudais](https://carto.grand-chatellerault.fr/)
-* [RegioGIS Berner Oberland](http://map.regiogis-beo.ch/)
 * [SITNyon Géoportail de la Ville de Nyon](https://map.nyon.ch/)
 * [Système d'Information Géographique Intercommunal de Pully et Belmont](https://www.sigip.ch/)
 * [WebGIS der Walliser Gemeinden von RUDAZ+PARTNER SA/AG](https://www.vsgis.ch/)
