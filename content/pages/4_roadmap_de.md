@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2019-03-22
+Modified: 2019-07-11
 Authors: Michael Kalbermatten, Rémi Bovard, Irene Vontobel
 URL: roadmap
 Save_as: roadmap.html
@@ -9,24 +9,52 @@ Lang: de
 <br />
 Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Release Notes der verschiedenen Versionen.
 
-*Letztes Update der Seite: **22.03.2019***
+*Letztes Update der Seite: **11.07.2019***
+
+## Version 2.6
+
+Noch nicht geplannt
 
 ## Version 2.5
 
-Version in Planung:
+Version in der Entwicklungsphase:
 
-* Status der Funktionalitäten: Unter Auswertung
-* Entwicklungen: Juni 2019
+* Status der Funktionalitäten: In der Entwicklungsphase
+* Entwicklungen: Anfang August 2019
 * Geschätztes Freigabedatum: Ende 2019
 
 ### Funktionalitäten
 
+1. Verbesserung vom WMS browser (Layer Suche, Server Liste)
+2. Map slider (zwei Karten vergleichen)
+3. Verbesserung der Zeichenwerkzeuge (Länge, Grösse)
+4. Legende automatisch schliessen, wenn den Layer deaktiviert wird
+5. Snap Layers anzeigen und aktivieren / deaktivieren lassen
+6. Intranet Benutzerpanel
+7. Anzeige und Validierung von obligatorischen Feldern im Editionsformular
+8. Verbesserung der Zeitleiste (dynamisches Karten Rendering)
+9. Definition von min und max Kartenmassstab von WMTS Layers
+10. Filter aktiv lassen selbst wenn Formular geschlossen wird
+11. Abfrage mit Polygon
+12. Globales Laden und Zähleranzeige
+13. Verkürzung langer Namen im Anzeigefenster
+14. Story maps
+15. KML Styling (Import & Export)
+16. Benützen der Desktopversion auf einem Tablet
+17. Geolocation auf der Desktopversion
+18. WMS GetFeatureInfo auf nicht WFS Servern
+19. Sicherheit - Kein Caching von Zugangsdaten
+20. Sicherheit - Konfigurierbare Kontosperrung
+21. Sicherheit - Verschlüsselte Passwordspeicherung
+22. Sicherheit - Session timeouts
+23. Architektur - Docker only
+
 ## Version 2.4 (LTR)
 
-* Status der Funktionalitäten: In der Entwicklungsphase
-* Entwicklungen: November 2018
-* Geschätztes Freigabedatum: 15. April 2019
-* EOS: 15. April 2022
+* Status der Funktionalitäten: Festgesetzt
+* Entwicklungen: Fertig
+* Freigabedatum: 7. Juli 2019
+* EOS: 7. Juli 2022
 
 ### Funktionalitäten
 

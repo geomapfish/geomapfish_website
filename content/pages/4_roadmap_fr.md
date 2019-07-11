@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2019-03-19
+Modified: 2019-07-11
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -9,26 +9,52 @@ Lang: fr
 <br />
 Ci-dessous vous trouvez la roadmap de GeoMapFish ainsi que les notes listant les nouvelles fonctionnalités de chaque version.
 
-*Dernière mise à jour de la page: **22.03.2019***
+*Dernière mise à jour de la page: **11.07.2019***
+
+## Version 2.6
+
+Détails et délais non définis
 
 ## Version 2.5
 
-Future version:
+Version en développement:
 
-* Statut des fonctionnalités: En cours d'évaluation
-* Développement: juin 2019
-* Date de sortie approximative: Fin 2019
+* Statut des fonctionnalités: en développement
+* Développement: début en août 2019
+* Date estimée de sortie: fin 2019
 
 ### Fonctionnalités
 
-A définir
+1. Amélioration du navigateur WMS (recherche et liste de serveurs)
+2. Map slider (glisser entre deux cartes)
+3. Amélioration du dessin, pouvoir définir des longueurs et tailles
+4. Fermer automatiquement la légende lorsqu'une couche est désactivée
+5. Afficher les couches accrochables et permettre l'activation / désactivation
+6. Panneau de gestion Intranet
+7. Afficher et valider les champs obligatoires dans le formulaire d'édition
+8. Améliorer le slider temporel (rendu dynamique de la carte)
+9. Echelles min et max pour les couches WMTS
+10. Laisser les filtres actifs quand le panneau est fermé
+11. Requête en utilisant un polygone
+12. Indicateur de chargement et compteur d'objet
+13. Raccourcir les noms trop longs dans la fenêtre de résultats
+14. Story maps
+15. Style des KML (import & export)
+16. Adapter l'interface desktop pour une utilisation sur tablette
+17. Géolocalisation sur l'interface desktop
+18. WMS GetFeatureInfo sur des serveurs ne supportant pas le WFS
+19. Sécurité - Pas d'accréditation en cache
+20. Sécurité - Blocage de compte configurable
+21. Sécurité - Stockage sécurisé des mots de passe
+22. Sécurité - Timeout des sessions
+23. Architecture - Docker uniquement
 
 ## Version 2.4 (LTR)
 
-* Statut des fonctionnalités: En développement
-* Développement: novembre 2018
-* Date de sortie: 15 avril 2019
-* EOS: 15 avril 2022
+* Statut des fonctionnalités: figé
+* Développement: terminé
+* Date de sortie: 7 juillet 2019
+* EOS: 7 juillet 2022
 
 ### Fonctionnalités
 
