@@ -24,7 +24,7 @@ Lang: de
 * [Géoportail du Système d'Information du Territoire Jurassien](https://geo.jura.ch/)
 * [Géoportail du Système d'Information du Territoire Neuchâtelois](https://sitn.ne.ch/)
 * [Géoportail EPFL](https://geoportail.epfl.ch/)
-* [Géoportail Nord vaudois - Yverdon-les-Bains](https://mapnv.ch/)
+* [Géoportail Nord Vaudois - Yverdon-les-Bains](https://mapnv.ch/)
 * [Geoview Basel Landschaft](https://geoview.bl.ch/)
 * [Graubünden Interaktive Karten](http://map.geo.gr.ch/)
 * [Guichet cartographique de Nendaz](https://nendaz-geoportail.sig.cloud.camptocamp.net/)

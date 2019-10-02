@@ -70,7 +70,7 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Ville de Nyon
 * Ville de Prilly
 * Ville de Pully
-* Ville d'Yverdon-les-Bains
+* Géoportail du Nord Vaudois
 
 ## Les bonnes pratiques du membre de la communauté
 
