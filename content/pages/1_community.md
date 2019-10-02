@@ -64,7 +64,7 @@ The UserGroup is composed of representatives of the following entities:
 * City of Nyon
 * City of Prilly
 * City of Pully
-* City of Yverdon-les-Bains
+* Géoportail du Nord Vaudois
 * Commune of Nendaz
 * Ecole polytechnique fédérale de Lausanne
 * GeoCommunes
