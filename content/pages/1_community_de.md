@@ -55,6 +55,7 @@ Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 * Ecole polytechnique fédérale de Lausanne
 * Gemeinde Nendaz
 * GeoCommunes
+* Géoportail du Nord Vaudois
 * Ingéo SA
 * Kanton Basel-Landschaft
 * Kanton Basel-Stadt
@@ -69,7 +70,6 @@ Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 * Stadt Nyon
 * Stadt Prilly
 * Stadt Pully
-* Géoportail du Nord Vaudois
 * swisstopo
 
 ## Leitlinien für bewährtes Vorgehen

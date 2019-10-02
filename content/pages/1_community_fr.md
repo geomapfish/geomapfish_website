@@ -63,6 +63,7 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Commune de Nendaz
 * Ecole polytechnique fédérale de Lausanne
 * GeoCommunes
+* Géoportail du Nord Vaudois
 * Ingéo SA
 * RUDAZ + PARTNER SA
 * swisstopo
@@ -70,7 +71,6 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Ville de Nyon
 * Ville de Prilly
 * Ville de Pully
-* Géoportail du Nord Vaudois
 
 ## Les bonnes pratiques du membre de la communauté
 
