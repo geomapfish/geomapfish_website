@@ -1,6 +1,6 @@
 Title: Fonctionnalités
 Date: 2016-10-14
-Modified: 2018-06-01
+Modified: 2019-10-03
 Authors: Michael Kalbermatten
 URL: functionalities
 Save_as: functionalities.html
@@ -26,8 +26,7 @@ GeoMapFish combine quelques-uns des meilleurs outils OpenSource en une seule app
 Les différents composants de GeoMapFish sont:
 
 * La partie serveur de GeoMapFish est [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal/) 
-* La partie cliente de GeoMapFish 2.x est une librairie AngularJS appelée [ngeo](https://github.com/camptocamp/ngeo/)
-* La partie cliente de GeoMapFish 1.x est une librairie ExtJS appelée [CGXP](https://github.com/camptocamp/cgxp/)
+* La partie cliente de GeoMapFish est une librairie AngularJS appelée [ngeo](https://github.com/camptocamp/ngeo/)
 
 ## GeoMapFish Viewer
 

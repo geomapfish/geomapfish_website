@@ -1,6 +1,6 @@
 Title: Status
 Date: 2016-10-14
-Modified: 2017-06-20
+Modified: 2019-10-03
 Authors: Camptocamp, Michael Kalbermatten
 URL: status
 Save_as: status.html
@@ -16,10 +16,6 @@ Continuous Integration & Test Coverage
     * master:  [![Travis CI Status](https://secure.travis-ci.org/camptocamp/c2cgeoportal.svg?branch=master)](https://travis-ci.org/camptocamp/c2cgeoportal/branches) [![Coverage Status](https://coveralls.io/repos/camptocamp/c2cgeoportal/badge.svg?branch=master&service=github)](https://coveralls.io/github/camptocamp/c2cgeoportal?branch=master)
     * 2.2: [![Travis CI Status](https://travis-ci.org/camptocamp/c2cgeoportal.svg?branch=2.2)](https://travis-ci.org/camptocamp/c2cgeoportal/branches)
     * 2.1: [![Travis CI Status](https://travis-ci.org/camptocamp/c2cgeoportal.svg?branch=2.1)](https://travis-ci.org/camptocamp/c2cgeoportal/branches)
-    * 1.6: [![Travis CI Status](https://travis-ci.org/camptocamp/c2cgeoportal.svg?branch=1.6)](https://travis-ci.org/camptocamp/c2cgeoportal/branches)
-* cgxp  branches status: 
-    * master:  [![Travis CI Status](https://travis-ci.org/camptocamp/cgxp.svg?branch=master)](https://travis-ci.org/camptocamp/cgxp/branches) 
-    * 1.6: [![Travis CI Status](https://travis-ci.org/camptocamp/ngeo.svg?branch=master)](https://travis-ci.org/camptocamp/cgxp/branches)
 * ngeo master: [![Coverage Status](https://coveralls.io/repos/github/camptocamp/ngeo/badge.svg?branch=master)](https://coveralls.io/github/camptocamp/ngeo?branch=master)[![Issuestats PR](http://issuestats.com/github/camptocamp/ngeo/badge/pr)](http://issuestats.com/github/camptocamp/ngeo)[![Issuestats Issues](http://issuestats.com/github/camptocamp/ngeo/badge/issue)](http://issuestats.com/github/camptocamp/ngeo)
     * master: [![Travis CI Status](https://travis-ci.org/camptocamp/ngeo.svg?branch=master)](https://travis-ci.org/camptocamp/ngeo/branches)
     * 2.2: [![Travis CI Status](https://travis-ci.org/camptocamp/ngeo.svg?branch=2.2)](https://travis-ci.org/camptocamp/ngeo/2.2)
