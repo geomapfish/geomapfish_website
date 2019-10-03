@@ -12,6 +12,10 @@ Lang: en
 * Version 2.4 (LTR): [Desktop](https://geomapfish-demo-2-4.camptocamp.com/?lang=en) / [Mobile](https://geomapfish-demo-2-4.camptocamp.com/mobile?lang=en)
 * Version 2.3: [Desktop](https://geomapfish-demo.camptocamp.com/2.3/?lang=en) / [Mobile](https://geomapfish-demo.camptocamp.com/2.3/mobile/?lang=en)
 
+### Version under development
+
+* Version 2.5: [Desktop](https://geomapfish-demo-2-5.camptocamp.com/?lang=en) / [Mobile](https://geomapfish-demo-2-5.camptocamp.com/mobile?lang=en)
+
 ## References
 
 * [Aprona, l'observatoire de la nappe d'Alsace](https://carto.aprona.net/)
