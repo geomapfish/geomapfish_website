@@ -1,7 +1,7 @@
 Title: Fonctionnalités
 Date: 2016-10-14
 Modified: 2019-10-03
-Authors: Michael Kalbermatten
+Authors: Michael Kalbermatten, Rémi Bovard
 URL: functionalities
 Save_as: functionalities.html
 Slug: 2_functionalities
