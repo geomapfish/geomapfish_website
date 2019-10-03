@@ -1,7 +1,7 @@
 Title: Status
 Date: 2016-10-14
 Modified: 2019-10-03
-Authors: Camptocamp, Michael Kalbermatten
+Authors: Camptocamp, Michael Kalbermatten, Rémi Bovard
 URL: status
 Save_as: status.html
 Slug: 99_status

@@ -1,7 +1,7 @@
 Title: Community
 Date: 2018-05-16
-Modified: 2018-03-08
-Authors: Michael Kalbermatten, Rémi Bovard
+Modified: 2019-10-02
+Authors: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: community
 Save_as: community.html
 Slug: 1_community

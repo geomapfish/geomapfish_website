@@ -1,7 +1,7 @@
 Title: Gallery
 Date: 2016-10-14
 Modified: 2019-10-03
-Authors: Michael Kalbermatten, Rémi Bovard
+Authors: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: gallery
 Save_as: gallery.html
 Slug: 3_gallery
