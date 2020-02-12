@@ -25,6 +25,7 @@ GeoMapFish combines some of the best Open Source tools in one application:
 
 Read the documentation:
 
+* Latest documentation is available [here](https://camptocamp.github.io/c2cgeoportal/master/)
 * The server part of GeoMapFish is [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal/).
 * The client part of GeoMapFish is an Angular library called [ngeo](https://github.com/camptocamp/ngeo/).
 
