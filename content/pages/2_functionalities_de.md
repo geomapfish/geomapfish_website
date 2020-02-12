@@ -25,6 +25,7 @@ GeoMapFish kombiniert ein paar der besten OpenSource Tools, die es gibt:
 
 Die verschiedene GMF Komponenten:
 
+* Die letzte Dokumentation ist [here](https://camptocamp.github.io/c2cgeoportal/master/)
 * Die Server-Seite von GeoMapFish ist [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal/).
 * Die Client-Seite von GeoMapFish ist eine Angular Library, die sich [ngeo](https://github.com/camptocamp/ngeo/) nennt.
 
