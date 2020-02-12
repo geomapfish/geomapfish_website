@@ -25,6 +25,7 @@ GeoMapFish combine quelques-uns des meilleurs outils OpenSource en une seule app
 
 Les différents composants de GeoMapFish sont:
 
+* La dernière version de la documentation se trouve [ici](https://camptocamp.github.io/c2cgeoportal/master/)
 * La partie serveur de GeoMapFish est [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal/) 
 * La partie cliente de GeoMapFish est une librairie AngularJS appelée [ngeo](https://github.com/camptocamp/ngeo/)
 
