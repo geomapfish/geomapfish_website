@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2019-07-11
+Modified: 2020-03-19
 Authors: Michael Kalbermatten, Rémi Bovard, Irene Vontobel
 URL: roadmap
 Save_as: roadmap.html
@@ -9,7 +9,7 @@ Lang: de
 <br />
 Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Release Notes der verschiedenen Versionen.
 
-*Letztes Update der Seite: **11.07.2019***
+*Letztes Update der Seite: **19.03.2020***
 
 ## Version 2.6
 
@@ -21,7 +21,7 @@ Version in der Entwicklungsphase:
 
 * Status der Funktionalitäten: In der Entwicklungsphase
 * Entwicklungen: Anfang August 2019
-* Geschätztes Freigabedatum: Ende 2019
+* Geschätztes Freigabedatum: April 2020
 * Dokumentation: laufend [camptocamp.github.io/c2cgeoportal/master](https://camptocamp.github.io/c2cgeoportal/master/)
 
 ### Funktionalitäten
