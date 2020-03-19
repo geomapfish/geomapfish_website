@@ -1,6 +1,6 @@
 Title: Fonctionnalités
 Date: 2016-10-14
-Modified: 2019-10-03
+Modified: 2020-03-19
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: functionalities
 Save_as: functionalities.html
@@ -16,8 +16,7 @@ complexes et performantes peuvent être mises en place.
 
 GeoMapFish combine quelques-uns des meilleurs outils OpenSource en une seule application:
 
-* Version 1: [OpenLayers 2](https://openlayers.org/two/), [ExtJS](https://docs.sencha.com/extjs/3.4.0/) et [GeoExt](http://geoext.org/v1/) pour la partie cliente
-* Version 2: [OpenLayers](https://openlayers.org/), [AngularJS](https://angularjs.org/) et [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/) pour la partie cliente
+* [OpenLayers](https://openlayers.org/), [AngularJS](https://angularjs.org/) et [ngeo](https://camptocamp.github.io/ngeo/master/apidoc/) pour la partie cliente
 * Modules Python (spécialement ceux liés à [Pyramid](https://trypyramid.com/)) pour la partie serveur
 * [MapFish Print](https://mapfish.github.io/mapfish-print-doc/), un servlet Java dédié à l'impression de documents contenant de la cartographie.
 
