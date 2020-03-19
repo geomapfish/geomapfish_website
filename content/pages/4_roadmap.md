@@ -22,7 +22,7 @@ Version under development:
 * Functionalities status: In development
 * Development: Starting in August 2019
 * Estimated release date: end of 2019
-* Documentation: to be released (https://camptocamp.github.io/c2cgeoportal/master/)
+* Documentation: to be released [camptocamp.github.io/c2cgeoportal/master](https://camptocamp.github.io/c2cgeoportal/master/)
 
 ### Functionalities
 
@@ -56,7 +56,7 @@ Version under development:
 * Development: Done
 * Release date: 7<sup>th</sup> July 2019
 * EOS: 7<sup>th</sup> July 2022
-* Documentation: https://camptocamp.github.io/c2cgeoportal/2.4/
+* Documentation: [camptocamp.github.io/c2cgeoportal/2.4](https://camptocamp.github.io/c2cgeoportal/2.4/)
 
 ### Functionalities
 
@@ -79,7 +79,7 @@ Version under development:
 * Functionalities status: Frozen
 * Development: Done
 * Release date: 23<sup>th</sup> Mai 2018
-* Documentation: https://camptocamp.github.io/c2cgeoportal/2.3/
+* Documentation: [camptocamp.github.io/c2cgeoportal/2.3](https://camptocamp.github.io/c2cgeoportal/2.3/)
 
 ### Functionalities
 
@@ -96,7 +96,7 @@ Version under development:
 * Functionalities status: Frozen
 * Development: Done
 * Estimated release date: 22 January 2018
-* Documentation: https://camptocamp.github.io/c2cgeoportal/2.2/
+* Documentation: [camptocamp.github.io/c2cgeoportal/2.2](https://camptocamp.github.io/c2cgeoportal/2.2/)
 
 ### Functionalities
 
