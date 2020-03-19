@@ -22,7 +22,7 @@ Version in der Entwicklungsphase:
 * Status der Funktionalitäten: In der Entwicklungsphase
 * Entwicklungen: Anfang August 2019
 * Geschätztes Freigabedatum: Ende 2019
-* Dokumentation : laufend https://camptocamp.github.io/c2cgeoportal/master/
+* Dokumentation : laufend (https://camptocamp.github.io/c2cgeoportal/master/)
 
 ### Funktionalitäten
 
