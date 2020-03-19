@@ -22,7 +22,7 @@ Version in der Entwicklungsphase:
 * Status der Funktionalitäten: In der Entwicklungsphase
 * Entwicklungen: Anfang August 2019
 * Geschätztes Freigabedatum: Ende 2019
-* Dokumentation : laufend (https://camptocamp.github.io/c2cgeoportal/master/)
+* Dokumentation: laufend (https://camptocamp.github.io/c2cgeoportal/master/)
 
 ### Funktionalitäten
 
@@ -56,7 +56,7 @@ Version in der Entwicklungsphase:
 * Entwicklungen: Fertig
 * Freigabedatum: 7. Juli 2019
 * EOS: 7. Juli 2022
-* Dokumentation : https://camptocamp.github.io/c2cgeoportal/2.4/
+* Dokumentation: https://camptocamp.github.io/c2cgeoportal/2.4/
 
 ### Funktionalitäten
 
@@ -79,7 +79,7 @@ Version in der Entwicklungsphase:
 * Status der Funktionalitäten: Festgesetzt
 * Entwicklungen: Abgeschlossen
 * Freigabedatum: 23. Mai 2018
-* Dokumentation : https://camptocamp.github.io/c2cgeoportal/2.3/
+* Dokumentation: https://camptocamp.github.io/c2cgeoportal/2.3/
 
 ### Funktionalitäten
 
@@ -96,7 +96,7 @@ Version in der Entwicklungsphase:
 * Status der Funktionalitäten: Festgesetzt
 * Entwicklungen: Abgeschlossen
 * Geschätzter Freigabedatum: 22. Januar 2018
-* Dokumentation : https://camptocamp.github.io/c2cgeoportal/2.2/
+* Dokumentation: https://camptocamp.github.io/c2cgeoportal/2.2/
 
 ### Funktionalitäten
 
