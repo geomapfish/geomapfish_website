@@ -126,8 +126,17 @@ Read the documentation:
 * MapServer
 * QGIS Server
 * ArcGIS for Server
+* Fulltext search service
 
 ### ![Functionalities description]({filename}/images/3_3_docker.png) Docker deployment
 
 <br /><br />
 For a better overview between features and versions, please refer to the [feature page](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).
+
+---
+
+## Others
+
+### QGIS GeoMapFish Locator Plugin
+
+* Use of GeoMapFish fulltext search service in [QGIS](https://plugins.qgis.org/plugins/geomapfish_locator/).
