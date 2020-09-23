@@ -55,7 +55,6 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (
-    ('Google Group', 'https://groups.google.com/forum/#!forum/geomapfish', 'google-plus'),
     ('Twitter', 'https://twitter.com/GeoMapFish'),
     ('GitHub', GITHUB_URL)
 )
