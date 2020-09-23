@@ -4,12 +4,12 @@ Website management system for http://geomapfish.org
 
 ## Prerequisites
 
-This README file was written for Windows users. The whole thing surely
-works on Linux, but the commands might slightly differ.
+This README file was written for *Windows* users. The whole thing surely
+works on *Linux*, but the commands might slightly differ.
 
-On Windows, you should:
+On *Windows*, you should:
 
-* Install *Python* and *virtualenv* (using *pip*)
+* Install *Python*
 * Install *Git*
 
 ## Installation
@@ -28,7 +28,7 @@ git submodule update --init
 * Install a virtual environment, *Pelican* and *Markdown*:
 
 ```
-virtualenv .
+python -m venv .
 Scripts\pip install Pelican==3.7.1
 Scripts\pip install markdown
 ```
@@ -105,4 +105,4 @@ to this repository. We will more then happy to review and eventually merge
 your suggestions.
 
 If you have push rights on the [geomapfish.github.io](https://github.com/geomapfish/geomapfish.github.io/) repository, then you
-use the `publish.bat` file (obviously only on Windows...).
+use the `publish.bat` file (obviously only on *Windows*...).
