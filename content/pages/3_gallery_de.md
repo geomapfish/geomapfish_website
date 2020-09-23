@@ -1,6 +1,6 @@
 Title: Galerie
 Date: 2016-10-14
-Modified: 2019-10-03
+Modified: 2020-09-23
 Authors: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: gallery
 Save_as: gallery.html
@@ -21,7 +21,6 @@ Lang: de
 * [Aprona, l'observatoire de la nappe d'Alsace](https://carto.aprona.net/)
 * [Association GeoCommunes](http://www.geocommunes.ch/references/)
 * [Gemetris SA](http://www.gemetris.ch/prestations#SIG)
-* [GéoPlaNet, guichet cartographique cantonal de l'Etat de Vaud](http://www.geo.vd.ch/)
 * [Géoportail cartographique de la Riviera](https://map.cartoriviera.ch/)
 * [Géoportail du district de Morges](https://map.cjl.ch/)
 * [Géoportail du Système d'Information du Territoire Jurassien](https://geo.jura.ch/)
