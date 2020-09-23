@@ -1,7 +1,7 @@
 Title: Meetings
 Date: 2016-10-14
-Modified: 2019-11-18
-Authors: Michael Kalbermatten
+Modified: 2020-09-23
+Authors: Michael Kalbermatten, Rémi Bovard
 URL: meetings
 Save_as: meetings.html
 Slug: 98_meetings
@@ -11,6 +11,10 @@ Status: hidden
 ## Meetings
 
 Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden sich die Entscheidungen / Bemerkungen des Meeting.
+
+### 2020
+
+* [Online, 08.04.2020](meeting_minutes/2020-04-08)
 
 ### 2019
 
