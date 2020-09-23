@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2020-03-19
+Modified: 2020-09-23
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -9,20 +9,66 @@ Lang: en
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
-*Latest page update: **2020-03-19***
+Latest page update: **2020-09-23**
 
 ## Version 2.6
 
-No time span yet
+Version under development:
+
+* Development: **Starting in July 2020**
+* Estimated release date: **Spring 2021**
+* Documentation: to be released [camptocamp.github.io/c2cgeoportal/master](https://camptocamp.github.io/c2cgeoportal/master/)
+
+### Functionalities
+
+#### Interface
+
+* [2.6.24] Push a message to user when server authentication is lost
+* [2.6.32] Right panel resizable for all tools
+
+#### Query
+
+* [2.6.10] CSV export in Window
+* [2.6.46] Define a per layer click tolerance
+* [2.6.53] Scale limit on WMTS query
+
+#### Search
+
+* [2.6.26] Possiblitiy to add keywords to layers in order to find them easier
+* [2.6.27] Full-text-search for layers
+
+#### Print
+
+* [2.6.29] Handle case with layers with a legend too big to show on one A4 sheet
+
+#### Permalink
+
+* [2.6.25] See the configuration of the timeslider/timepicker before sharing
+
+#### Measure and redlining
+
+* [2.6.1] Draw an arrow
+* [2.6.31] Snapping functionality for measuring and drawing tools
+
+#### Editing
+
+* [2.6.20] Check data type and display warning before saving
+* [2.6.22] Add a column named "order", in order to sort dropdown lists
+* [2.6.51] Allow editing of overlayed geometries (editing and redlining)
+
+#### External data
+
+* [2.6.34] Display legend of imported WMS layers
+* [2.6.35] Interrogation of external WMS with GetFeatureInfo
+* [2.6.47] Drag & drop files to show them on map
+
+<hr />
 
 ## Version 2.5
 
-Version under development:
-
-* Functionalities status: In development
-* Development: Starting in August 2019
-* Estimated release date: April 2020
-* Documentation: to be released [camptocamp.github.io/c2cgeoportal/master](https://camptocamp.github.io/c2cgeoportal/master/)
+* Release date: **23<sup>th</sup> April 2020**
+* EOS: **October 2021**
+* Documentation: [camptocamp.github.io/c2cgeoportal/2.5](https://camptocamp.github.io/c2cgeoportal/2.5/)
 
 ### Functionalities
 
@@ -50,12 +96,12 @@ Version under development:
 22. Security - Session timeouts
 23. Architecture - Docker only
 
+<hr />
+
 ## Version 2.4 (LTR)
 
-* Functionalities status: Frozen
-* Development: Done
-* Release date: 7<sup>th</sup> July 2019
-* EOS: 7<sup>th</sup> July 2022
+* Release date: **7<sup>th</sup> July 2019**
+* EOS: **July 2022**
 * Documentation: [camptocamp.github.io/c2cgeoportal/2.4](https://camptocamp.github.io/c2cgeoportal/2.4/)
 
 ### Functionalities
@@ -74,11 +120,11 @@ Version under development:
 12. Interface - mobile first level panel title
 13. A0 printing
 
+<hr />
+
 ## Version 2.3
 
-* Functionalities status: Frozen
-* Development: Done
-* Release date: 23<sup>th</sup> Mai 2018
+* Release date: **23<sup>th</sup> Mai 2018**
 * Documentation: [camptocamp.github.io/c2cgeoportal/2.3](https://camptocamp.github.io/c2cgeoportal/2.3/)
 
 ### Functionalities
@@ -91,11 +137,11 @@ Version under development:
 6. Layertree flush / no flush in mobile version
 7. Opacity for layers in mobile version
 
+<hr />
+
 ## Version 2.2
 
-* Functionalities status: Frozen
-* Development: Done
-* Estimated release date: 22 January 2018
+* Release date: **22 January 2018**
 * Documentation: [camptocamp.github.io/c2cgeoportal/2.2](https://camptocamp.github.io/c2cgeoportal/2.2/)
 
 ### Functionalities
