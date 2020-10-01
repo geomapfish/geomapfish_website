@@ -128,7 +128,6 @@ Read the documentation:
 * MapServer
 * QGIS Server
 * ArcGIS for Server
-* Fulltext search service
 
 ### ![Functionalities description]({filename}/images/3_3_docker.png) Docker deployment
 
