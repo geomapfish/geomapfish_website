@@ -141,4 +141,4 @@ For a better overview between features and versions, please refer to the [featur
 
 ### QGIS GeoMapFish Locator Plugin
 
-* Use of GeoMapFish fulltext search service in [QGIS](https://plugins.qgis.org/plugins/geomapfish_locator/).
+* [GeoMapFish Locator](https://plugins.qgis.org/plugins/geomapfish_locator/): use GeoMapFish full text search service in QGIS.
