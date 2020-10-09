@@ -1,6 +1,6 @@
 Title: Galerie
 Date: 2016-10-14
-Modified: 2020-09-23
+Modified: 2020-10-09
 Authors: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: gallery
 Save_as: gallery.html
@@ -22,6 +22,7 @@ Lang: fr
 * [Association GeoCommunes](http://www.geocommunes.ch/references/)
 * [Gemetris SA](http://www.gemetris.ch/prestations#SIG)
 * [Géoportail cartographique de la Riviera](https://map.cartoriviera.ch/)
+* [Géoportail Cartolacôte](https://map.cartolacote.ch/)
 * [Géoportail du district de Morges](https://map.cjl.ch/)
 * [Géoportail du Système d'Information du Territoire Jurassien](https://geo.jura.ch/)
 * [Géoportail du Système d'Information du Territoire Neuchâtelois](https://sitn.ne.ch/)
@@ -32,7 +33,6 @@ Lang: fr
 * [Guichet cartographique de Nendaz](https://nendaz-geoportail.sig.cloud.camptocamp.net/)
 * [MapBS Geoportal Kanton Basel-Stadt](https://map.geo.bs.ch/)
 * [Portail Cartographique de l'Agglomération du Pays Châtelleraudais](https://carto.grand-chatellerault.fr/)
-* [SITNyon Géoportail de la Ville de Nyon](https://map.nyon.ch/)
 * [Système d'Information Géographique Intercommunal de Pully et Belmont](https://www.sigip.ch/)
 * [WebGIS der Walliser Gemeinden von RUDAZ+PARTNER SA/AG](https://www.vsgis.ch/)
 * [WebGIS Kanton Schwyz](https://map.geo.sz.ch/)
