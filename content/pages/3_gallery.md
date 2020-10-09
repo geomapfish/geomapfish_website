@@ -20,7 +20,6 @@ Lang: en
 
 * [Aprona, l'observatoire de la nappe d'Alsace](https://carto.aprona.net/)
 * [Association GeoCommunes](http://www.geocommunes.ch/references/)
-* [Gemetris SA](http://www.gemetris.ch/prestations#SIG)
 * [Géoportail cartographique de la Riviera](https://map.cartoriviera.ch/)
 * [Géoportail Cartolacôte](https://map.cartolacote.ch/)
 * [Géoportail du district de Morges](https://map.cjl.ch/)
