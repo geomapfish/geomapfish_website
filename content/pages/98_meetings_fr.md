@@ -1,7 +1,7 @@
 Title: Meetings
 Date: 2016-10-14
-Modified: 2020-09-23
-Authors: Michael Kalbermatten, Rémi Bovard
+Modified: 2020-11-23
+Authors: Michael Kalbermatten, Rémi Bovard, Pauline Fanguin
 URL: meetings
 Save_as: meetings.html
 Slug: 98_meetings
@@ -14,6 +14,7 @@ Ici se trouve une liste des meetings du groupe. Chaque page regroupe les décisi
 
 ### 2020
 
+* [Online, 23.11.2020](meeting_minutes/2020-11-23)
 * [Online, 08.04.2020](meeting_minutes/2020-04-08)
 
 ### 2019
