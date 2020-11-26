@@ -64,7 +64,6 @@ Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 * Kanton Neuenburg
 * Kanton Tessin
 * Kanton Thurgau
-* Kanton Waadt
 * RUDAZ + PARTNER SA
 * Stadt Lausanne
 * Stadt Nyon

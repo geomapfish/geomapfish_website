@@ -54,7 +54,6 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Canton de Bâle-Ville
 * Canton de Neuchâtel
 * Canton de Schwyz
-* Canton de Vaud
 * Canton des Grisons
 * Canton du Jura
 * Canton du Tessin
