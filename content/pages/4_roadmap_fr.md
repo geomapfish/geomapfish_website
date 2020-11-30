@@ -106,19 +106,19 @@ Version en développement:
 
 ### Fonctionnalités
 
-1. Intégtation d'IFRAME (remplacement de l'API)
+1. Intégration d'IFRAME (remplacement de l'API)
 2. Edition - Ordre des colonnes
 3. Edition - Attributs en lecture seule
 4. Edition - Liens vers des formulaires externes
 5. Dessin - Menu pour la suppression de noeuds
 6. Dessin - Zoom lors du recentrage
-7. Affichage en lecture seule des éléments dessinés dans le mobile
-8. Layer tree - Redimensionnement
-9. Layer tree - Bouton radio
+7. Dessin - Affichage en lecture seule des éléments dessinés dans le mobile
+8. Arbre des couches - Redimensionnement
+9. Arbre des couches - Bouton radio
 10. Requête - Lien autogénérés dans les résultats
 11. Interface - Widget de chargement de l'application
 12. Interface - Titre du premier panel dans mobile
-13. Impression A0
+13. Impression - Support du format A0
 
 <hr />
 
