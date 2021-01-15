@@ -16,11 +16,11 @@ GeoMapFish permet de construire des applications WebSIG de manière aisée et fl
 Cette solution a été développée pour répondre aux attentes de multiples acteurs, qu'ils
 soient de type privés, publics ou académiques du domaine du géospatial.
 
-GeoMapFish est organisé autour d'une [communauté et d'un project steering committee]({filename}1_community_fr.md).
+GeoMapFish est organisé autour d'une [communauté et d'un project steering committee]({filename}4_community_fr.md).
 
 ## Caractéristiques
 
-Pour une liste plus complétes des caractéristiques, merci de vous référer à la page des [fonctionnalités]({filename}2_functionalities_fr.md) page.
+Pour une liste plus complétes des caractéristiques, merci de vous référer à la page des [fonctionnalités]({filename}1_functionalities_fr.md) page.
 
 <br />
 ![webmapping]({filename}/images/3_2_webmapping.png) **Cartographie**; elle inclut tous les outils nécessaires à un WebSIG : mesure, dessin, impression, etc.

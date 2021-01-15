@@ -4,7 +4,7 @@ Modified: 2020-09-23
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
-Slug: 4_roadmap
+Slug: 5_roadmap
 Lang: en
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.

@@ -4,7 +4,7 @@ Modified: 2020-03-19
 Authors: Michael Kalbermatten, Rémi Bovard
 URL: functionalities
 Save_as: functionalities.html
-Slug: 2_functionalities
+Slug: 1_functionalities
 Lang: en
 <br />
 GeoMapFish is composed of a desktop WebGIS interface, an administration interface, an API for map integration

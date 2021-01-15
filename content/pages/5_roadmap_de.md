@@ -4,7 +4,7 @@ Modified: 2020-09-23
 Authors: Michael Kalbermatten, Rémi Bovard, Irene Vontobel
 URL: roadmap
 Save_as: roadmap.html
-Slug: 4_roadmap
+Slug: 5_roadmap
 Lang: de
 <br />
 Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Release Notes der verschiedenen Versionen.

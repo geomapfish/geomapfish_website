@@ -4,7 +4,7 @@ Modified: 2021-01-12
 Authors: Rémi Bovard
 URL: documentation
 Save_as: documentation.html
-Slug: 5_documentation
+Slug: 2_documentation
 Lang: en
 
 ## GeoMapFish
