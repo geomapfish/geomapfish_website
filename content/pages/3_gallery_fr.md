@@ -1,6 +1,6 @@
 Title: Galerie
 Date: 2016-10-14
-Modified: 2020-10-09
+Modified: 2021-01-19
 Authors: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: gallery
 Save_as: gallery.html
@@ -27,6 +27,7 @@ Lang: fr
 * [Géoportail du Système d'Information du Territoire Neuchâtelois](https://sitn.ne.ch/)
 * [Géoportail EPFL](https://geoportail.epfl.ch/)
 * [Géoportail Nord Vaudois - Yverdon-les-Bains](https://mapnv.ch/)
+* [Geoportale del Cantone Ticino](https://map.geo.ti.ch/)
 * [Geoview Basel Landschaft](https://geoview.bl.ch/)
 * [Graubünden Interaktive Karten](http://map.geo.gr.ch/)
 * [Guichet cartographique de Nendaz](https://nendaz-geoportail.sig.cloud.camptocamp.net/)
