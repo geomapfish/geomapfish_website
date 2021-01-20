@@ -9,7 +9,7 @@ SITEURL = ''
 SITELOGO = 'images/brand/logo.png'
 FAVICON = 'images/brand/favicon.ico'
 
-GITHUB_URL = 'http://github.com/camptocamp/c2cgeoportal'
+GITHUB_URL = 'https://github.com/camptocamp/geomapfish'
 
 PATH = 'content'
 

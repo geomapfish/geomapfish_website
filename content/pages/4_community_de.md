@@ -4,7 +4,7 @@ Modified: 2019-10-02
 Authors: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: community
 Save_as: community.html
-Slug: 1_community
+Slug: 4_community
 Lang: de
 
 ## Ziele der Community

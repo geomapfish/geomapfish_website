@@ -13,11 +13,11 @@ Willkommen auf der GeoMapFish (GMF) Community Webseite!
 Das GMF Framework erlaubt einen einfachen und flexiblen Aufbau von Web GIS Applikationen.
 Es wurde entwickelt, um die Bedürfnisse verschiedener Akteure in der Geospatial Umgebung zu erfüllen, ob öffentliche, private oder akademische Akteure.
 
-GeoMapFish ist um eine [Community und ein Project Steering Committee]({filename}1_community.md) organisiert.
+GeoMapFish ist um eine [Community und ein Project Steering Committee]({filename}4_community.md) organisiert.
 
 ## Features
 
-Für eine komplette Liste, bitte schauen Sie sich die [Funktionalitäten]({filename}2_functionalities.md) Seite an.
+Für eine komplette Liste, bitte schauen Sie sich die [Funktionalitäten]({filename}1_functionalities.md) Seite an.
 
 <br />
 ![webmapping]({filename}/images/3_2_webmapping.png) **Kartographie** enthält alle erwarteten Tools, die in einem WebGIS benötigt werden: Messen, Zeichnen, Drucken usw.

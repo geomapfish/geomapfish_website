@@ -4,7 +4,7 @@ Modified: 2020-03-19
 Authors: Michael Kalbermatten, Irene Vontobel, Rémi Bovard
 URL: functionalities
 Save_as: functionalities.html
-Slug: 2_functionalities
+Slug: 1_functionalities
 Lang: de
 <br />
 GeoMapFish besteht aus einer Desktop Oberfläche, einer Administrationsschnittstelle, einer API und

@@ -16,11 +16,11 @@ GeoMapFish allows to build rich and extensible WebGIS in an easy and flexible wa
 It has been developped to fulfill the needs of various actors in the geospatial environment,
 might it be public, private or academic actors.
 
-GeoMapFish is organized around a [community and a project steering committee]({filename}1_community.md).
+GeoMapFish is organized around a [community and a project steering committee]({filename}4_community.md).
 
 ## Features
 
-For a full list of features, please take a look at the [functionalities]({filename}2_functionalities.md) page.
+For a full list of features, please take a look at the [functionalities]({filename}1_functionalities.md) page.
 
 <br />
 ![webmapping]({filename}/images/3_2_webmapping.png) **Mapping** includes all expected tools one would need in a WebGIS: measurement, drawing, printing, etc.
