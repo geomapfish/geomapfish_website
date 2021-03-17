@@ -12,6 +12,10 @@ Status: hidden
 
 Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden sich die Entscheidungen / Bemerkungen des Meeting.
 
+### 2021
+
+* [Online, 11.03.2020](meeting_minutes/2020-03-11)
+
 ### 2020
 
 * [Online, 23.11.2020](meeting_minutes/2020-11-23)
