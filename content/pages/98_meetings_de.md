@@ -14,7 +14,7 @@ Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden si
 
 ### 2021
 
-* [Online, 11.03.2020](meeting_minutes/2020-03-11)
+* [Online, 11.03.2021](meeting_minutes/2021-03-11)
 
 ### 2020
 
