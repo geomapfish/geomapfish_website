@@ -11,12 +11,34 @@ Here under you will find the GeomapFish roadmap and the functionalities changelo
 
 Latest page update: **2020-09-23**
 
+For a complete Roadmap until 2024, please see this document: [GMF_2024_Roadmap.pdf](/documents/meetings/2021-06-08/GMF_2024_Roadmap.pdf)
+
+## Version 2.7 (LTR)
+
+Next Version.
+
+* Development: **Starting in September 2021**
+* Estimated release date: **Summer 2022**
+
+This Version won't have any new business functionality. It will be a pure technical migration, and has as main objective to prepare GeoMapFish for the removal of AngularJS, which will reach it's end of life at the end of 2021.
+
+### Technical changes
+
+* Validate new technological choices with a POC.
+* Merge Ngeo/GMF client parts.
+* Replace AngularJs state-management with RxJS.
+* Replace AngularJs internationalization stack with i18next.
+* Integrate litelement and lithtml to prepare the replacement of AngularJS.
+* Support Standard Web Components.
+
+<hr />
+
 ## Version 2.6
 
 Version under development:
 
 * Development: **Starting in July 2020**
-* Estimated release date: **Spring 2021**
+* Estimated release date: **July 2021**
 * Documentation: to be released [camptocamp.github.io/c2cgeoportal/master](https://camptocamp.github.io/c2cgeoportal/master/)
 
 ### Functionalities
