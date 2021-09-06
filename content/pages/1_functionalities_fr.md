@@ -135,3 +135,11 @@ Les différents composants de GeoMapFish sont:
 
 <br /><br />
 Une meilleure vue d'ensemble des fonctionnalités et versions est donnéee sur la [page des features](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).
+
+---
+
+## Autres
+
+### plugin QGIS
+
+* [GeoMapFish Locator](https://plugins.qgis.org/plugins/geomapfish_locator/): utilise la fonctionnalité de recherche en texte intégral de GeoMapFish dans QGIS.

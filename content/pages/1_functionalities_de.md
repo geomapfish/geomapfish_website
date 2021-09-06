@@ -134,3 +134,11 @@ Die verschiedene GMF Komponenten:
 
 <br /><br />
 Für einen besseren Überblick, gehen Sie bitte auf die [feature Seite](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).
+
+---
+
+## Andere
+
+### QGIS Plugin
+
+* [GeoMapFish Locator](https://plugins.qgis.org/plugins/geomapfish_locator/): nutzt die full-text Suchfunktion von GeoMapFish in QGIS.
