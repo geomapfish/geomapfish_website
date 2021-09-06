@@ -154,3 +154,4 @@ Version en développement:
 6. Permettre à l'utilisateur de définir sa propre échelle d'impression
 7. Compatibilité pour le navigateur Android
 8. Transparences prédéfinies pour le WMS / WMTS
+
