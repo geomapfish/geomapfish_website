@@ -41,8 +41,8 @@ La communauté, composée d’un UserGroup qui représente l’organe délibéra
 
 Le PSC est composé des entités suivantes :
 
-* Bâle-Campagne, Bâle-Ville, Neuchâtel (cantons)
-* Cartoriviera, Nyon (villes)
+* Bâle-Ville, Neuchâtel (cantons)
+* Cartoriviera, Cartolacôte (villes)
 * GeoCommunes (privé)
 * Camptocamp SA (fournisseur)
 
@@ -58,18 +58,21 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Canton du Jura
 * Canton du Tessin
 * CartoJuraLéman (district de Morges)
+* Cartolacôte
 * Cartoriviera
 * Commune de Nendaz
-* Ecole polytechnique fédérale de Lausanne
 * GeoCommunes
 * Géoportail du Nord Vaudois
-* Ingéo SA
 * RUDAZ + PARTNER SA
-* swisstopo
 * Ville de Lausanne
-* Ville de Nyon
 * Ville de Prilly
 * Ville de Pully
+
+### Contributeurs
+
+* Ecole polytechnique fédérale de Lausanne
+* Ingéo SA
+* swisstopo
 
 ## Les bonnes pratiques du membre de la communauté
 

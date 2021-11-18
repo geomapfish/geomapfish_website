@@ -41,8 +41,8 @@ Die Gemeinschaft, die aus einer Benutzergruppe besteht, trifft sich regelmàssig
 
 Der PSC besteht aus den folgenden Entitäten:
 
-* Basel-Landschaft, Basel-Stadt, Neuenburg (Kantone)
-* Cartoriviera, Nyon (Städte)
+* Basel-Stadt, Neuenburg (Kantone)
+* Cartoriviera, Cartolacôte (Städte)
 * GeoCommunes (privat Unternehmen)
 * Camptocamp (Anbieter)
 
@@ -51,12 +51,12 @@ Der PSC besteht aus den folgenden Entitäten:
 Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 
 * CartoJuraLéman (Bezirk Morges)
+* Cartolacôte
 * Cartoriviera
-* Ecole polytechnique fédérale de Lausanne
+
 * Gemeinde Nendaz
 * GeoCommunes
 * Géoportail du Nord Vaudois
-* Ingéo SA
 * Kanton Basel-Landschaft
 * Kanton Basel-Stadt
 * Kanton Graubünden
@@ -66,10 +66,15 @@ Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 * Kanton Thurgau
 * RUDAZ + PARTNER SA
 * Stadt Lausanne
-* Stadt Nyon
 * Stadt Prilly
 * Stadt Pully
+
+### Beitragszahler
+
+* Ecole polytechnique fédérale de Lausanne
+* Ingéo SA
 * swisstopo
+
 
 ## Leitlinien für bewährtes Vorgehen
 
