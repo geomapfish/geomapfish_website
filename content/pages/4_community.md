@@ -41,8 +41,8 @@ The community, composed of a User Group, meets regularly to discuss the proposal
 
 The PSC is composed of the following entities:
 
-* Basel-Landschaft, Basel-Stadt, Neuchâtel (cantons)
-* Cartoriviera, Nyon (cities)
+* Basel-Stadt, Neuchâtel (cantons)
+* Cartoriviera, Cartolacôte (cities)
 * GeoCommunes (private companies)
 * Camptocamp SA (supplier)
 
@@ -58,17 +58,20 @@ The UserGroup is composed of representatives of the following entities:
 * Canton of Schwyz
 * Canton of Ticino
 * CartoJuraLéman (district of Morges)
+* Cartolacôte
 * Cartoriviera
 * City of Lausanne
-* City of Nyon
 * City of Prilly
 * City of Pully
 * Commune of Nendaz
-* Ecole polytechnique fédérale de Lausanne
 * GeoCommunes
 * Géoportail du Nord Vaudois
-* Ingéo SA
 * RUDAZ + PARTNER SA
+
+### Contributors
+
+* Ecole polytechnique fédérale de Lausanne
+* Ingéo SA
 * swisstopo
 
 ## Community member's best practices
