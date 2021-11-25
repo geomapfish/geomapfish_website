@@ -14,6 +14,7 @@ Ici se trouve une liste des meetings du groupe. Chaque page regroupe les décisi
 
 ### 2021
 
+* [Online, 18.11.2021](meeting_minutes/2021-11-18)
 * [Online, 08.06.2021](meeting_minutes/2021-06-08)
 * [Online, 11.03.2021](meeting_minutes/2021-03-11)
 
