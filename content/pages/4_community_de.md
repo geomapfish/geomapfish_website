@@ -1,11 +1,14 @@
 Title: Community
 Date: 2018-05-16
 Modified: 2019-10-02
-Authors: Michael Kalbermatten, Rémi Bovard, Olivier Monod
+Author: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: community
 Save_as: community.html
 Slug: 4_community
 Lang: de
+Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
+Summary: Geomapfish ist Teil einer Community mit Mitgliedern aus dem öffentlichen, privaten und akademischen Bereich
+
 
 ## Ziele der Community
 

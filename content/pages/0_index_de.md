@@ -1,16 +1,18 @@
 Title: GeoMapFish
 Date: 2016-10-14
 Modified: 2018-05-16
-Authors: Michael Kalbermatten, Irene Vontobel, Rémi Bovard
+Author: Michael Kalbermatten, Irene Vontobel, Rémi Bovard
 URL: index.html
 Save_as: index.html
 Slug: 0_index
 Lang: de
 Menulabel: Startseite
+Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
+Summary: Geomapfish ist eine Open-Source Plattform für die Entwicklung eines Online Geoinformationssystems (WebGIS), das ein Geoportal bereitstellt
 <br />
 Willkommen auf der GeoMapFish (GMF) Community Webseite!
 
-Das GMF Framework erlaubt einen einfachen und flexiblen Aufbau von Web GIS Applikationen.
+Das GMF Framework erlaubt einen einfachen und flexiblen Aufbau von Web GIS Applikationen über ein Geoportal.
 Es wurde entwickelt, um die Bedürfnisse verschiedener Akteure in der Geospatial Umgebung zu erfüllen, ob öffentliche, private oder akademische Akteure.
 
 GeoMapFish ist um eine [Community und ein Project Steering Committee]({filename}4_community.md) organisiert.

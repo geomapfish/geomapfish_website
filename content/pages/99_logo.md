@@ -1,7 +1,7 @@
 Title: Logo
 Date: 2017-08-21
 Modified: 2017-08-21
-Authors: Rémi Bovard
+Author: Rémi Bovard
 URL: logo
 Save_as: logo.html
 Slug: 99_logo
