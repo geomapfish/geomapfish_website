@@ -8,7 +8,7 @@ Slug: 0_index
 Lang: en
 Menulabel: Home
 Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
-Summary: Geomapfish is an Open Source platform for the development of online geographic information systems (WebGIS) that provide a geoportal
+Summary: GeoMapFish is an Open Source platform for the development of online geographic information systems (WebGIS) that provide a geoportal
 <br />
 Thank you for visiting, welcome on the GeoMapFish (GMF) community website!
 
