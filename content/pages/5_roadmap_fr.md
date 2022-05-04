@@ -7,7 +7,7 @@ Save_as: roadmap.html
 Slug: 5_roadmap
 Lang: fr
 Tags: Geoportal, Open Source, GeoMapFish, SIG, Géospatial
-Summary: Geomapfish est une plateforme Open Source qui évolue à chaque version en proposant un lot de nouvelles fonctionnalités 
+Summary: GeoMapFish est une plateforme Open Source qui évolue à chaque version en proposant un lot de nouvelles fonctionnalités 
 
 <br />
 Ci-dessous vous trouvez la roadmap de GeoMapFish ainsi que les notes listant les nouvelles fonctionnalités de chaque version.
