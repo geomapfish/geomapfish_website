@@ -7,7 +7,7 @@ Save_as: functionalities.html
 Slug: 1_functionalities
 Lang: de
 Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
-Summary: Geomapfish ist eine Anwendung mit Ergonomie für jedes digitale Medium und einer Vielzahl von Funktionen
+Summary: GeoMapFish ist eine Anwendung mit Ergonomie für jedes digitale Medium und einer Vielzahl von Funktionen
 
 <br />
 GeoMapFish besteht aus einer Desktop Oberfläche, einer Administrationsschnittstelle, einer API und
