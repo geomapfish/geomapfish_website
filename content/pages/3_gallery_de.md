@@ -7,7 +7,7 @@ Save_as: gallery.html
 Slug: 3_gallery
 Lang: de
 Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
-Summary: Geomapfish ist bereits auf vielen Geoportalen funktionsfähig
+Summary: GeoMapFish ist bereits auf vielen Geoportalen funktionsfähig
 
 ## Demos
 
