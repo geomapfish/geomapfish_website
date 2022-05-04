@@ -14,7 +14,7 @@ Bienvenue sur le site web de la communauté GeoMapFish (GMF), merci de votre vis
 
 ## Généralités
 
-GeoMapFish permet de construire des applications WebSIG de manière aisée et flexible à travers un géoportai en ligne.
+GeoMapFish permet de construire des applications WebSIG de manière aisée et flexible à travers un géoportail en ligne.
 Cette solution a été développée pour répondre aux attentes de multiples acteurs, qu'ils
 soient de type privés, publics ou académiques du domaine du géospatial.
 
