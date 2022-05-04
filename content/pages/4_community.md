@@ -7,7 +7,7 @@ Save_as: community.html
 Slug: 4_community
 Lang: en
 Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
-Summary: Geomapfish is part of a community with members coming from the public, private and academic sectors
+Summary: GeoMapFish is part of a community with members coming from the public, private and academic sectors
 
 ## Aim of the community
 
