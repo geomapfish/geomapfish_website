@@ -7,7 +7,7 @@ Save_as: documentation.html
 Slug: 2_documentation
 Lang: fr
 Tags: Geoportal, Open Source, GeoMapFish, SIG, Géospatial
-Summary: Geomapfish dispose d'une large documentation technique pour les adminisatrateurs, intégrateurs et développeurs
+Summary: GeoMapFish dispose d'une large documentation technique pour les adminisatrateurs, intégrateurs et développeurs
 
 ## GeoMapFish
 
