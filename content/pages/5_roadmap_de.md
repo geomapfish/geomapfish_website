@@ -32,7 +32,7 @@ Diese Version habe keine neuen funktionalitäten. Es ist nur eine technische Mig
 * Ersatz von AngularJs state-management durch RxJS.
 * Auswechseln AngularJs internationalization stack mit i18next.
 * Integration von litelement and lithtml zum Ersatz von AngularJS.
-* Unterstützung Standard Web Components.
+* Unterstützung von Standard Web Components.
 
 <hr />
 
