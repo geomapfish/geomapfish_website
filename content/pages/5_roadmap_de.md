@@ -31,7 +31,7 @@ Diese Version habe keine neuen funktionalitäten. Es ist nur eine technische Mig
 * Fusionieren client parts von Ngeo/GMF.
 * Ersatz von AngularJs state-management durch RxJS.
 * Auswechseln AngularJs internationalization stack mit i18next.
-* Integrieren litelement and lithtml zu der Austauch von AngularJS bereiten.
+* Integration von litelement and lithtml zum Ersatz von AngularJS.
 * Unterstützung Standard Web Components.
 
 <hr />
