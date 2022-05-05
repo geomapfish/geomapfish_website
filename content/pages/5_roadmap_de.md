@@ -25,7 +25,7 @@ Nächste Version.
 
 Diese Version habe keine neuen funktionalitäten. Es ist nur eine technische Migration, und das Ziel ist GeoMapFish ohne AngularJS zu bereiten, weil AngularJs ist nicht mehr seit ende 2021 unterstützt.
 
-### Technical changes
+### Technische Veränderungen
 
 * Überprüfung neue technische Wahlen mit ein POC.
 * Fusionieren client parts von Ngeo/GMF.
