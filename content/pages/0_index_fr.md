@@ -1,18 +1,20 @@
 Title: GeoMapFish
 Date: 2016-10-14
 Modified: 2018-05-16
-Authors: Michael Kalbermatten, Rémi Bovard
+Author: Michael Kalbermatten, Rémi Bovard
 URL: index.html
 Save_as: index.html
 Slug: 0_index
 Lang: fr
 Menulabel: Accueil
+Tags: Geoportal, Open Source, GeoMapFish, SIG, Géospatial
+Summary: GeoMapFish est une plateforme Open Source pour le développement de système d'information géographique en ligne (WebSIG) qui fournit un géoportail
 <br />
 Bienvenue sur le site web de la communauté GeoMapFish (GMF), merci de votre visite !
 
 ## Généralités
 
-GeoMapFish permet de construire des applications WebSIG de manière aisée et flexible.
+GeoMapFish permet de construire des applications WebSIG de manière aisée et flexible à travers un géoportail en ligne.
 Cette solution a été développée pour répondre aux attentes de multiples acteurs, qu'ils
 soient de type privés, publics ou académiques du domaine du géospatial.
 

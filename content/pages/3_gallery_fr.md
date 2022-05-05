@@ -1,11 +1,13 @@
 Title: Galerie
 Date: 2016-10-14
 Modified: 2021-01-19
-Authors: Michael Kalbermatten, Rémi Bovard, Olivier Monod
+Author: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: gallery
 Save_as: gallery.html
 Slug: 3_gallery
 Lang: fr
+Tags: Geoportal, Open Source, GeoMapFish, SIG, Géospatial
+Summary: GeoMapFish est déjà fonctionel sur de nombreux géoportails
 
 ## Démos
 

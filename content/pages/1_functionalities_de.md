@@ -1,11 +1,14 @@
 Title: Funktionalitäten
 Date: 2016-10-14
 Modified: 2020-03-19
-Authors: Michael Kalbermatten, Irene Vontobel, Rémi Bovard
+Author: Michael Kalbermatten, Irene Vontobel, Rémi Bovard
 URL: functionalities
 Save_as: functionalities.html
 Slug: 1_functionalities
 Lang: de
+Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
+Summary: GeoMapFish ist eine Anwendung mit Ergonomie für jedes digitale Medium und einer Vielzahl von Funktionen
+
 <br />
 GeoMapFish besteht aus einer Desktop Oberfläche, einer Administrationsschnittstelle, einer API und
 einer mobilen Version.

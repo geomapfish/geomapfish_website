@@ -1,11 +1,14 @@
 Title: Documentation
 Date: 2021-01-12
 Modified: 2021-01-12
-Authors: Rémi Bovard
+Author: Rémi Bovard
 URL: documentation
 Save_as: documentation.html
 Slug: 2_documentation
 Lang: en
+Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
+Summary: GeoMapFish has wide technical documentation for administrators, integrators and developers
+
 
 ## GeoMapFish
 

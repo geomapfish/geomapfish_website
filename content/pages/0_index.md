@@ -1,18 +1,20 @@
 Title: GeoMapFish
 Date: 2016-10-14
 Modified: 2018-05-16
-Authors: Michael Kalbermatten, Rémi Bovard
+Author: Michael Kalbermatten, Rémi Bovard
 URL: index.html
 Save_as: index.html
 Slug: 0_index
 Lang: en
 Menulabel: Home
+Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
+Summary: GeoMapFish is an Open Source platform for the development of online geographic information systems (WebGIS) that provide a geoportal
 <br />
 Thank you for visiting, welcome on the GeoMapFish (GMF) community website!
 
 ## Overview
 
-GeoMapFish allows to build rich and extensible WebGIS in an easy and flexible way.
+GeoMapFish allows to build rich and extensible WebGIS in an easy and flexible way through a online geoportal.
 It has been developped to fulfill the needs of various actors in the geospatial environment,
 might it be public, private or academic actors.
 

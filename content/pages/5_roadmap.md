@@ -1,11 +1,14 @@
 Title: Roadmap
 Date: 2017-06-20
 Modified: 2020-09-23
-Authors: Michael Kalbermatten, Rémi Bovard
+Author: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
 Slug: 5_roadmap
 Lang: en
+Tags: Geoportal, Open Source, GeoMapFish, GIS, Geospatial
+Summary: GeoMapFish is an Open Source platform that evolves with each version by offering many new functionalities
+
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
