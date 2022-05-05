@@ -14,7 +14,7 @@ Hier unten finden Sie die Roadmap von GeoMapFish, aber auch die Links zu den Rel
 
 Letztes Update der Seite: **10.06.2021**
 
-Für eine komplette Roadmap bis 2024, sehen dieser Dokument: [GMF_2024_Roadmap.pdf](/documents/meetings/2021-06-08/GMF_2024_Roadmap.pdf)
+Die komplette Roadmap bis 2024 findet sich in diesem Dokument: [GMF_2024_Roadmap.pdf](/documents/meetings/2021-06-08/GMF_2024_Roadmap.pdf)
 
 ## Version Snook (2.7 LTR)
 
