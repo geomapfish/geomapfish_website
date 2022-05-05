@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2020-09-23
+Modified: 2021-06-10
 Author: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -12,7 +12,29 @@ Summary: GeoMapFish est une plateforme Open Source qui évolue à chaque version
 <br />
 Ci-dessous vous trouvez la roadmap de GeoMapFish ainsi que les notes listant les nouvelles fonctionnalités de chaque version.
 
-Dernière mise à jour de la page: **23.09.2020**
+Dernière mise à jour de la page: **2021-06-10**
+
+Pour une Roadmap complète jusqu'à 2024, voir le document suivant : [GMF_2024_Roadmap.pdf](/documents/meetings/2021-06-08/GMF_2024_Roadmap.pdf)
+
+## Version Snook (2.7 LTR)
+
+Prochaine version.
+
+* Développement: **début en 2021**
+* Date estimée de sortie: **Eté 2022**
+
+Cette version n'a pas de fonctionnalités supplémentaires. C'est une migration purement technique et a pour objectif de préparer GeoMapFish à ne plus utiliser AngularJS, qui n'est plus supporté depuis 2021.
+
+### Changement technique
+
+* Valider les choix technologiques avec un POC.
+* Fusionner la partie client de Ngeo/GMF.
+* Remplacer le state-management de AngularJs par RxJS.
+* Remplacer l'internationalisation  AngularJs avec i18next.
+* Intégration de litelement et lithtml pour préparer le remplacement de AngularJS.
+* Support des standards Web Components.
+
+<hr />
 
 ## Version 2.6
 

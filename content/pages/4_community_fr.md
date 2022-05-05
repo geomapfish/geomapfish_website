@@ -1,6 +1,6 @@
 Title: Communauté
 Date: 2018-05-16
-Modified: 2019-10-02
+Modified: 2022-05-05
 Author: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: community
 Save_as: community.html
@@ -70,6 +70,7 @@ Le UserGroup est composé de représentants des entités suivantes :
 * Ville de Lausanne
 * Ville de Prilly
 * Ville de Pully
+* Ville de Saint-Pierre
 
 ### Contributeurs
 

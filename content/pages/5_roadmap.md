@@ -1,6 +1,6 @@
 Title: Roadmap
 Date: 2017-06-20
-Modified: 2020-09-23
+Modified: 2021-06-10
 Author: Michael Kalbermatten, Rémi Bovard
 URL: roadmap
 Save_as: roadmap.html
@@ -12,11 +12,11 @@ Summary: GeoMapFish is an Open Source platform that evolves with each version by
 <br />
 Here under you will find the GeomapFish roadmap and the functionalities changelog.
 
-Latest page update: **2020-09-23**
+Latest page update: **2021-06-10**
 
 For a complete Roadmap until 2024, please see this document: [GMF_2024_Roadmap.pdf](/documents/meetings/2021-06-08/GMF_2024_Roadmap.pdf)
 
-## Version 2.7 (LTR)
+## Version Snook (2.7 LTR)
 
 Next Version.
 

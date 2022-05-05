@@ -1,6 +1,6 @@
 Title: Galerie
 Date: 2016-10-14
-Modified: 2021-01-19
+Modified: 2022-05-05
 Author: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: gallery
 Save_as: gallery.html
@@ -13,10 +13,11 @@ Summary: GeoMapFish est déjà fonctionel sur de nombreux géoportails
 
 * Version 2.4 (LTR): [Desktop](https://geomapfish-demo-2-4.camptocamp.com/?lang=fr) / [Mobile](https://geomapfish-demo-2-4.camptocamp.com/mobile?lang=fr)
 * Version 2.5: [Desktop](https://geomapfish-demo-2-5.camptocamp.com/?lang=fr) / [Mobile](https://geomapfish-demo-2-5.camptocamp.com/mobile?lang=fr)
+* Version 2.6: [Desktop](https://geomapfish-demo-2-6.camptocamp.com/?lang=fr) / [Mobile](https://geomapfish-demo-2-6.camptocamp.com/mobile?lang=fr)
 
 ### Version en développement
 
-* Version 2.6: [Desktop](https://geomapfish-demo-2-6.camptocamp.com/?lang=fr) / [Mobile](https://geomapfish-demo-2-6.camptocamp.com/mobile?lang=fr)
+* Version Snook (2.7): [Desktop](https://geomapfish-demo-2-7.camptocamp.com/?lang=fr) / [Mobile](https://geomapfish-demo-2-7.camptocamp.com/mobile?lang=fr)
 
 ## Références
 
@@ -25,6 +26,7 @@ Summary: GeoMapFish est déjà fonctionel sur de nombreux géoportails
 * [Géoportail cartographique de la Riviera](https://map.cartoriviera.ch/)
 * [Géoportail Cartolacôte](https://map.cartolacote.ch/)
 * [Géoportail du district de Morges](https://map.cjl.ch/)
+* [Géoportail de Saint-Pierre](https://geo.saintpierre.re/)
 * [Géoportail du Système d'Information du Territoire Jurassien](https://geo.jura.ch/)
 * [Géoportail du Système d'Information du Territoire Neuchâtelois](https://sitn.ne.ch/)
 * [Géoportail EPFL](https://geoportail.epfl.ch/)
