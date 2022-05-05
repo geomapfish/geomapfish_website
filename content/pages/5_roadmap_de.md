@@ -23,7 +23,7 @@ Nächste Version.
 * Entwicklungen: **Anfang September 2021**
 * Geschätztes Freigabedatum: **Summer 2022**
 
-Diese Version habe keine neuen funktionalitäten. Es ist nur eine technische Migration, und das Ziel ist GeoMapFish ohne AngularJS zu bereiten, weil AngularJs ist nicht mehr seit ende 2021 unterstützt.
+Diese Version hat keine neuen funktionalitäten. Es ist nur eine technische Migration, und das Ziel ist GeoMapFish vorzubereiten damit es ohne AngularJS funktionnieren kann, da AngularJs seit Ende 2021 nicht mehr unterstützt ist.
 
 ### Technische Veränderungen
 
