@@ -28,7 +28,7 @@ Diese Version habe keine neuen funktionalitäten. Es ist nur eine technische Mig
 ### Technische Veränderungen
 
 * Überprüfung der neuen technischen Auswahlen mit einem POC.
-* Fusionieren client parts von Ngeo/GMF.
+* Fusion der client parts von Ngeo/GMF.
 * Ersatz von AngularJs state-management durch RxJS.
 * Auswechseln AngularJs internationalization stack mit i18next.
 * Integration von litelement and lithtml zum Ersatz von AngularJS.
