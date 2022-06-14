@@ -1,6 +1,6 @@
 Title: Community
 Date: 2018-05-16
-Modified: 2019-10-02
+Modified: 2022-05-05
 Author: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: community
 Save_as: community.html
@@ -65,6 +65,7 @@ The UserGroup is composed of representatives of the following entities:
 * City of Lausanne
 * City of Prilly
 * City of Pully
+* City of Saint-Pierre
 * Commune of Nendaz
 * GeoCommunes
 * Géoportail du Nord Vaudois
