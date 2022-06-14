@@ -47,18 +47,74 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (
-    ('Twitter', 'https://twitter.com/GeoMapFish'),
-    ('GitHub', GITHUB_URL)
-)
-
+DISABLE_SIDEBAR_TITLE_ICONS = True
+SIDEBAR_IMAGES_HEADER = 'References'
+SIDEBAR_IMAGES = [
+    (
+        'images/references/cartoriviera.png',
+        'https://map.cartoriviera.ch'
+    ),
+    (
+        'images/references/cjl.png',
+        'https://map.cjl.ch'
+    ),
+    (
+        'images/references/saint-pierre.png',
+        'https://geo.saintpierre.re'
+    ),
+    (
+        'images/references/jura.svg',
+        'https://geo.jura.ch'
+    ),
+    (
+        'images/references/neuchatel.png',
+        'https://sitn.ne.ch'
+    ),
+    (
+        'images/references/epfl.svg',
+        'https://geoportail.epfl.ch'
+    ),
+    (
+        'images/references/mapnv.png',
+        'https://mapnv.ch'
+    ),
+    (
+        'images/references/ticino.png',
+        'https://map.geo.ti.ch'
+    ),
+    (
+        'images/references/basel-land.svg',
+        'https://geoview.bl.ch'
+    ),
+    (
+        'images/references/graubunden.png',
+        'https://map.geo.gr.ch'
+    ),
+    (
+        'images/references/nendaz.png',
+        'https://nendaz-geoportail.sig.cloud.camptocamp.net'
+    ),
+    (
+        'images/references/mapbs.png',
+        'https://map.geo.bs.ch'
+    ),
+    (
+        'images/references/grand-chatellerault.png',
+        'https://carto.grand-chatellerault.fr'
+    ),
+    (
+        'images/references/sigip.png',
+        'https://www.sigip.ch'
+    ),
+    (
+        'images/references/vsgis.png',
+        'https://www.vsgis.ch'
+    ),
+    (
+        'images/references/kantonschwyz.png',
+        'https://map.geo.sz.ch'
+    )
+]
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing

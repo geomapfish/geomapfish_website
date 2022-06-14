@@ -2,6 +2,10 @@ body {
     padding-top: 70px;
 }
 
+.mt-1 {
+    margin-top: 1em;
+}
+
 #sidebar .list-group, #sidebar .list-group-item {
     background-color: transparent;
 }
