@@ -51,67 +51,67 @@ DISABLE_SIDEBAR_TITLE_ICONS = True
 SIDEBAR_IMAGES_HEADER = 'References'
 SIDEBAR_IMAGES = [
     (
-        'images/references/cartoriviera.png',
+        '/images/references/cartoriviera.png',
         'https://map.cartoriviera.ch'
     ),
     (
-        'images/references/cjl.png',
+        '/images/references/cjl.png',
         'https://map.cjl.ch'
     ),
     (
-        'images/references/saint-pierre.png',
+        '/images/references/saint-pierre.png',
         'https://geo.saintpierre.re'
     ),
     (
-        'images/references/jura.svg',
+        '/images/references/jura.svg',
         'https://geo.jura.ch'
     ),
     (
-        'images/references/neuchatel.png',
+        '/images/references/neuchatel.png',
         'https://sitn.ne.ch'
     ),
     (
-        'images/references/epfl.svg',
+        '/images/references/epfl.svg',
         'https://geoportail.epfl.ch'
     ),
     (
-        'images/references/mapnv.png',
+        '/images/references/mapnv.png',
         'https://mapnv.ch'
     ),
     (
-        'images/references/ticino.png',
+        '/images/references/ticino.png',
         'https://map.geo.ti.ch'
     ),
     (
-        'images/references/basel-land.svg',
+        '/images/references/basel-land.svg',
         'https://geoview.bl.ch'
     ),
     (
-        'images/references/graubunden.png',
+        '/images/references/graubunden.png',
         'https://map.geo.gr.ch'
     ),
     (
-        'images/references/nendaz.png',
+        '/images/references/nendaz.png',
         'https://nendaz-geoportail.sig.cloud.camptocamp.net'
     ),
     (
-        'images/references/mapbs.png',
+        '/images/references/mapbs.png',
         'https://map.geo.bs.ch'
     ),
     (
-        'images/references/grand-chatellerault.png',
+        '/images/references/grand-chatellerault.png',
         'https://carto.grand-chatellerault.fr'
     ),
     (
-        'images/references/sigip.png',
+        '/images/references/sigip.png',
         'https://www.sigip.ch'
     ),
     (
-        'images/references/vsgis.png',
+        '/images/references/vsgis.png',
         'https://www.vsgis.ch'
     ),
     (
-        'images/references/kantonschwyz.png',
+        '/images/references/kantonschwyz.png',
         'https://map.geo.sz.ch'
     )
 ]
