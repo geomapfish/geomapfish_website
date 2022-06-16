@@ -133,3 +133,11 @@ Read the documentation:
 
 <br /><br />
 For a better overview between features and versions, please refer to the [feature page](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).
+
+---
+
+## Others
+
+### QGIS plugin
+
+* [GeoMapFish Locator](https://plugins.qgis.org/plugins/geomapfish_locator/): use the GeoMapFish full text search service in QGIS.
