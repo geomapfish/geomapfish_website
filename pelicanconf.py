@@ -29,11 +29,13 @@ PLUGINS = ['i18n_subsites']
 I18N_SUBSITES = {
     'fr': {
         'SITELOGO': '../images/brand/logo.png',
-        'FAVICON': '../images/brand/favicon.ico'
+        'FAVICON': '../images/brand/favicon.ico',
+        'SIDEBAR_IMAGES_HEADER': 'Références'
     },
     'de': {
         'SITELOGO': '../images/brand/logo.png',
-        'FAVICON': '../images/brand/favicon.ico'
+        'FAVICON': '../images/brand/favicon.ico',
+        'SIDEBAR_IMAGES_HEADER': 'Referenzen'
     }
 }
 
