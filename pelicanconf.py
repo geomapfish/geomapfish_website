@@ -52,71 +52,104 @@ AUTHOR_FEED_RSS = None
 DISABLE_SIDEBAR_TITLE_ICONS = True
 SIDEBAR_IMAGES_HEADER = 'References'
 SIDEBAR_IMAGES = [
-    (
+    [
+        '/images/references/aprona.png',
+        'https://carto.aprona.net',
+        "Aprona, l'observatoire de la nappe d'Alsace"
+    ],
+    [
         '/images/references/cartoriviera.png',
-        'https://map.cartoriviera.ch'
-    ),
-    (
+        'https://map.cartoriviera.ch',
+        "Géoportail cartographique de la Riviera"
+    ],
+    [
+        '/images/references/cartolacote.png',
+        'https://map.cartolacote.ch',
+        "Géoportail Cartolacôte"
+    ],
+    [
         '/images/references/cjl.png',
-        'https://map.cjl.ch'
-    ),
-    (
+        'https://map.cjl.ch',
+        "Géoportail du district de Morges"
+    ],
+    [
         '/images/references/saint-pierre.png',
-        'https://geo.saintpierre.re'
-    ),
-    (
+        'https://geo.saintpierre.re',
+        "Géoportail de Saint-Pierre"
+    ],
+    [
         '/images/references/jura.svg',
-        'https://geo.jura.ch'
-    ),
-    (
+        'https://geo.jura.ch',
+        "Géoportail du Système d'Information du Territoire Jurassien"
+    ],
+    [
         '/images/references/neuchatel.png',
-        'https://sitn.ne.ch'
-    ),
-    (
+        'https://sitn.ne.ch',
+        "Géoportail du Système d'Information du Territoire Neuchâtelois"
+    ],
+    [
         '/images/references/epfl.svg',
-        'https://geoportail.epfl.ch'
-    ),
-    (
+        'https://geoportail.epfl.ch',
+        "Géoportail EPFL"
+    ],
+    [
         '/images/references/mapnv.png',
-        'https://mapnv.ch'
-    ),
-    (
+        'https://mapnv.ch',
+        "Géoportail Nord Vaudois - Yverdon-les-Bains"
+    ],
+    [
         '/images/references/ticino.png',
-        'https://map.geo.ti.ch'
-    ),
-    (
+        'https://map.geo.ti.ch',
+        "Geoportale del Cantone Ticino"
+    ],
+    [
         '/images/references/basel-land.svg',
-        'https://geoview.bl.ch'
-    ),
-    (
+        'https://geoview.bl.ch',
+        "Geoview Basel Landschaft"
+    ],
+    [
         '/images/references/graubunden.png',
-        'https://map.geo.gr.ch'
-    ),
-    (
+        'https://map.geo.gr.ch',
+        "Graubünden Interaktive Karten"
+    ],
+    [
         '/images/references/nendaz.png',
-        'https://nendaz-geoportail.sig.cloud.camptocamp.net'
-    ),
-    (
+        'https://nendaz-geoportail.sig.cloud.camptocamp.net',
+        "Guichet cartographique de Nendaz"
+    ],
+    [
         '/images/references/mapbs.png',
-        'https://map.geo.bs.ch'
-    ),
-    (
+        'https://map.geo.bs.ch',
+        "MapBS Geoportal Kanton Basel-Stadt"
+    ],
+    [
         '/images/references/grand-chatellerault.png',
-        'https://carto.grand-chatellerault.fr'
-    ),
-    (
+        'https://carto.grand-chatellerault.fr',
+        "Portail Cartographique de l'Agglomération du Pays Châtelleraudais"
+    ],
+    [
         '/images/references/sigip.png',
-        'https://www.sigip.ch'
-    ),
-    (
+        'https://www.sigip.ch',
+        "Système d'Information Géographique Intercommunal de Pully et Belmont"
+    ],
+    [
         '/images/references/vsgis.png',
-        'https://www.vsgis.ch'
-    ),
-    (
+        'https://www.vsgis.ch',
+        "WebGIS der Walliser Gemeinden von RUDAZ+PARTNER SA/AG"
+    ],
+    [
         '/images/references/kantonschwyz.png',
-        'https://map.geo.sz.ch'
-    )
+        'https://map.geo.sz.ch',
+        "WebGIS Kanton Schwyz"
+    ],
+    [
+        '/images/references/geocommunes.png',
+        'http://www.geocommunes.ch/references/',
+        "Association GeoCommunes"
+        
+    ]
 ]
+
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing

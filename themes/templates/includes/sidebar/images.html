@@ -9,7 +9,7 @@
   <div id="links">
     {% for image in SIDEBAR_IMAGES %}
     <div class="mt-1">
-      <a href="{{ image[1] }}" target="_blank"><img width="100%" src="{{ image[0] }}"/></a>
+      <a href="{{ image[1] }}" target="_blank"><img width="100%" src="{{ image[0] }}" alt="{{ image[2] }}"/></a>
     </div>
     {% endfor %}
   </div>
