@@ -1,6 +1,6 @@
 Title: Community
 Date: 2018-05-16
-Modified: 2022-05-05
+Modified: 2022-06-16
 Author: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: community
 Save_as: community.html
@@ -92,3 +92,11 @@ The members agree on the following:
 * To benefit from developments by the openness of the code.
 * To share other members' experiences and problems regarding GMF.
 * To be at the heart of a network of members sharing similar needs and issues.
+
+### New features requests
+
+The following diagram explains the decision-making and prioritization process for new features requests:
+
+![workflow]({filename}/images/workflow.png)
+
+See this [feature request repository](https://github.com/camptocamp/GeoMapFish) for more information and to create or discuss enhancements for GeoMapFish.

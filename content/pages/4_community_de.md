@@ -1,6 +1,6 @@
 Title: Community
 Date: 2018-05-16
-Modified: 2022-05-05
+Modified: 2022-06-16
 Author: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: community
 Save_as: community.html
@@ -86,7 +86,6 @@ Die Mitglieder verpflichten sich, die folgenden Punkte zu respektieren:
 * Zur Entwicklung der GMF-Lösung im Rahmen ihrer finanziellen und / oder personellen Möglichkeiten beizutragen.
 * Regelmäßig an den organisierten Sitzungen teilzunehmen.
 
-
 ## Vorteile als Mitglied der Community
 
 * Teilnahme an der Definition der Roadmap für die Weiterentwicklungen von GMF.
@@ -95,3 +94,11 @@ Die Mitglieder verpflichten sich, die folgenden Punkte zu respektieren:
 * Von den Entwicklungen durch die Bereitstellung des Quellcodes zu profitieren.
 * Über die Erfahrungen und Probleme der anderen Mitgliedern informiert zu werden.
 * In ein Netzwerk von Mitgliedern mit ähnlichen Bedürfnissen und Problemen eingebunden zu sein.
+
+### Anfragen zu neuen Funktionen
+
+Das folgende Diagramm erläutert den Entscheidungsfindungs- und Priorisierungsprozess für Anfragen nach neuen Funktionen:
+
+![workflow]({filename}/images/workflow.png)
+
+Weitere Informationen und die Möglichkeit, Erweiterungen für GeoMapFish zu erstellen oder zu diskutieren, finden Sie in diesem [Feature Request Repository](https://github.com/camptocamp/GeoMapFish).
