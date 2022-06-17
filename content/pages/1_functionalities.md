@@ -131,9 +131,6 @@ Read the documentation:
 
 ### ![Functionalities description]({filename}/images/3_3_docker.png) Docker deployment
 
-<br /><br />
-For a better overview between features and versions, please refer to the [feature page](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).
-
 ---
 
 ## Others
@@ -141,3 +138,6 @@ For a better overview between features and versions, please refer to the [featur
 ### QGIS plugin
 
 * [GeoMapFish Locator](https://plugins.qgis.org/plugins/geomapfish_locator/): use the GeoMapFish full text search service in QGIS.
+
+<br /><br />
+For a better overview between features and versions, please refer to the [feature page](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).

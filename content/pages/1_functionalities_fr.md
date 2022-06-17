@@ -133,9 +133,6 @@ Les différents composants de GeoMapFish sont:
 
 ### ![Functionalities description]({filename}/images/3_3_docker.png) Déploiement Docker
 
-<br /><br />
-Une meilleure vue d'ensemble des fonctionnalités et versions est donnéee sur la [page des features](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).
-
 ---
 
 ## Autres
@@ -143,3 +140,6 @@ Une meilleure vue d'ensemble des fonctionnalités et versions est donnéee sur l
 ### plugin QGIS
 
 * [GeoMapFish Locator](https://plugins.qgis.org/plugins/geomapfish_locator/): utilise la fonctionnalité de recherche en texte intégral de GeoMapFish dans QGIS.
+
+<br /><br />
+Une meilleure vue d'ensemble des fonctionnalités et versions est donnéee sur la [page des features](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).

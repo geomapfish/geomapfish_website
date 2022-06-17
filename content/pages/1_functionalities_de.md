@@ -132,9 +132,6 @@ Die verschiedene GMF Komponenten:
 
 ### ![Functionalities description]({filename}/images/3_3_docker.png) Docker deployment
 
-<br /><br />
-Für einen besseren Überblick, gehen Sie bitte auf die [feature Seite](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).
-
 ---
 
 ## Andere
@@ -142,3 +139,6 @@ Für einen besseren Überblick, gehen Sie bitte auf die [feature Seite](https://
 ### QGIS Plugin
 
 * [GeoMapFish Locator](https://plugins.qgis.org/plugins/geomapfish_locator/): nutzt die full-text Suchfunktion von GeoMapFish in QGIS.
+
+<br /><br />
+Für einen besseren Überblick, gehen Sie bitte auf die [feature Seite](https://github.com/camptocamp/ngeo/blob/master/docs/features.md).
