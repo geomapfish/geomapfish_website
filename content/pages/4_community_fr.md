@@ -1,6 +1,6 @@
 Title: Communauté
 Date: 2018-05-16
-Modified: 2022-05-05
+Modified: 2022-06-16
 Author: Michael Kalbermatten, Rémi Bovard, Olivier Monod
 URL: community
 Save_as: community.html
@@ -93,3 +93,11 @@ Le membre s’engage à respecter les points ci-dessous :
 * Bénéficier des développements au travers de la mise à disposition du code source de la solution.
 * De partager les expériences et les problématiques de chacun.
 * Etre au cœur d’un réseau de membres partageant des besoins et problématiques semblables.
+
+### Demandes de nouvelles fonctionnalités
+
+Le schéma suivant décrit le processus de prise de décision et de priorisation des demandes de nouvelles fonctionnalités :
+
+![workflow]({filename}/images/workflow.png)
+
+Consultez ce [dépôt de demandes de fonctionnalités](https://github.com/camptocamp/GeoMapFish) pour plus d'informations et pour créer ou discuter d'améliorations pour GeoMapFish.
