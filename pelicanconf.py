@@ -29,11 +29,13 @@ PLUGINS = ['i18n_subsites']
 I18N_SUBSITES = {
     'fr': {
         'SITELOGO': '../images/brand/logo.png',
-        'FAVICON': '../images/brand/favicon.ico'
+        'FAVICON': '../images/brand/favicon.ico',
+        'SIDEBAR_IMAGES_HEADER': 'Références'
     },
     'de': {
         'SITELOGO': '../images/brand/logo.png',
-        'FAVICON': '../images/brand/favicon.ico'
+        'FAVICON': '../images/brand/favicon.ico',
+        'SIDEBAR_IMAGES_HEADER': 'Referenzen'
     }
 }
 
@@ -47,17 +49,106 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (
-    ('Twitter', 'https://twitter.com/GeoMapFish'),
-    ('GitHub', GITHUB_URL)
-)
+DISABLE_SIDEBAR_TITLE_ICONS = True
+SIDEBAR_IMAGES_HEADER = 'References'
+SIDEBAR_IMAGES = [
+    [
+        '/images/references/aprona.png',
+        'https://carto.aprona.net',
+        "Aprona, l'observatoire de la nappe d'Alsace"
+    ],
+    [
+        '/images/references/cartoriviera.png',
+        'https://map.cartoriviera.ch',
+        "Géoportail cartographique de la Riviera"
+    ],
+    [
+        '/images/references/cartolacote.png',
+        'https://map.cartolacote.ch',
+        "Géoportail Cartolacôte"
+    ],
+    [
+        '/images/references/cjl.png',
+        'https://map.cjl.ch',
+        "Géoportail du district de Morges"
+    ],
+    [
+        '/images/references/saint-pierre.png',
+        'https://geo.saintpierre.re',
+        "Géoportail de Saint-Pierre"
+    ],
+    [
+        '/images/references/jura.svg',
+        'https://geo.jura.ch',
+        "Géoportail du Système d'Information du Territoire Jurassien"
+    ],
+    [
+        '/images/references/neuchatel.png',
+        'https://sitn.ne.ch',
+        "Géoportail du Système d'Information du Territoire Neuchâtelois"
+    ],
+    [
+        '/images/references/epfl.svg',
+        'https://geoportail.epfl.ch',
+        "Géoportail EPFL"
+    ],
+    [
+        '/images/references/mapnv.png',
+        'https://mapnv.ch',
+        "Géoportail Nord Vaudois - Yverdon-les-Bains"
+    ],
+    [
+        '/images/references/ticino.png',
+        'https://map.geo.ti.ch',
+        "Geoportale del Cantone Ticino"
+    ],
+    [
+        '/images/references/basel-land.svg',
+        'https://geoview.bl.ch',
+        "Geoview Basel Landschaft"
+    ],
+    [
+        '/images/references/graubunden.png',
+        'https://map.geo.gr.ch',
+        "Graubünden Interaktive Karten"
+    ],
+    [
+        '/images/references/nendaz.png',
+        'https://nendaz-geoportail.sig.cloud.camptocamp.net',
+        "Guichet cartographique de Nendaz"
+    ],
+    [
+        '/images/references/mapbs.png',
+        'https://map.geo.bs.ch',
+        "MapBS Geoportal Kanton Basel-Stadt"
+    ],
+    [
+        '/images/references/grand-chatellerault.png',
+        'https://carto.grand-chatellerault.fr',
+        "Portail Cartographique de l'Agglomération du Pays Châtelleraudais"
+    ],
+    [
+        '/images/references/sigip.png',
+        'https://www.sigip.ch',
+        "Système d'Information Géographique Intercommunal de Pully et Belmont"
+    ],
+    [
+        '/images/references/vsgis.png',
+        'https://www.vsgis.ch',
+        "WebGIS der Walliser Gemeinden von RUDAZ+PARTNER SA/AG"
+    ],
+    [
+        '/images/references/kantonschwyz.png',
+        'https://map.geo.sz.ch',
+        "WebGIS Kanton Schwyz"
+    ],
+    [
+        '/images/references/geocommunes.png',
+        'https://www.geocommunes.ch/references/',
+        "Association GeoCommunes"
+        
+    ]
+]
 
 DEFAULT_PAGINATION = False
 

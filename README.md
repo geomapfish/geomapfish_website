@@ -9,7 +9,7 @@ works on *Linux*, but the commands might slightly differ.
 
 On *Windows*, you should:
 
-* Install *Python*
+* Install *Python 3.6*
 * Install *Git*
 
 ## Installation
