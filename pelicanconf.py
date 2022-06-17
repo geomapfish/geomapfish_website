@@ -144,7 +144,7 @@ SIDEBAR_IMAGES = [
     ],
     [
         '/images/references/geocommunes.png',
-        'http://www.geocommunes.ch/references/',
+        'https://www.geocommunes.ch/references/',
         "Association GeoCommunes"
         
     ]
