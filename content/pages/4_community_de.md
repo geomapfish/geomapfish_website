@@ -63,8 +63,8 @@ Die Benutzergruppe besteht aus Vertreter von folgenden Entitäten:
 * Kanton Graubünden
 * Kanton Jura
 * Kanton Neuenburg
+* Kanton Schwyz
 * Kanton Tessin
-* Kanton Thurgau
 * RUDAZ + PARTNER SA
 * Stadt Lausanne
 * Stadt Nendaz
