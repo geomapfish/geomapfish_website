@@ -1,7 +1,7 @@
 Title: Meetings
 Date: 2016-10-14
 Modified: 2020-11-23
-Author: Michael Kalbermatten, Rémi Bovard, Pauline Fanguin
+Authors: Michael Kalbermatten, Rémi Bovard, Pauline Fanguin
 URL: meetings
 Save_as: meetings.html
 Slug: 98_meetings
@@ -11,6 +11,10 @@ Status: hidden
 ## Meetings
 
 Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden sich die Entscheidungen / Bemerkungen des Meeting.
+
+### 2022
+
+* [Yverdon-les-Bains, 03.11.2022](meeting_minutes/2022-11-03)
 
 ### 2021
 
