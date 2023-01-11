@@ -14,7 +14,7 @@ Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden si
 
 ### 2022
 
-* [Yverdon-les-Bains, 24.11.2022](meeting_minutes/2022-11-03)
+* [Yverdon-les-Bains, 03.11.2022](meeting_minutes/2022-11-03)
 
 ### 2021
 
