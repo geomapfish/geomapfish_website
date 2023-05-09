@@ -12,6 +12,10 @@ Status: hidden
 
 Hier befindet sich die Liste der Meetings der Gruppe. In jeder Seite befinden sich die Entscheidungen / Bemerkungen des Meeting.
 
+### 2023
+
+* [Yverdon-les-Bains, 04.05.2023](meeting_minutes/2023-05-04)
+
 ### 2022
 
 * [Yverdon-les-Bains, 03.11.2022](meeting_minutes/2022-11-03)
